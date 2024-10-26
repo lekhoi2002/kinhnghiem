@@ -48,13 +48,6 @@
 @import "helpers/colored-links.scss";
 @import "helpers/display.scss";
 // ... các import khác ...
-@import "components/_category-description.scss";
-// Nếu cần style riêng cho dark mode
-.category-description-container {
-    .read-more-overlay {
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, var(--bs-dark) 100%);
-    }
-}
 // note: modified for dart-sass
 @if h.$import-fonts {
     @include meta.load-css(theme/fonts);

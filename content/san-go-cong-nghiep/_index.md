@@ -6,7 +6,7 @@ nested: true
 
 ## Sàn Gỗ Công Nghiệp Là Gì?
 
-Sàn gỗ công nghiệp là loại vật liệu lát sàn được sản xuất từ bột gỗ và các chất phụ gia, mang lại nhiều ưu điểm như độ bền cao, khả năng chống nước và giá thành hợp lý. Được xem là giải pháp thay thế hoàn hảo cho sàn gỗ tự nhiên, **sàn gỗ công nghiệp** không chỉ tiết kiệm chi phí mà còn dễ bảo trì, phù hợp với khí hậu Việt Nam. Với sự đa dạng về màu sắc và mẫu mã, **sàn gỗ công nghiệp** tạo ra không gian sống ấm cúng và sang trọng.
+[Sàn gỗ công nghiệp ](/san-go-cong-nghiep/)là loại vật liệu lát sàn được sản xuất từ bột gỗ và các chất phụ gia, mang lại nhiều ưu điểm như độ bền cao, khả năng chống nước và giá thành hợp lý. Được xem là giải pháp thay thế hoàn hảo cho sàn gỗ tự nhiên, **sàn gỗ công nghiệp** không chỉ tiết kiệm chi phí mà còn dễ bảo trì, phù hợp với khí hậu Việt Nam. Với sự đa dạng về màu sắc và mẫu mã, **sàn gỗ công nghiệp** tạo ra không gian sống ấm cúng và sang trọng.
 
 ## Cấu Tạo Của Sàn Gỗ Công Nghiệp
 
