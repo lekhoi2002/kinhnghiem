@@ -1,0 +1,17 @@
+# toml-docs-start lang-main
+[vi]
+    languageName = "Tiếng Việt"
+    contentDir = "content"
+    weight = 1
+# toml-docs-end lang-main
+# toml-docs-start lang-param
+    [vi.params.head]
+        tagline = "A Hugo Theme"
+    [vi.params.social]
+        title = "Kho Sàn Gỗ Nhập Khẩu"
+        caption = "Hotline / zalo : 0966171436"
+    [vi.params.footer]
+        license = " Licensed under Creative Commons "
+# toml-docs-end lang-param
+
+
