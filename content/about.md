@@ -1,10 +1,10 @@
 ---
 title: About
-description: Myrthos is a personal site devoted to my electronics and software projects, photography and other tech stuff
+description: 
 date: 2023-07-24
 lastmod: 2023-08-15
 showComments: false
-thumbnail: /img/about.jpg
+thumbnail: 
 ---
 
 ## TL;DR  

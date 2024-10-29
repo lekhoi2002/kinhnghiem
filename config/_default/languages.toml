@@ -6,10 +6,10 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [vi.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "Kinh Nghiệm Hay, Mẹo Vặt"
     [vi.params.social]
-        title = "Kho Sàn Gỗ Nhập Khẩu"
-        caption = "Hotline / zalo : 0966171436"
+        title = "Kết Nối với Chúng Tôi"
+        caption = ""
     [vi.params.footer]
         license = " Licensed under Creative Commons "
 # toml-docs-end lang-param
