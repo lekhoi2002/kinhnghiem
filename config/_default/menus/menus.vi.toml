@@ -4,13 +4,13 @@
   weight = 10
 
 [[main]]
-  name = "Sàn Gỗ"
-  pageRef = "/"
+  name = "Nuôi dạy Con"
+  pageRef = "/docs/"
   weight = 20
 
 [[main]]
-  name = "Sàn Xương Cá"
-  pageRef = "/"
+  name = "PC"
+  pageRef = "/pc/"
   weight = 30
 
 [[main]]
