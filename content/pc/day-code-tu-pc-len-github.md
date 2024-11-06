@@ -34,7 +34,12 @@ modules: ""
    ```bash
    cd C:\path\to\your\project
    ```
-
+3. Đăng nhập vào github :
+ Mở Command Prompt hoặc PowerShell
+   ```bash
+     git config --global user.email "email@gmail.com"
+  git config --global user.name "your user name"
+   ```
 ### Bước 4: Khởi tạo Git trong thư mục dự án
 
 Nếu thư mục dự án chưa được khởi tạo là một kho lưu trữ Git, hãy chạy lệnh sau:
