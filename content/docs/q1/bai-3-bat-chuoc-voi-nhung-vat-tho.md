@@ -1,8 +1,7 @@
 ---
-title: Commands
-description: Use npm commands to automate the build process and to keep track of dependencies.
+title: BÀI 3 BẮT CHƯỚC NHỮNG HOẠT ĐỘNG VỚI VẬT THÔ
+description: 
 date: 2023-08-03
-layout: docs
 ---
 
 

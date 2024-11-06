@@ -1,10 +1,8 @@
 ---
-title: Commands
-description: Use npm commands to automate the build process and to keep track of dependencies.
+title: BÀI 7 Dạy CÁC BỘ PHẬN CƠ THỂ
+description: 
 date: 2023-08-03
-layout: docs
 ---
-```markdown
 **BÀI 7 CÁC BỘ PHẬN CƠ THỂ**  
 *(để nhớ và có ý nghĩa)*
 
