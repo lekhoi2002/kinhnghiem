@@ -5,67 +5,13 @@
 
 [[main]]
   name = "Nuôi dạy Con"
-  pageRef = "/docs/"
+  pageRef = "/tre-tho/"
   weight = 20
 
 [[main]]
   name = "PC"
   pageRef = "/pc/"
   weight = 30
-
-[[main]]
-  name = "Chủng Loại"
-  weight = 40
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Đức"
-  pageRef = "/"
-  weight = 41
-
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Malaysia"
-  pageRef = "/"
-  weight = 42
-
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Thái Lan"
-  pageRef = "/"
-  weight = 43
-
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Việt Nam"
-  pageRef = "/"
-  weight =44
-  
-[[main]]
-  parent = "Chủng Loại"
-  name = "/"
-  pageRef = "/"
-  weight =45
-
-[[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Giá Rẻ"
-  pageRef = "/"
-  weight =46
-
-[[main]]
-  name = "Phụ Kiện"
-  pageRef = "/"
-  weight = 50
-
-[[main]]
-  name = "Tư Vấn"
-  pageRef = "/"
-  weight = 60
-
-[[main]]
-  name = "Dự Án"
-  pageRef = "/"
-  weight = 70
 
 [[main]]
   name = "Liên Hệ"
@@ -90,66 +36,3 @@
   url = "https://x.com/"
   weight = 30
 
-[[footer]]
-  name = "Menu"
-  weight = 10
-
-[[footer]]
-  parent = "Menu"
-  name = "Home"
-  pageRef = "/"
-  weight = 11
-
-[[footer]]
-  parent = "Menu"
-  name = "Sàn Xương Cá"
-  pageRef = "/"
-  weight = 13
-
-[[footer]]
-  parent = "Menu"
-  name = "Sàn Đức"
-  pageRef = "/"
-  weight = 14
-
-[[footer]]
-  parent = "Menu"
-  name = "Sàn Chịu Nước"
-  pageRef = "/"
-  weight = 15
- 
-[[footer]]
-  parent = "Menu"
-  name = "Sàn Giá Rẻ"
-  pageRef = "/"
-  weight = 16
-
-[[footer]]
-  name = "Links"
-  weight = 20
-  
-[[footer]]
-  parent = "Links"
-  name = "Khuyến Mãi"
-  pageRef = "/"
-
-[[footer]]
-  parent = "Links"
-  name = "Tư Vấn"
-  pageRef = "/"
- 
-[[footer]]
-  parent = "Links"
-  name = "Nhà Đẹp"
-  pageRef = "/"
-  
-
-[[footer]]
-  name = "Chính Sách"
-  weight = 30
-
-  [[footer]]
-  parent = "Chính Sách"
-  name = "Bảo Mật"
-  url = "chinh-sach/chinh-sach-bao-mat"
-  weight = 31

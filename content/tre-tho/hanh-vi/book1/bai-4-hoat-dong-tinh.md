@@ -11,7 +11,6 @@ Ngồi trên ghế đối diện với trẻ tạo sự tập trung chú ý. B�
 ### Điều kiện trước tiên: 
 Ngồi lên ghế và bắt chước những hoạt động vận động thô.
 
-
 **Gợi ý cách dạy**: Hướng dẫn cụ thể chân tay để trẻ bắt chước lại.
 
 | Chỉ dẫn: "Hãy làm như thế này" | Khả năng bắt chước của trẻ | Ngày hướng dẫn | Ngày trẻ tiếp thu được |

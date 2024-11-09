@@ -32,7 +32,9 @@
     {{- if not $title }}{{ $title = .Title }}{{ end -}}
     {{- if not $href }}{{ $href = .RelPermalink  }}{{ end -}}
     {{- if not $content }}{{ $content = .Content }}{{ end -}}
-    {{- if not $thumbnail }}{{ $thumbnail = (or (and (reflect.IsMap .Params.Thumbnail) .Params.Thumbnail.url) .Params.Thumbnail) }}{{ end -}}
+    {{- if not $thumbnail }}
+        {{ if reflect.IsMap .Params.Thumbnail }}{{ $thumbnail = .Params.Thumbnail.url }}{{ else }}{{ $thumbnail = .Params.Thumbnail }}{{ end }}
+    {{ end -}}
 {{- end -}}
 
 {{- $class := .class -}}
@@ -43,7 +45,7 @@
 {{- $rel := "" -}}
 {{- if and $isExternal $tab -}}
     {{- $target = "_blank" -}}
-    {{- $rel = "noopener noreferrer" -}}
+    {{- $rel = "noopener noreferrer nofollow" -}}
 {{- end -}}
 
 <!-- Inline partial to render the card's body -->

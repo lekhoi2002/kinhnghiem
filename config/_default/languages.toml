@@ -6,12 +6,13 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [vi.params.head]
-        tagline = "Kinh Nghiệm Hay, Mẹo Vặt"
+        tagline = "Uy Tín Chất Lượng"
     [vi.params.social]
-        title = "Kết Nối với Chúng Tôi"
-        caption = ""
-    [vi.params.footer]
-        license = " Licensed under Creative Commons "
+        title = "Follow us"
+        caption = "Hotline / zalo : 0966171436"
 # toml-docs-end lang-param
-
+    [vi.params.sections.posts]
+        reference = "Xem Tất Cả Bài Viết"
+        [vi.params.sections.tre-tho]
+        reference = "Xem Tất Cả Bài Viết"
 

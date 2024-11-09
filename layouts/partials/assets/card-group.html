@@ -49,6 +49,11 @@
     "5" (printf "(min-width: %s) 20vw, (min-width: %s) 33.3vw, 100vw" $breakpoint.currentSize $breakpoint.prevSize)
 }}
 
+{{ if not $args.responsive }}
+    {{ $colsMap = dict  "auto" "" "1" "row-cols-1" "2" "row-cols-2" "3" "row-cols-3" "4" "row-cols-4" "5" "row-cols-5" }}
+    {{ $sizesMap = dict "auto" "100vw" "1" "100vw" "2" "50vw" "3" "33.3vw" "4" "25vw" "5" "20vw" }}
+{{ end }}
+
 <!-- Apply optional pagination -->
 {{ $isPages := in (slice "page.Pages" "resource.Resources") (printf "%T" $list) }}
 {{ $paginator := "" }}
@@ -58,7 +63,7 @@
     {{ else }}
         {{ $paginator = $args.page.Paginate $list }}
     {{ end }}
-    {{ $list = first $paginator.PageSize (after (mul (sub $paginator.PageNumber 1) $paginator.PageSize) $list) }}
+    {{ $list = first $paginator.PagerSize (after (mul (sub $paginator.PageNumber 1) $paginator.PagerSize) $list) }}
 {{ end }}
 
 <!-- Initialize list elements -->
@@ -71,7 +76,8 @@
             {{- $params = merge $params (dict "path" $element.File.Path) -}}
         <!-- headless page -->
         {{- else -}}
-            {{- $thumbnail := (or (and (reflect.IsMap $element.Params.Thumbnail) $element.Params.Thumbnail.url) $element.Params.Thumbnail) -}}
+            {{- $thumbnail := "" -}}
+            {{ if reflect.IsMap $element.Params.Thumbnail }}{{ $thumbnail = $element.Params.Thumbnail.url }}{{ else }}{{ $thumbnail = $element.Params.Thumbnail }}{{ end }}
             {{- $anchor := (or (and (reflect.IsMap $element.Params.Thumbnail) $element.Params.Thumbnail.anchor) "") -}}
             {{- $params = merge $params (dict
                 "title" $element.Title
@@ -102,7 +108,7 @@
 {{- $colGrid := "" -}}
 {{ if not $args.scroll }}
     {{ $colGrid = index $colsMap $args.cols }}
-    {{ if $args.responsive }}{{ $sizes = index $sizesMap $args.cols }}{{ end }}
+    {{ $sizes = index $sizesMap $args.cols }}
 {{ else }}
     {{ if in (slice "2" "3" "4" "5") $args.cols }}
         {{ $sizes = replace (printf "%.1fvw" (div 100.0 (int $args.cols))) ".0" "" }}
@@ -137,7 +143,7 @@
                     "style" $args.style
                     "align" $args.align
                     "button" $args.button
-                    "buttonLabel" $args.buttonLabel
+                    "buttonLabel" $element.buttonLabel
                     "buttonType" $args.buttonType
                     "iconRounded" $args.iconRounded
                 ) -}}

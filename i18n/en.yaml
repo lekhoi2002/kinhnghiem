@@ -41,8 +41,6 @@
   translation: "Dutch"
 - id: lang_fr
   translation: "French"
-- id: lang_vi
-  translation: "Vietnamese"
 
 # Sharing
 - id: shareLink
@@ -163,3 +161,7 @@
   translation: Tip
 - id: warning
   translation: Warning
+
+# Image
+- id: image
+  translation: image

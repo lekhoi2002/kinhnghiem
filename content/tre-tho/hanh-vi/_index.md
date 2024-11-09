@@ -1,5 +1,5 @@
 ---
 author: Khôi Lê
-title: Tài Liệu Hành Vi
+title: Hành Vi
 nested: true
 ---

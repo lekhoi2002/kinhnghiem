@@ -1,15 +1,17 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Kho Ván Sàn Gỗ Nhập Khẩu uy tín và lớn nhất khu vực miền bắc."
+    description = "Kinh Nghiệm , Mẹo Vặt Hữu ích"
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
-    endorse = false
+    endorse = true
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
+    [main.internalLinks]
+        validate = true
     [main.externalLinks]
         cue = true
         tab = true
@@ -53,14 +55,10 @@
     release = "https://github.com//hinode/releases/tag/"
     checkVersion = false
 # toml-docs-end docs
-# toml-docs-start modules
-[modules]
-    optional = ["mgallery"]
-# toml-docs-end modules
 
 # toml-docs-start home
 [home]
-    sections = ["san-go-cong-nghiep", "features", "gallery"]
+    sections = ["tre-tho"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -80,7 +78,7 @@
     overlay = false
     overlayMode = "dark"
     horizontal = false
-    offset = "5rem"
+    offset = "5.5rem"
     search = true
     searchModal = false
     breadcrumb = true
@@ -134,34 +132,14 @@
 # toml-docs-end sharing
 
 # toml-docs-start sections
-# [sections]
-    [sections.features]
-        title = "Bring your static site to a new level"
-        layout = "list"
-        sort = "weight"
-        reverse = false
-        style = "justify-content-center"
-    [sections.san-go-cong-nghiep]
-        title = "Sàn Gỗ Công Nghiệp"
+  [sections]
+    [sections.tre-tho]
+        title = "trẻ thơ"
         layout = "card"
         sort = "weight"
         reverse = true
         background = ""
         color = "body"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
-    [sections.gallery]
-        title = "Sàn Gỗ Công Nghiệp"
-        layout = "card"
-        sort = "date"
-        reverse = true
-        background = ""
-        color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
         cols = 3
         padding = "3"
@@ -205,13 +183,13 @@
     locale = "vn-VN"
     # twitter = "https://twitter.com/"
     # linkedIn = ""
-    github = "https://github.com//hinode"
+    github = "https://github.com/"
     section = "blog"
     [schema.author]
-        name = "Khôi Lê"
-        # twitter = "https://twitter.com/"
-        linkedin = "https://www.linkedin.com/in/"
-        github = "https://github.com/"
+        name = "Khoi Le"
+        # twitter = "https://twitter.com/khoile2002"
+        linkedin = "https://www.linkedin.com/in/khoile2002/"
+        github = "https://github.com/khoile2002"
     [schema.logo]
         url = "img/logo512x512.png"
         width = 512
@@ -224,7 +202,41 @@
 [opengraph]
     images = ["logo.png"]
     locale = "vn_VN"
-[assets]
-  js = ["js/danhmuc.js"]
+
 [links]
     hinode = "https://kinhnghiemso.vn"
+
+# toml-docs-start headers
+[headers]
+  [headers.netlify]
+    source = "netlify.toml"
+# toml-docs-end headers
+
+# toml-docs-start csp
+[modules.hinode.csp]
+    style-src = ["www.youtube.com"]
+    font-src = ["fonts.gstatic.com"]
+    frame-src = [
+        "player.cloudinary.com",
+        "www.youtube-nocookie.com",
+        "www.youtube.com"
+    ]
+    img-src = [
+        "data:",
+        "*.imgix.net",
+        "*.imagekit.io",
+        "*.cloudinary.com",
+        "i.ytimg.com"
+    ]
+# toml-docs-end csp
+
+[modules.vimeo]
+    local = true
+    integration = "optional"
+    state = "async"
+    url = "https://player.vimeo.com/api/player.js"
+
+[modules.vimeo.csp]
+    frame-src = ["player.vimeo.com"]
+    img-src = ["i.vimeocdn.com"]
+    script-src = ["player.vimeo.com"]
