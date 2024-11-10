@@ -1,41 +1,74 @@
 ---
-title: BÀI 9 DẠY BẰNG TRANH ẢNH
+title: Bài 9 Dạy Bằng Tranh Ảnh - Dễ Nhớ Và Có Ý Nghĩa
 description: 
 date: 2023-08-03
 ---
-# BÀI 9: DẠY BẰNG TRANH ẢNH
-*(Dễ nhớ và có ý nghĩa)*
 
-**Các bước dạy trẻ:**
-(1) **Nhận biết tranh**: Đặt bức tranh lên bàn trước mặt trẻ. Tạo sự tập trung chú ý và bảo trẻ "Hãy chỉ vào ___(tên của vật trong tranh)". Nhắc trẻ chỉ vào bức tranh và khen thưởng việc làm theo chỉ dẫn của trẻ.
+## Mục Tiêu Của Bài Viết
 
-(2) **Nói tên các bức tranh**: Ngồi trên ghế đối diện với trẻ. Tạo sự tập trung chú ý và đưa ra 1 bức tranh cho trẻ nhìn. Hỏi trẻ "Đây là cái gì?". Nhắc trẻ nói tên bức tranh đó và khen thưởng việc trả lời của trẻ.
+Mục tiêu của bài viết này là giúp các bậc phụ huynh hoặc giáo viên hướng dẫn trẻ nhận biết và gọi tên các đồ vật thông qua tranh ảnh. Việc này không chỉ giúp trẻ phát triển khả năng nhận diện các đồ vật quen thuộc mà còn hỗ trợ trẻ tăng cường kỹ năng giao tiếp, khả năng nhận thức và sự tự tin.
 
-**Trong mỗi bước 1 và 2**: Bạn hãy gợi ý trẻ ít dần đi trong các lần dạy tiếp theo. Trẻ thực hiện việc làm theo chỉ dẫn hoặc trả lời bạn bằng cách khác nhau với sự hỗ trợ ở mức thấp nhất. Cuối cùng chỉ khen thưởng những lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần nhắc.
+## Phương Pháp Hướng Dẫn Trẻ
 
-**Giáo cụ**: Tranh ảnh các đồ vật.
+### Nhận Biết Tranh
 
-**Điều kiện trước tiên**:
-(1) Kết hợp những bức tranh để nhận biết.
-(2) Làm theo 10-15 chỉ dẫn từng bước một và có thể nhận biết 10-15 đồ vật.
+Đặt bức tranh lên bàn trước mặt trẻ, tạo sự tập trung chú ý và bảo trẻ: "Hãy chỉ vào ___ (tên của vật trong tranh)". Hãy nhắc trẻ chỉ vào đúng bức tranh và khen thưởng khi trẻ làm đúng.
 
-**Gợi ý cách dạy**:
-(1) Hướng dẫn cụ thể chân tay trẻ để trẻ chỉ vào bức tranh.
-(2) Làm mẫu gọi tên bức tranh.
-# 14
+- Ban đầu, hãy gợi ý nhiều để trẻ hiểu và thực hiện đúng.
+- Giảm dần sự gợi ý trong những lần dạy tiếp theo để trẻ tự thực hiện nhiều hơn.
+- Cuối cùng, chỉ khen thưởng khi trẻ làm đúng mà không cần nhắc nhở.
 
-| Chỉ dẫn(1) "Chỉ vào__"(2) "Đây là cái gì" | Khả năng đáplại của trẻ(1) Chỉ vào đúng bức tranh(2) Gọi tên bức tranh đó |  |  | Ngàyhướngdẫn | Ngàytrẻ tiếpthuđược |
-|---|---|---|---|---|---|
-| 1. |  |  |  |  |  |
-| 2. |  |  |  |  |  |
-| 3. |  |  |  |  |  |
-| 4. |  |  |  |  |  |
-| 5. |  |  |  |  |  |
-| 6. |  |  |  |  |  |
-| 7. |  |  |  |  |  |
-| 8. |  |  |  |  |  |
-| 9. |  |  |  |  |  |
-| 10. |  |  |  |  |  |
-| 11. |  |  |  |  |  |
+### Gọi Tên Các Bức Tranh
 
-*Gợi ý bổ trợ*: Bắt đầu với những bức tranh đồ vật mà trẻ đã học cách nhận dạng. Những bức tranh đó bề ngoài phải dễ dàng nhận thấy (ví dụ bức tranh quả táo phải là quả táo đứng một mình khác hẳn với quả táo ở trên cây). Ảnh của đồ vật mà có liên quan tới trẻ, như 1 bức tranh chụp chiếc giường của trẻ, hoặc một bức ảnh đôi giày của trẻ, sẽ giúp trẻ tăng khả năng hệ thống nhận thức.
+Ngồi đối diện với trẻ, tạo sự tập trung chú ý và đưa ra một bức tranh cho trẻ nhìn. Hỏi trẻ: "Đây là cái gì?". Nhắc trẻ nói tên bức tranh đó và khen thưởng khi trẻ trả lời đúng.
+
+- Ban đầu, bạn có thể gợi ý và làm mẫu để trẻ hiểu.
+- Giảm thiểu sự gợi ý dần dần để trẻ có thể tự trả lời.
+- Khen thưởng khi trẻ tự tin trả lời đúng mà không cần sự giúp đỡ.
+
+### Điều Kiện Trước Tiên
+
+- Trẻ cần có khả năng kết hợp và nhận biết các bức tranh khác nhau.
+- Trẻ đã có thể làm theo 10-15 chỉ dẫn từng bước một và nhận biết 10-15 đồ vật.
+
+## Giáo Cụ Cần Thiết
+
+Tranh ảnh của các đồ vật quen thuộc và có ý nghĩa đối với trẻ, ví dụ như đồ chơi, vật dụng hàng ngày hoặc những đồ vật mà trẻ có thể dễ dàng nhận ra.
+
+## Gợi Ý Cách Dạy
+
+### Hướng Dẫn Cụ Thể
+
+- **Làm Mẫu Chỉ Dẫn:** Hướng dẫn trẻ bằng cách đặt tay trẻ vào đúng bức tranh và bảo trẻ chỉ vào bức tranh đó.
+- **Làm Mẫu Câu Trả Lời:** Đưa ra bức tranh và làm mẫu câu trả lời đúng để trẻ có thể bắt chước.
+
+## Các Chỉ Dẫn Từng Bước Một
+
+| Chỉ dẫn                   | Khả năng đáp lại của trẻ                                             | Ngày hướng dẫn | Ngày trẻ tiếp thu được |
+|---------------------------|----------------------------------------------------------------------|----------------|--------------------------|
+| (1) "Chỉ vào ___"         | (1) Chỉ vào đúng bức tranh                                          |                |                          |
+| (2) "Đây là cái gì?"      | (2) Gọi tên bức tranh đó                                           |                |                          |
+|                           | (1) (2) (3)                                                         |                |                          |
+| 1. Quả táo                |                                                                      |                |                          |
+| 2. Con chó                |                                                                      |                |                          |
+| 3. Cái xe                 |                                                                      |                |                          |
+| 4. Cái ghế                |                                                                      |                |                          |
+| 5. Con mèo                |                                                                      |                |                          |
+| 6. Bông hoa               |                                                                      |                |                          |
+| 7. Đôi giày               |                                                                      |                |                          |
+| 8. Bút chì                |                                                                      |                |                          |
+| 9. Sách                   |                                                                      |                |                          |
+| 10. Cái cốc               |                                                                      |                |                          |
+| 11. Con gấu bông          |                                                                      |                |                          |
+
+## Gợi Ý Bổ Trợ
+
+- **Bắt Đầu Với Những Bức Tranh Quen Thuộc:** Bắt đầu với những bức tranh đồ vật mà trẻ đã từng học cách nhận dạng. Những bức tranh này cần dễ nhận biết và rõ ràng (ví dụ: bức tranh quả táo nên là quả táo đơn lẻ, không bị che lấp).
+- **Liên Quan Đến Cuộc Sống Hàng Ngày:** Sử dụng những bức tranh liên quan đến đồ vật quen thuộc trong cuộc sống của trẻ, như chiếc giường, đôi giày, hay đồ chơi yêu thích, giúp trẻ dễ liên hệ và nhớ lâu hơn.
+- **Âm Thanh Khác Nhau:** Chọn những đồ vật có tên gọi phát âm khác biệt để tránh gây nhầm lẫn cho trẻ (ví dụ: không nên dạy từ "cá" và "rá" cùng lúc).
+- **Kết Hợp Hành Động:** Nếu trẻ gặp khó khăn trong việc nhận biết tranh, hãy kết hợp với hành động cụ thể như yêu cầu trẻ lấy hoặc di chuyển đồ vật đó, sau đó dần chuyển sang chỉ yêu cầu trẻ chỉ vào hoặc gọi tên.
+
+## Kết Luận
+
+Việc dạy trẻ nhận biết và gọi tên các bức tranh không chỉ giúp trẻ phát triển khả năng ngôn ngữ mà còn kích thích tư duy và tăng cường khả năng nhận thức. Bằng cách sử dụng các bức tranh quen thuộc và dễ hiểu, đồng thời tạo ra môi trường học tập vui vẻ và động viên trẻ, bạn sẽ giúp trẻ tiến bộ một cách tự tin và hiệu quả. Hãy nhớ rằng, kiên nhẫn và động viên tích cực từ phía bạn luôn là yếu tố quan trọng để trẻ có thể học hỏi và phát triển tốt hơn.
+

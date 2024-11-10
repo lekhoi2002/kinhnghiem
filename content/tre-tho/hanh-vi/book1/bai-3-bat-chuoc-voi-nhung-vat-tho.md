@@ -3,45 +3,56 @@ title: BÀI 3 BẮT CHƯỚC NHỮNG HOẠT ĐỘNG VỚI VẬT THÔ
 description: 
 date: 2023-08-03
 ---
+# Bài Viết: Can Thiệp Tâm Lý và Hành Vi Trẻ em
 
+## Mục Tiêu Bài Viết
+Bài viết nhằm giúp cha mẹ và giáo viên hiểu rõ quy trình hướng dẫn trẻ em thực hành các hoạt động bắt chước với vật thô, nhằm tăng cường sự phát triển hành vi tích cực và khả năng giao tiếp.
 
-## BÀI 3: BẮT CHƯỚC NHỮNG HOẠT ĐỘNG VỚI VẬT THÔ
+## Hướng Dẫn Các Bước Dạy Trẻ
 
-### Các bước dạy trẻ:
-* Để 2 đồ vật giống hệt nhau lên bàn. Ngồi ngang với bàn đối diện trẻ. Thu hút sự chú ý của trẻ. Bảo trẻ "làm như thế này" trong khi đồng thời làm mẫu 1 hành động với một trong 2 đồ vật trên. Nhắc trẻ làm động tác giống như bạn với đồ vật kia và tăng cường khả năng bắt chước của trẻ. Trẻ thể hiện sự bắt chước khác nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng những lần trẻ bắt chước đúng mà không cần nhắc.
-* Vật liệu: Các vật để thực hiện hành động.
-* Điều kiện trước tiên: Ngồi lên ghế.
-* Gợi ý cách dạy: Hướng dẫn cụ thể chân tay để trẻ bắt chước lại.
+### Chuẩn Bị
+- **Vật Liệu**: Các đồ vật để thực hiện các hoạt động.
+- **Điều Kiện Trước Tiên**: Trẻ ngồi trên ghế.
+- **Gợi Ý Cách Dạy**: Hướng dẫn cụ thể chân tay để trẻ có thể bắt chước dễ dàng.
+
+### Các Bước Thực Hành
+- **Bước 1**: Đặt hai đồ vật giống nhau trên bàn. Ngồi đối diện với trẻ để tạo sự tập trung.
+- **Bước 2**: Dùng câu lệnh “Hãy làm như thế này” và làm mẫu một hành động với một trong hai đồ vật.
+- **Bước 3**: Khuyến khích trẻ thực hiện động tác giống bạn với đồ vật còn lại.
+- **Bước 4**: Giam mức độ hỗ trợ và chỉ khen thưởng những lần trẻ thực hiện đúng mà không cần nhắc.
+
+## Bảng Hướng Dẫn Thực Hành
 
 | Chỉ dẫn: "Hãy làm như thế này" | Khả năng bắt chước của trẻ | Ngày hướng dẫn | Ngày trẻ tiếp thu được |
 |--------------------------------|---------------------------|----------------|---------------------|
-| | (1) (2) (3) | | |
-| 1. Để các hình khối vào rổ | | | |
+| 1. Đặt hình khối vào rổ | (1) (2) (3) | | |
 | 2. Rung chuông | | | |
 | 3. Đẩy đồ chơi ô tô | | | |
 | 4. Vẫy cờ | | | |
 | 5. Đánh trống | | | |
 | 6. Đội mũ | | | |
 | 7. Viết nguệch ngoạch | | | |
-| 8. Lau mốm | | | |
+| 8. Lau mặt | | | |
 | 9. Nện búa đồ chơi | | | |
+
+### Danh Sách Hoạt Động Khác
 
 | Chỉ dẫn "Hãy làm như thế này" | Khả năng bắt chước của trẻ | Ngày hướng dẫn | Ngày trẻ tiếp thu được |
 |--------------------------------|---------------------------|----------------|---------------------|
-| | (1) (2) (3) | | |
-| 10. | | | |
-| 11. Cho búp bê ăn | | | |
-| 12. Cầm điện thoại để nghe | | | |
-| 13. Uống nước | | | |
-| 14. Thổi còi | | | |
-| 15. Chải tóc | | | |
-| 16. Tạo ra các hành động với búp bê | | | |
-| 17. | | | |
-| 18. Xếp đồng xu thành đống | | | |
-| 19. Hôn búp bê | | | |
-| 20. Dán tem vào giấy | | | |
+| 10. Cho búp bê ăn | | | |
+| 11. Cầm điện thoại để nghe | | | |
+| 12. Uống nước | | | |
+| 13. Thổi còi | | | |
+| 14. Chải tóc | | | |
+| 15. Tạo ra các hành động với búp bê | | | |
+| 16. Xếp đồng xu thành đống | | | |
+| 17. Hôn búp bê | | | |
+| 18. Dán tem vào giấy | | | |
 
-**Gợi ý bổ trợ:** Dạy trẻ những hành động bắt chước có liên quan đến chơi mà trẻ thích
+## Gợi Ý Bổ Trợ
+Dạy trẻ những hành động bắt chước có liên quan đến chơi mà trẻ thích
+
+
 
 
 

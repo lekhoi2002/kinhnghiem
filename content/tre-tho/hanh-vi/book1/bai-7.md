@@ -3,30 +3,49 @@ title: BÀI 7 Dạy CÁC BỘ PHẬN CƠ THỂ
 description: 
 date: 2023-08-03
 ---
-**BÀI 7 CÁC BỘ PHẬN CƠ THỂ**  
-*(để nhớ và có ý nghĩa)*
+## Mục Tiêu Của Bài Viết
 
-### Các bước dạy trẻ:
-(1) **Nhận thức các bộ phận của cơ thể:**  
-Ngồi lên, ghé đối diện với trẻ và tạo sự tập trung chú ý vào bảo trẻ "Hãy chỉ vào bộ phận _(bộ phận cơ thể)_". Nhắc trẻ chỉ vào đúng bộ phận trên cơ thể trẻ và khen thưởng việc làm theo chỉ dẫn của trẻ.
+Mục tiêu của bài viết là giúp các bậc phụ huynh hoặc giáo viên hướng dẫn trẻ nhận thức và ghi nhớ các bộ phận cơ thể thông qua các hoạt động tương tác. Bài viết này sẽ giúp trẻ phát triển khả năng nhận diện và gọi tên các bộ phận cơ thể, đồng thời tăng cường khả năng giao tiếp và sự tự tin.
 
-(2) **Đọc lên các bộ phận của cơ thể:**  
-Ngồi trên ghế đối diện với trẻ và tạo sự tập trung chú ý. Chỉ vào một bộ phận trên cơ thể bạn và hỏi trẻ: "Đây là cái gì?". Nhắc trẻ nói tên bộ phận đó và khen thưởng việc trả lời của trẻ.
+## Phương Pháp Hướng Dẫn Trẻ
 
-*Trong mỗi bước 1 và 2:*  
-Bạn hãy gợi ý trẻ ít dẫn dần trong các lần dạy tiếp theo. Trẻ thực hiện việc làm theo chỉ dẫn hoặc trả lời đúng bằng các cách khác nhau với sự hồi trợ ở mức thấp nhất. Cuối cùng chỉ khen thưởng những lần trẻ làm đúng theo lời chỉ dẫn hoặc trả lời đúng mà không cần nhắc.
+### Nhận Thức Các Bộ Phận Của Cơ Thể
 
-### Điều kiện trước tiên:
-1. Làm theo 5 chỉ dẫn từng bước một.
-2. Nhận biết các bộ phận cơ thể và gọi tên các đồ vật quen thuộc.
+Ngồi đối diện với trẻ và tạo sự tập trung chú ý. Bảo trẻ "Hãy chỉ vào bộ phận _(bộ phận cơ thể)_", nhắc trẻ chỉ vào đúng bộ phận trên cơ thể mình và khen thưởng khi trẻ thực hiện đúng.
 
-### Gợi ý cách dạy:
-(1) Làm mẫu chỉ dẫn hoặc hướng dẫn cụ thể chân tay trẻ để trẻ chạm tay vào các bộ phận trên cơ thể.  
-(2) Làm mẫu các câu trả lời đúng.
+- Ban đầu, hãy dùng nhiều gợi ý để giúp trẻ chỉ đúng bộ phận.
+- Giảm dần sự gợi ý trong những buổi học tiếp theo để trẻ tự thực hiện nhiều hơn.
+- Cuối cùng, chỉ khen thưởng khi trẻ làm đúng mà không cần nhắc nhở.
+
+### Đọc Lên Các Bộ Phận Của Cơ Thể
+
+Ngồi đối diện với trẻ và tạo sự tập trung chú ý. Chỉ vào một bộ phận trên cơ thể bạn và hỏi trẻ: "Đây là cái gì?". Nhắc trẻ nói tên bộ phận đó và khen thưởng khi trẻ trả lời đúng.
+
+- Ban đầu, bạn có thể gợi ý và làm mẫu để trẻ hiểu.
+- Dần dần, giảm thiểu sự gợi ý để trẻ có thể tự trả lời.
+- Khen thưởng khi trẻ tự tin trả lời đúng mà không cần sự giúp đỡ.
+
+### Điều Kiện Trước Tiên
+
+- Trẻ cần có khả năng làm theo 5 chỉ dẫn từng bước một.
+- Trẻ đã biết nhận biết các bộ phận cơ thể và gọi tên được các đồ vật quen thuộc.
+
+## Giáo Cụ Cần Thiết
+
+Các vật dụng cần thiết để giúp trẻ hiểu rõ hơn về các bộ phận cơ thể và thực hiện theo chỉ dẫn, ví dụ như gương để trẻ nhìn thấy bản thân hoặc đồ chơi mô phỏng các bộ phận cơ thể.
+
+## Gợi Ý Cách Dạy
+
+### Hướng Dẫn Cụ Thể
+
+- **Làm Mẫu Chỉ Dẫn:** Bạn có thể làm mẫu chỉ dẫn hoặc hướng dẫn cụ thể chân tay để trẻ chạm vào các bộ phận trên cơ thể.
+- **Làm Mẫu Câu Trả Lời:** Chỉ vào bộ phận và làm mẫu câu trả lời đúng cho trẻ nghe và bắt chước.
+
+## Các Chỉ Dẫn Từng Bước Một
 
 | Chỉ dẫn                 | Trẻ thực hiện                                                       | Ngày hướng dẫn | Ngày trẻ tiếp thu được |
 |-------------------------|---------------------------------------------------------------------|----------------|--------------------------|
-| (1) "Chỉ vào"           | (1) Chỉ vào đúng các bộ phận trên:                                 |                |                          |
+| (1) "Chỉ vào"           | (1) Chỉ vào đúng các bộ phận trên cơ thể                           |                |                          |
 | (2) "Đây là cái gì?"    | (2) Gọi tên bộ phận đó                                             |                |                          |
 |                         | (1) (2) (3)                                                        |                |                          |
 | 1. Đầu                  |                                                                     |                |                          |
@@ -36,24 +55,23 @@ Bạn hãy gợi ý trẻ ít dẫn dần trong các lần dạy tiếp theo. Tr
 | 5. Mồm                  |                                                                     |                |                          |
 | 6. Chân                 |                                                                     |                |                          |
 | 7. Mắt                  |                                                                     |                |                          |
-```markdown
-| Chỉ dẫn                 | Khả năng đáp lại của trẻ                                           | Ngày hướng dẫn | Ngày trẻ tiếp thu được |
-|-------------------------|---------------------------------------------------------------------|----------------|--------------------------|
-| (1) "Chỉ vào"           | (1) Chỉ vào đúng các bộ phận trên:                                 |                |                          |
-| (2) "Đây là cái gì?"    | (2) Gọi tên bộ phận đó                                             |                |                          |
-|                         | (1) (2) (3)                                                        |                |                          |
 | 8. Tai                  |                                                                     |                |                          |
 | 9. Tóc                  |                                                                     |                |                          |
 | 10. Má                  |                                                                     |                |                          |
 | 11. Vai                 |                                                                     |                |                          |
 | 12. Tay                 |                                                                     |                |                          |
-| 13. Mắt                 |                                                                     |                |                          |
-| 14. Cánh tay            |                                                                     |                |                          |
-| 15. Ngón tay            |                                                                     |                |                          |
-| 16. Khủy tay            |                                                                     |                |                          |
-| 17. Cằm                 |                                                                     |                |                          |
-| 18. Ngón tay            |                                                                     |                |                          |
-| 19. Ngón tay cái        |                                                                     |                |                          |
+| 13. Cánh tay            |                                                                     |                |                          |
+| 14. Ngón tay            |                                                                     |                |                          |
+| 15. Khủy tay            |                                                                     |                |                          |
+| 16. Cằm                 |                                                                     |                |                          |
+| 17. Ngón tay cái        |                                                                     |                |                          |
 
-*Gợi ý bổ trợ:*  
-Trước hết, hãy chọn các bộ phận trên cơ thể mà không nằm ở vị trí quá gần nhau (Ví dụ dạy cách phân biệt đầu và chân tốt hơn là phân biệt mũi và mắt).
+## Gợi Ý Bổ Trợ
+
+- **Lựa Chọn Bộ Phận Dễ Nhận Biết:** Hãy chọn các bộ phận trên cơ thể mà không nằm quá gần nhau để giúp trẻ dễ phân biệt (ví dụ, dạy trẻ phân biệt đầu và chân trước khi phân biệt mũi và mắt).
+- **Sử Dụng Gương:** Gương giúp trẻ nhìn thấy bản thân và hiểu rõ hơn về vị trí các bộ phận trên cơ thể.
+
+## Kết Luận
+
+Việc giúp trẻ nhận thức các bộ phận cơ thể thông qua các hoạt động chỉ dẫn và hỏi đáp không chỉ giúp trẻ phát triển khả năng nhận diện mà còn cải thiện kỹ năng giao tiếp. Tính kiên nhẫn, môi trường tích cực và những lời khen thưởng đúng lúc sẽ tạo động lực cho trẻ tiến bộ và tự tin hơn. Hãy luôn tạo sự hứng thú cho trẻ bằng cách biến việc học trở thành một trò chơi vui vẻ và bổ ích.
+

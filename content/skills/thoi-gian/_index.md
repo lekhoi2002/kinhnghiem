@@ -1,7 +1,8 @@
 ---
 author: Khôi Lê
 title: Quản Lý Thời Gian
-nested: true
+draft: false
+date: 2024-11-10T05:46:42.068Z
 ---
 # Các phương pháp quản lý thời gian hiệu quả và phổ biến
 
