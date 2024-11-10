@@ -38,12 +38,6 @@
 {{- $full := true -}}
 {{ if isset .Params "full" }}{{ $full = partial "utilities/CastBool.html" (.Get "full") }}{{ end -}}
 {{- $class := .Get "class" | default "" -}}
-{{- $options := .Get "options" -}}
-
-{{ if not (fileExists $file) }}
-    {{ warnf "Cannot find file: '%q'. See %s" $file $.Position }}
-    {{ $error = true }}
-{{ end }}
 
 <!-- Main code -->
 {{- if not $error -}}
@@ -66,7 +60,7 @@
     </ul>
     <div class="border-start border-end border-bottom mb-3">
         <div class="collapse multi-{{ $id }}{{ if $show }} show{{ end }} syntax-highlight" id="body-{{ $id }}">
-            {{- highlight (trim $content "\r\n") $lang $options -}}
+            {{- highlight (trim $content "\r\n") $lang "" -}}
         </div>
         <div class="collapse multi-{{ $id }}{{ if not $show }} show{{ end }} p-3" id="footer-{{ $id }}"><i>...</i></div>
     </div>

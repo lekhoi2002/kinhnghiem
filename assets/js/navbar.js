@@ -5,22 +5,15 @@ const modeSelectors = document.querySelectorAll('.switch-mode-collapsed')
 const colorsBG = ['body', 'secondary', 'tertiary']
 
 function updateNavbar () {
-  let storedTheme
-  if (typeof getLocalStorage === "function") {
-    storedTheme = getLocalStorage('theme', null, 'functional')
-  }
-
   if (window.scrollY > 75) {
     navbar.classList.add('nav-active')
-    if (storedTheme) {
-      navbar.setAttribute('data-bs-theme', storedTheme)
-    }
+    const storedTheme = localStorage.getItem('theme')
+    navbar.setAttribute('data-bs-theme', storedTheme)
   } else {
     navbar.classList.remove('nav-active')
     const defaultTheme = navbar.getAttribute('data-bs-overlay')
 
-    const targetTheme = defaultTheme ? defaultTheme : storedTheme
-    if (targetTheme) {
+    if (defaultTheme) {
       navbar.setAttribute('data-bs-theme', defaultTheme)
     }
   }

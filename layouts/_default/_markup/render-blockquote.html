@@ -9,18 +9,10 @@
 }}
 
 {{ if eq .Type "alert" }}
-    {{ $alert := .AlertType }}
-    {{ $icon := (index $icons $alert) }}
-
-    <blockquote class="blockquote-alert blockquote-alert-{{ $alert }}">
+    <blockquote class="blockquote-alert blockquote-alert-{{ .AlertType }}">
         <p class="blockquote-alert-heading">
-            {{ with $icon }} 
-                {{ partial "assets/icon.html" (dict "icon" (printf "%s fa-fw" .)) }}
-                {{ or (i18n $alert) (title $alert) }}
-            {{ else }}
-                {{ title $alert }}
-                {{ warnf "Unsupported alert type: '%s'. See %s" $alert $.Position }}
-            {{ end }}
+            {{ partial "assets/icon.html" (dict "icon" (printf "%s fa-fw" (index $icons .AlertType))) }}
+            {{ or (i18n .AlertType) (title .AlertType) }}
         </p>
     {{ trim .Text "\n\r" | safeHTML }}
     </blockquote>

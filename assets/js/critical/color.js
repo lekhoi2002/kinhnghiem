@@ -11,8 +11,8 @@
 
   const supportedThemes = ['auto', 'dark', 'light'];
 
-  // retrieves the currently stored theme from local storage
-  const storedTheme = getLocalStorage('theme', 'auto', 'functional')
+  // retrieves the currently stored theme from local storage (cookie)
+  const storedTheme = localStorage.getItem('theme')
 
   // retrieves the theme preferred by the client, defaults to light
   function getPreferredTheme() {
@@ -25,7 +25,7 @@
       return storedTheme
     } else {
       const preference = getPreferredTheme()
-      setLocalStorage('theme', preference, 'functional')
+      localStorage.setItem('theme', preference)
       return preference
     }
   }
@@ -35,7 +35,7 @@
     if (!supportedThemes.includes(theme)) {
       theme = 'auto'
     }
-    setLocalStorage('theme', theme, 'functional')
+    localStorage.setItem('theme', theme)
 
     if (theme === 'auto') {
       document.documentElement.setAttribute('data-bs-theme', (getPreferredTheme()))

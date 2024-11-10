@@ -1,20 +1,17 @@
 /* eslint-disable */
-{{- if site.Params.main.enableLanguageSelectionStorage -}}
-{{- $folder := (urls.Parse site.BaseURL).Path | default "/" -}}
+{{- if site.Params.main.enableLanguageSelectionStorage -}} 
 
 (() => {
   'use strict'
 
-  const folder = '{{ $folder }}'
-
-  // Function to get the selected language from local storage
+  // Function to get the selected language from localStorage
   function getLanguage () {
-    return getLocalStorage('selectedLanguage', document.documentElement.lang, 'functional')
+    return localStorage.getItem('selectedLanguage')
   }
 
-  // Function to set the selected language in local storage
+  // Function to set the selected language in localStorage
   function setLanguage (language) {
-    setLocalStorage('selectedLanguage', language, 'functional')
+    localStorage.setItem('selectedLanguage', language)
   }
   
   // Function to apply the selected language to the website
@@ -25,7 +22,7 @@
           window.location.href = href
         }
       } else {
-        window.location.href = folder + language + '/'
+        window.location.href = '/' + language + '/'
       }
     }
   }
@@ -60,7 +57,7 @@
       // Redirect to the localized homepage
       const defaultLang = '{{ site.LanguageCode | default site.Language.Lang }}'
       let language = storedLanguage ? storedLanguage : defaultLang
-      window.location.href = folder + language + '/'
+      window.location.href = '/' + language + '/'
     }
   })
 })()

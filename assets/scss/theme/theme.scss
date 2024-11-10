@@ -1,7 +1,5 @@
 // Placeholder to quickly add your own styles
 // The file is included last in the build pipeline
-// Placeholder to quickly add your own styles
-// The file is included last in the build pipeline
 h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
     font-size: 22px;
     margin-bottom: 18px;
@@ -63,11 +61,5 @@ h4, h5, h6, .display-4, .display-5, .display-6 {
     &:focus {
         color: $gray-400 if($enable-important-utilities, !important, null);
     }
-}
-
-// toan bo code thay màu nava
-/* Custom styles for Hugo Bootstrap 5 Nav */
-.navbar {
-  background-color: #233331 !important;
 }
 

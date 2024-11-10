@@ -39,22 +39,13 @@
 {{ $element := "" }}
 
 <!-- Split path between upload dir and sub dir -->
-{{ $dir = path.Clean (trim .dir "/") }}
-{{ $api := "image/upload" }}
-
-<!-- Define the account, optional API segment, and directory -->
-{{ $elements := split $dir "/" }}
-{{ $account := index $elements 0 }}
-{{ $operation := "" }}
-{{ if and (in (slice "image" "video") (index $elements 1)) (eq (index $elements 2) "upload") }}
-    {{ $api = delimit (slice | append (index $elements 1) | append (index $elements 2)) "/" }}
-    {{ $dir = delimit (after 3 $elements) "/" }}
-{{ else }}
-    {{ $dir = delimit (after 1 $elements) "/" }}
-{{ end }}
+{{ $newdir := urls.JoinPath (index (split $dir "upload") 0) "upload" }}
+{{ $file = urls.JoinPath (index (split $dir "upload") 1) $file }}
+{{ $dir = $newdir }}
 
 <!-- Generate image URL -->
 {{ if not $error }}
+    {{ $operation := "" }}
     {{ if $format }}
         {{ $operation = printf "%s,h_%d,w_%d" $transform $height $width }}
         {{ $file = printf "%s.%s" (strings.TrimSuffix (path.Ext $file) $file) $format }}
@@ -64,7 +55,7 @@
     {{ with $anchor }}
         {{ $operation = printf "%s,g_%s" $operation . }}
     {{ end }}
-    {{- $element = partial "utilities/URLJoin.html" (dict "elements" (slice "https://" $host $account $api $operation $dir $file)) -}}
+    {{- $element = urls.JoinPath (slice "https://" $host $dir $operation $file) -}}
 {{ end }}
 
 {{ return $element }}

@@ -1,17 +1,15 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Kinh Nghiệm , Mẹo Vặt Hữu ích"
+    description = "Tổng hợp những kinh nghiệm , mẹo vặt hay..."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
-    endorse = true
+    endorse = false
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
-    [main.internalLinks]
-        validate = true
     [main.externalLinks]
         cue = true
         tab = true
@@ -55,10 +53,12 @@
     release = "https://github.com//hinode/releases/tag/"
     checkVersion = false
 # toml-docs-end docs
+# toml-docs-start modules
+# toml-docs-end modules
 
 # toml-docs-start home
 [home]
-    sections = ["tre-tho"]
+    sections = ["tre-tho", "pc"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -78,7 +78,7 @@
     overlay = false
     overlayMode = "dark"
     horizontal = false
-    offset = "5.5rem"
+    offset = "5rem"
     search = true
     searchModal = false
     breadcrumb = true
@@ -132,9 +132,23 @@
 # toml-docs-end sharing
 
 # toml-docs-start sections
-  [sections]
+   [sections]
     [sections.tre-tho]
-        title = "trẻ thơ"
+        title = "Trẻ Thơ"
+        layout = "card"
+        sort = "weight"
+        reverse = true
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.pc]
+        title = "Thủ Thuật Máy Tính"
         layout = "card"
         sort = "weight"
         reverse = true
@@ -179,17 +193,17 @@
 
 [schema]
     type = "Organization"
-    name = "Kho Ván Sàn Gỗ Nhập Khẩu"
+    name = "Kinh Nghiệm"
     locale = "vn-VN"
     # twitter = "https://twitter.com/"
     # linkedIn = ""
     github = "https://github.com/"
     section = "blog"
     [schema.author]
-        name = "Khoi Le"
-        # twitter = "https://twitter.com/khoile2002"
-        linkedin = "https://www.linkedin.com/in/khoile2002/"
-        github = "https://github.com/khoile2002"
+        name = "Khôi Lê"
+        # twitter = "https://twitter.com/"
+        linkedin = "https://www.linkedin.com/in/"
+        github = "https://github.com/"
     [schema.logo]
         url = "img/logo512x512.png"
         width = 512
@@ -202,41 +216,5 @@
 [opengraph]
     images = ["logo.png"]
     locale = "vn_VN"
-
 [links]
-    hinode = "https://kinhnghiemso.vn"
-
-# toml-docs-start headers
-[headers]
-  [headers.netlify]
-    source = "netlify.toml"
-# toml-docs-end headers
-
-# toml-docs-start csp
-[modules.hinode.csp]
-    style-src = ["www.youtube.com"]
-    font-src = ["fonts.gstatic.com"]
-    frame-src = [
-        "player.cloudinary.com",
-        "www.youtube-nocookie.com",
-        "www.youtube.com"
-    ]
-    img-src = [
-        "data:",
-        "*.imgix.net",
-        "*.imagekit.io",
-        "*.cloudinary.com",
-        "i.ytimg.com"
-    ]
-# toml-docs-end csp
-
-[modules.vimeo]
-    local = true
-    integration = "optional"
-    state = "async"
-    url = "https://player.vimeo.com/api/player.js"
-
-[modules.vimeo.csp]
-    frame-src = ["player.vimeo.com"]
-    img-src = ["i.vimeocdn.com"]
-    script-src = ["player.vimeo.com"]
+    hinode = "https://khovansango.com"

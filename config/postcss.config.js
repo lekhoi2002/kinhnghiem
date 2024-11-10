@@ -10,7 +10,7 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
     return [...(els.tags || []), ...(els.classes || []), ...(els.ids || [])]
   },
   dynamicAttributes: ['data-bs-theme'],
-  safelist: ['was-validated',
+  safelist: [
     ...whitelister([
       './assets/scss/components/_clipboard.scss',
       './assets/scss/components/_command.scss',
@@ -24,7 +24,6 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
       './assets/scss/components/_video.scss',
       './assets/scss/theme/fonts.scss',
       './assets/scss/theme/theme.scss',
-      './_vendor/github.com/gethinode/mod-cookieyes/v2/assets/scss/cookieyes.scss',
       './_vendor/github.com/gethinode/mod-flexsearch/v2/assets/scss/modules/flexsearch/flexsearch.scss',
       './_vendor/github.com/gethinode/mod-katex/dist/katex.scss',
       './_vendor/github.com/gethinode/mod-leaflet/dist/leaflet.scss',

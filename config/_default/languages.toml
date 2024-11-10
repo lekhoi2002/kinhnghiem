@@ -8,11 +8,12 @@
     [vi.params.head]
         tagline = "Uy Tín Chất Lượng"
     [vi.params.social]
-        title = "Follow us"
+        title = "Kết Nối"
         caption = "Hotline / zalo : 0966171436"
+    [vi.params.footer]
+        license = " Licensed under Creative Commons "
 # toml-docs-end lang-param
-    [vi.params.sections.posts]
+    [vi.params.sections.tre-tho]
         reference = "Xem Tất Cả Bài Viết"
-        [vi.params.sections.tre-tho]
+    [vi.params.sections.pc]
         reference = "Xem Tất Cả Bài Viết"
-

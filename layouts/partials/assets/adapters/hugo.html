@@ -23,9 +23,9 @@
 {{ $anchor := .anchor | default "" }}
 {{ $element := "" }}
 {{ $absoluteURL := .absoluteURL }}
-{{ $url := partial "utilities/URLJoin.html" (dict "elements" (slice $dir $file)) }}
+{{ $url := urls.JoinPath $dir $file }}
 {{ if $host }}
-    {{ $url = partial "utilities/URLJoin.html" (dict "elements" (slice "https://" $host $url)) }}
+    {{ $url = urls.JoinPath "https://" $host $url }}
 {{ end }}
 
 <!-- Initialize image if needed, do not raise additional warnings -->

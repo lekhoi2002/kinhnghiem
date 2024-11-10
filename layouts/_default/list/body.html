@@ -6,7 +6,7 @@
 <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2">
     <div class="col-12 col-{{ $breakpoint.current }}-9">
         {{ if not .IsHome }}
-            {{ with .Title }}<p id="{{ anchorize . }}" class="display-4 mt-5{{ if and $.IsHome site.Params.home.centerHeadline }} text-center{{ end }}">{{ . }}</p>{{ end }}
+            {{ with .Title }}<p id="{{ anchorize . }}" class="display-4 mt-3{{ if and $.IsHome site.Params.home.centerHeadline }} text-center{{ end }}">{{ . }}</p>{{ end }}
         {{ end }}
         {{ if (.Params.menu) }}
             {{- partial "assets/section-menu.html" (dict "page" .) -}}

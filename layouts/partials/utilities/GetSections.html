@@ -46,8 +46,7 @@
         {{- with index . "title" }}{{ $title = or . $title }}{{ end -}}
     {{- end -}}
 
-    {{- $thumbnail := "" -}}
-    {{ if reflect.IsMap $sectionPage.Params.Thumbnail }}{{ $thumbnail = $sectionPage.Params.Thumbnail.url }}{{ else }}{{ $thumbnail = $sectionPage.Params.Thumbnail }}{{ end }}
+    {{- $thumbnail := (or (and (reflect.IsMap $sectionPage.Params.Thumbnail) $sectionPage.Params.Thumbnail.url) $sectionPage.Params.Thumbnail) -}}
     {{- $icon := $sectionPage.Params.Icon -}}
     {{- $content := "" -}}
     {{ if not $sectionPage.IsSection }}{{ $content = $sectionPage.Content }}{{ end -}}

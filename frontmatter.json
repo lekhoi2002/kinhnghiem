@@ -72,11 +72,19 @@
     },
     {
       "title": "san-go",
-      "path": "[[workspace]]/content/pc"
+      "path": "[[workspace]]/content/san-go-cong-nghiep"
     },
     {
-      "title": "docs",
-      "path": "[[workspace]]/content/docs"
+      "title": "phu-kien",
+      "path": "[[workspace]]/content/phu-kien"
     },
+    {
+      "title": "gallery",
+      "path": "[[workspace]]/content/gallery"
+    },
+    {
+      "title": "kien-thuc",
+      "path": "[[workspace]]/content/tu-van"
+    }
   ]
 }
