@@ -2,6 +2,7 @@
 title: BÀI 4 BẮT CHƯỚC NHỮNG HOẠT ĐỘNG VẬN ĐỘNG TINH
 description: 
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 # Bài 4: Bắt Chước Những Hoạt Động Vận Động Tinh
 

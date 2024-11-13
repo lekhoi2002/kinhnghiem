@@ -2,6 +2,7 @@
 title: BÀI 7 Dạy CÁC BỘ PHẬN CƠ THỂ
 description: 
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 ## Mục Tiêu Của Bài Viết
 

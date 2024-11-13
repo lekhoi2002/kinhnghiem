@@ -2,6 +2,7 @@
 title: Bài 6 Làm Theo Chỉ Dẫn Từng Bước Một
 description: 
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 
 ## Mục Tiêu Của Bài Viết

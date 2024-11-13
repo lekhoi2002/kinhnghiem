@@ -2,6 +2,7 @@
 title: Bài 9 Dạy Bằng Tranh Ảnh - Dễ Nhớ Và Có Ý Nghĩa
 description: 
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 
 ## Mục Tiêu Của Bài Viết

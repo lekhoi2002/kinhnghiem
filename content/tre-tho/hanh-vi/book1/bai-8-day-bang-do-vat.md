@@ -2,6 +2,7 @@
 title: Bài 8- Dạy Bằng Đồ Vật
 description: 
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 
 

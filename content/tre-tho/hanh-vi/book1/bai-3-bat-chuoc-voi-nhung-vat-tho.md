@@ -2,6 +2,7 @@
 title: BÀI 3 BẮT CHƯỚC NHỮNG HOẠT ĐỘNG VỚI VẬT THÔ
 description: 
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 # Bài Viết: Can Thiệp Tâm Lý và Hành Vi Trẻ em
 

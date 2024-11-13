@@ -2,6 +2,7 @@
 title: Bài 10 - Nhận Biết Người Thân
 description: Hướng dẫn và bài tập nhận biết người thân
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 ## Mục Tiêu Của Bài Viết
 

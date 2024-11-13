@@ -2,6 +2,7 @@
 title: Giao tiếp bằng mắt
 description: Giao tiếp bằng mắt" để giúp bạn hiểu cách hướng dẫn trẻ tạo sự giao tiếp bằng mắt
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 
 **Mục tiêu:** Dạy trẻ cách giao tiếp bằng mắt một cách tự nhiên, bằng cách sử dụng các bước từ đơn giản đến phức tạp hơn.

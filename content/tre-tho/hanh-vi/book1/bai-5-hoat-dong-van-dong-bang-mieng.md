@@ -2,6 +2,7 @@
 title: BÀI 5 BẮT CHƯỚC HOẠT ĐỘNG VẬN ĐỘNG BẰNG MIỆNG
 description: 
 date: 2023-08-03
+thumbnail: /img/thumb/child/day-tre.webp
 ---
 # Bài 5: Bắt Chước Hoạt Động Vận Động Bằng Miệng
 
