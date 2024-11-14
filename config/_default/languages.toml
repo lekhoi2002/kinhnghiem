@@ -1,0 +1,17 @@
+# toml-docs-start lang-main
+[vi]
+    languageName = "Tiếng Việt"
+    contentDir = "content"
+    weight = 1
+# toml-docs-end lang-main
+# toml-docs-start lang-param
+    [vi.params.head]
+        tagline = "Uy Tín Chất Lượng"
+    [vi.params.social]
+        title = "Kết Nối"
+        caption = " "
+# toml-docs-end lang-param
+    [vi.params.sections.tre-tho]
+        reference = "Xem Tất Cả Bài Viết"
+    [vi.params.sections.pc]
+        reference = "Xem Tất Cả Bài Viết"
