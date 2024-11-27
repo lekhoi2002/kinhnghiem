@@ -51,14 +51,6 @@
           "name": "categories",
           "type": "categories"
         },
-        {
-          "title": "modules",
-          "name": "modules",
-          "type": "choice",
-          "choices": [
-            "mgallery"
-          ]
-        }
       ]
     }
   ],
@@ -71,20 +63,8 @@
       "path": "[[workspace]]/content"
     },
     {
-      "title": "san-go",
-      "path": "[[workspace]]/content/san-go-cong-nghiep"
+      "title": "Tre tho",
+      "path": "[[workspace]]/content/tre-tho"
     },
-    {
-      "title": "phu-kien",
-      "path": "[[workspace]]/content/phu-kien"
-    },
-    {
-      "title": "gallery",
-      "path": "[[workspace]]/content/gallery"
-    },
-    {
-      "title": "kien-thuc",
-      "path": "[[workspace]]/content/tu-van"
-    }
   ]
 }

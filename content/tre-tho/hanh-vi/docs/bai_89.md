@@ -1,0 +1,73 @@
+---
+title: 
+date: 2024-11-27T23:07:39.698614
+---
+**BÀI 89**
+
+**TRẢ LỜI CÁC CÂU HỎI LỰA CHỌN**
+
+**Các bước dạy trẻ:**
+
+Ngồi trên ghế ngang hàng với trẻ. Yêu cầu trẻ chú ý và hỏi trẻ một câu
+hỏi lựa chọn (Ví dụ: "Con voi và con chuột, con nào to hơn?"). Gợi ý
+cho trẻ trả lời câu hỏi (ví dụ: "Con voi to hơn"). Khen và thưởng cho
+cầu trả lời của trẻ, càng về sau càng giảm gợi ý cho trẻ. Cuối cùng,
+chỉ khen thưởng những cách trẻ làm đúng mà không cần gợi ý.
+
+•**Điều kiện trước tiên:** Trẻ trả lời các câu hỏi có/ không về các đồ
+vật, các câu hỏi về người, địa điểm, về nguyên nhân cũng như các câu
+trả lời chung khác
+
+•**Gợi ý cách dạy:** Làm mẫu cách thực hiện cho trẻ.
+
++-----------------+-----------------+-----------------+-----------------+
+| **Ví dụ về các  | **Trẻ thực    | **Ngày hướng    | **Ngày trẻ    |
+| câu hỏi lựa     | hiện**        | dẫn**           | tiếp thu      |
+| chọn**          |                 |                 | được**        |
++=================+=================+=================+=================+
+| 1.Con nào     |                 |                 |                 |
+| biết bơi, con |                 |                 |                 |
+| chim hay con  |                 |                 |                 |
+| cá?           |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| 2.Con có thể    |                 |                 |                 |
+| ném cái nào:    |                 |                 |                 |
+| quả bóng hay    |                 |                 |                 |
+| câu đố?         |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| 3.Thứ nào có  |                 |                 |                 |
+| vị ngọt: kẹo  |                 |                 |                 |
+| hay chanh?    |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| 4.Con vật nào |                 |                 |                 |
+| gầm thét: mèo |                 |                 |                 |
+| hay hổ?       |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| 5.Cái nào dùng  |                 |                 |                 |
+| để đội đầu: cái |                 |                 |                 |
+| quần hay cái    |                 |                 |                 |
+| mũ?             |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| 6.Con nào to  |                 |                 |                 |
+| hơn: con voi  |                 |                 |                 |
+| hay con       |                 |                 |                 |
+| chuột?        |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| 7.Con nào     |                 |                 |                 |
+| biết bay: con |                 |                 |                 |
+| chim hay con  |                 |                 |                 |
+| chó?          |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| 8.Thứ nào     |                 |                 |                 |
+| nóng: nước    |                 |                 |                 |
+| sôi hay nước  |                 |                 |                 |
+| vòi?          |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+•**Gợi ý bổ trợ:** Khi dạy nên bắt đầu với những đồ vật mà trẻ nhìn
+thấy được (ví dụ: Nên đặt một quả táo và một quả chuối trên bàn và hỏi
+"Quả nào màu vàng quả chuối hay quả táo?"). Xem thêm cách sử dụng câu
+hỏi lựa chọn trong sách MEER2 (danh mục nguồn).
+
+89
+

@@ -1,7 +1,7 @@
 ---
 title: Giao tiếp bằng mắt
 description: Giao tiếp bằng mắt" để giúp bạn hiểu cách hướng dẫn trẻ tạo sự giao tiếp bằng mắt
-date: 2023-08-03
+date: 2024-11-27T15:56:14.813Z
 thumbnail: /img/thumb/child/day-tre.webp
 ---
 
