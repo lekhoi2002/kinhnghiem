@@ -1,13 +1,7 @@
 ---
 title: note Hugo 
-description: ""
 date: 2024-10-29T14:38:42.914Z
-lastmod: null
-thumbnail: ""
 draft: false
-tags: []
-categories: []
-modules: ""
 ---
 Việc tắt module tạm thời có thể ảnh hưởng đến tốc độ tải trang web, tùy thuộc vào vai trò của module đó. Hãy phân tích các trường hợp:
 
@@ -58,17 +52,6 @@ Cumulative Layout Shift (CLS)
 Cân nhắc giữa performance và features
 Có thể tắt module trong môi trường dev và bật lại ở production
 
-
-Code ví dụ đo performance:
-
-<!-- Thêm vào head để đo metrics -->
-<script>
-performance.mark('start');
-window.addEventListener('load', () => {
-  performance.mark('end');
-  console.log(performance.measure('page-load', 'start', 'end'));
-});
-</script>
 
 Tóm lại:
 
