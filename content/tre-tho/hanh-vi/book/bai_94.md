@@ -39,22 +39,22 @@ hoàn câu một cách lôgíc.
 | **Câu hỏi**     | **Trẻ trả lời** | **Ngày hướng  | **Ngày trẻ    |
 |                 |                 | dẫn**         | tiếp thu      |
 |                 |                 |                 | được**        |
--=================-=================-=================-=================-
+-------------------------------------------------------------------------
 | **(1-2) "Con  | <table        |                 |                 |
 | nghĩ điều gì  | <colgroup     |                 |                 |
 | sẽ xảy ra     | <col            |                 |                 |
-| tiếp theo?"** | style=          |                 |                 |
+| tiếp theo?"** | style-          |                 |                 |
 |               | "width: 33%" /|                 |                 |
 | **"Con đoán   | <col            |                 |                 |
-| xem bạn ấy sẽ | style=          |                 |                 |
+| xem bạn ấy sẽ | style-          |                 |                 |
 | làm gì"**     | "width: 33%" /|                 |                 |
 |                 | <col            |                 |                 |
-|                 | style=          |                 |                 |
+|                 | style-          |                 |                 |
 |                 | "width: 33%" /|                 |                 |
 |                 | </colgroup    |                 |                 |
 |                 | <thead        |                 |                 |
 |                 | <tr             |                 |                 |
-|                 | class="header"|                 |                 |
+|                 | class-"header"|                 |                 |
 |                 | <               |                 |                 |
 |                 | th<strong(1-2 |                 |                 |
 |                 | )</strong</th|                 |                 |

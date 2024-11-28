@@ -44,22 +44,22 @@ vật.
 | **Câu hỏi**     | **Trẻ thực      | **Ngày hướng  | **Ngày trẻ    |
 |                 | hiện**          | dẫn**         | tiếp thu      |
 |                 |                 |                 | được**        |
--=================-=================-=================-=================-
+-------------------------------------------------------------------------
 | **1.**        | <table        |                 |                 |
 | "**Những cái  | <colgroup     |                 |                 |
 | nào giống     | <col            |                 |                 |
-|               | style=          |                 |                 |
+|               | style-          |                 |                 |
 |  nhau?**"**2.** | "width: 33%" /|                 |                 |
 | "**Cái nào    | <col            |                 |                 |
-| khác hai cái  | style=          |                 |                 |
+| khác hai cái  | style-          |                 |                 |
 | còn           | "width: 33%" /|                 |                 |
 | lại?**"**3.   | <col            |                 |                 |
-| Hỏi một trong | style=          |                 |                 |
+| Hỏi một trong | style-          |                 |                 |
 | hai câu       | "width: 33%" /|                 |                 |
 | trên**        | </colgroup    |                 |                 |
 |                 | <thead        |                 |                 |
 |                 | <tr             |                 |                 |
-|                 | class="header"|                 |                 |
+|                 | class-"header"|                 |                 |
 |                 | <               |                 |                 |
 |                 | th<blockquote|                 |                 |
 |                 | <p<strong(1-  |                 |                 |
@@ -74,7 +74,7 @@ vật.
 |                 | </thead       |                 |                 |
 |                 | <tbody        |                 |                 |
 |                 | <tr             |                 |                 |
-|                 | class="odd"   |                 |                 |
+|                 | class-"odd"   |                 |                 |
 |                 | <               |                 |                 |
 |                 | td<strongnhữn |                 |                 |
 |                 | g</strong</td|                 |                 |

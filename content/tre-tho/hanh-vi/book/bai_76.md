@@ -34,7 +34,7 @@ cấp thông tin cho trẻ. Giảm dần gợi ý cho trẻ.
 | các câu hàm   |                 |                 |                 |
 | chứa thông    |                 |                 |                 |
 | tin**         |                 |                 |                 |
--=================-=================-=================-=================-
+-------------------------------------------------------------------------
 | 1.Hãy đoán    | Cái gì vậy?   |                 |                 |
 | xem           |                 |                 |                 |
 -------------------------------------------------------------------------
@@ -45,21 +45,21 @@ cấp thông tin cho trẻ. Giảm dần gợi ý cho trẻ.
 | 3.Mẹ đến rạp  | <table        |                 |                 |
 | chiếu phim.   | <colgroup     |                 |                 |
 | Bộ phim mẹ    | <col            |                 |                 |
-| thích nhất là | style=          |                 |                 |
+| thích nhất là | style-          |                 |                 |
 | "Cuốn theo    | "width: 25%" /|                 |                 |
 | chiều gió"    | <col            |                 |                 |
-|                 | style=          |                 |                 |
+|                 | style-          |                 |                 |
 |                 | "width: 25%" /|                 |                 |
 |                 | <col            |                 |                 |
-|                 | style=          |                 |                 |
+|                 | style-          |                 |                 |
 |                 | "width: 25%" /|                 |                 |
 |                 | <col            |                 |                 |
-|                 | style=          |                 |                 |
+|                 | style-          |                 |                 |
 |                 | "width: 25%" /|                 |                 |
 |                 | </colgroup    |                 |                 |
 |                 | <thead        |                 |                 |
 |                 | <tr             |                 |                 |
-|                 | class="header"|                 |                 |
+|                 | class-"header"|                 |                 |
 |                 | <               |                 |                 |
 |                 | th<blockquote|                 |                 |
 |                 | <pCon</p     |                 |                 |

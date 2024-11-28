@@ -40,7 +40,7 @@ cột phân loại của nó. (3). Làm mẫu nói tên các loại đồ vật.
 |           | hiện**    |           |           | dẫn**   | tiếp    |
 |           |           |           |           |           | thu     |
 |           |           |           |           |           | được**  |
--===========-===========-===========-===========-===========-===========-
+-------------------------------------------------------------------------
 | **(1)** | (**1)   |           |           |           |           |
 | "**Con  | Xếp     |           |           |           |           |
 | hãy xếp | tranh   |           |           |           |           |
@@ -116,7 +116,7 @@ cột phân loại của nó. (3). Làm mẫu nói tên các loại đồ vật.
 
 •**Gợi ý bổ trợ:** Nếu con bạn gặp khó khăn trong việc sắp xếp tranh
 theo phân loại, cố gắng sử dụng các đồ vật có 3 kích thước. (Đồ vật có
-3 kích thước = đồ vật hình khối, bao gồm chiều dọc, chiều ngang và
+3 kích thước - đồ vật hình khối, bao gồm chiều dọc, chiều ngang và
 chiều sâu).
 
 42

@@ -24,28 +24,28 @@ tầm nhìn qua một số đặc điểm của chúng.
 |                 | cách thực     | dẫn**         | thu được**      |
 |                 | hiện của      |                 |                 |
 |                 | trẻ**         |                 |                 |
--=================-=================-=================-=================-
+-------------------------------------------------------------------------
 | <table        |                 |                 |                 |
 | <colgroup     |                 |                 |                 |
 | <col            |                 |                 |                 |
-| style=          |                 |                 |                 |
+| style-          |                 |                 |                 |
 | "width: 20%" /|                 |                 |                 |
 | <col            |                 |                 |                 |
-| style=          |                 |                 |                 |
+| style-          |                 |                 |                 |
 | "width: 20%" /|                 |                 |                 |
 | <col            |                 |                 |                 |
-| style=          |                 |                 |                 |
+| style-          |                 |                 |                 |
 | "width: 20%" /|                 |                 |                 |
 | <col            |                 |                 |                 |
-| style=          |                 |                 |                 |
+| style-          |                 |                 |                 |
 | "width: 20%" /|                 |                 |                 |
 | <col            |                 |                 |                 |
-| style=          |                 |                 |                 |
+| style-          |                 |                 |                 |
 | "width: 20%" /|                 |                 |                 |
 | </colgroup    |                 |                 |                 |
 | <thead        |                 |                 |                 |
 | <tr             |                 |                 |                 |
-| class="header"|                 |                 |                 |
+| class-"header"|                 |                 |                 |
 | <th<strong“Co |                 |                 |                 |
 | n</strong</th|                 |                 |                 |
 | <th<stronghã  |                 |                 |                 |
