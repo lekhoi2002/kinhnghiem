@@ -38,45 +38,6 @@ hãy dạy trẻ trả lời theo các bức tranh trong sách (xem các câu h�
 dài thời gian bằng cách làm mẫu câu hỏi trả lời của trẻ ngay sau khi
 bạn nói. Mỗi lần làm trong 2 giây và dần dần giảm nhắc nhở cho trẻ.
 
--------------------------------------------------------------------------
-| **Lời nói ví dụ | **Lời nói ví dụ | **Ngày hướng  | **Ngày trẻ tiếp |
-| (của mẹ)**      | (của trẻ)**     | dẫn**         | thu được**      |
--------------------------------------------------------------------------
-| **Với đồ      | "Con có con   |                 |                 |
-| vật:**       | bò sữa." "Nó  |                 |                 |
-| 1. "Mẹ có một | màu trắng."  |                 |                 |
-| con vịt."    | "Nó kêu       |                 |                 |
-| 2. "Con vịt   | "ò..ò..""    |                 |                 |
-| của mẹ màu    | "Nó sống ở    |                 |                 |
-| vàng." 3.     | nông trại"    |                 |                 |
-| "Con vịt kêu  |                 |                 |                 |
-| quạc quạc."  |                 |                 |                 |
-| 4. "Con vịt   |                 |                 |                 |
-| sống dưới     |                 |                 |                 |
-| ao."          |                 |                 |                 |
--------------------------------------------------------------------------
-| **Với tranh   | "Con nhìn     |                 |                 |
-| ảnh:**       | thấy bông     |                 |                 |
-| 1. "Mẹ nhìn   | hoa." "Con    |                 |                 |
-| thấy quả      | nhìn thấy     |                 |                 |
-| bóng."       | người đàn ông |                 |                 |
-| 2. "Mẹ nhìn   | và chiếc      |                 |                 |
-| thấy chiếc    | bánh."       |                 |                 |
-| ôtô và cái    | "Con nhìn     |                 |                 |
-| cây."        | thấy quả bóng |                 |                 |
-| 3. "Mẹ nhìn   | màu xanh."   |                 |                 |
-| thấy cái mũ   | "Con nhìn     |                 |                 |
-| màu đỏ."     | thấy cô gái   |                 |                 |
-| 4. "Mẹ nhìn   | đang bơi."   |                 |                 |
-| thấy một      | "con nhìn     |                 |                 |
-| người đang    | thấy một cậu  |                 |                 |
-| đi."         | bé trên cầu   |                 |                 |
-| 5. "Mẹ nhìn   | trượt."       |                 |                 |
-| thấy một cô   |                 |                 |                 |
-| gái trong     |                 |                 |                 |
-| ôtô."         |                 |                 |                 |
--------------------------------------------------------------------------
-
 •**Gợi ý bổ trợ:** Luyện tập cho trẻ khái quát hoá trong các tình
 huống tự nhiên (ví dụ: trong khi chơi, dạy trẻ nói "Con đang chơi với
 ..." hoặc trong khi ăn dạy trẻ nói: "Con đang ăn ...")

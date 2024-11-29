@@ -49,23 +49,6 @@ bằng cách làm mẫu câu hỏi ngay sau khi trẻ chỉ vào những đồ v
 tranh ảnh mà trẻ biết. Mỗi lần thực hiện 2 giây đồng thời giảm dần gợi
 ý cho trẻ. Làm mẫu ngữ điệu của câu hỏi để trẻ làm theo.
 
--------------------------------------------------------------------------
-| **Chỉ dẫn**     | **Trẻ thực      | **Ngày hướng  | **Ngày trẻ tiếp |
-|                 | hiện**          | dẫn**         | thu được**      |
--------------------------------------------------------------------------
-| **(1)**       | **(1- 2)**    |                 |                 |
-| "**Hãy nói    | "**Kia là cái |                 |                 |
-| con nhìn thấy | gì**"         |                 |                 |
-| cái gì trên   |                 |                 |                 |
-| bàn**"       |                 |                 |                 |
-| **(2) Không   |                 |                 |                 |
-| gợi ý**       |                 |                 |                 |
--------------------------------------------------------------------------
-| 1.           |                 |                 |                 |
--------------------------------------------------------------------------
-| 2.           |                 |                 |                 |
--------------------------------------------------------------------------
-
 •**Gợi ý bổ trợ:** Hãy xác định trước những đồ vật mà trẻ biết hoặc
 chưa biết. Khuyến khích việc nêu câu hỏi trong các tình huống tự nhiên
 (ví dụ: khi xem sách, khi đang đi dạo). Nên sử dụng các tranh ảnh có

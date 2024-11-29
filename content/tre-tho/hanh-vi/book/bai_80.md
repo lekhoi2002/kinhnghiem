@@ -35,31 +35,6 @@ cho trẻ một chủ đề nào đó không rõ ràng (ví dụ: "Con hãy kể
 nghe câu chuyện về Mai") hoặc bắt đầu câu chuyện bằng cách kể mẫu câu
 đầu tiên, sau đó dừng lại để xem trẻ kể tiếp câu chuyện hay không.
 
--------------------------------------------------------------------------
-| **Chỉ dẫn**     | **Trẻ thực      | **Ngày hướng    | **Ngày trẻ tiếp |
-|                 | hiện**          | dẫn**           | thu được**      |
--------------------------------------------------------------------------
-| **1.** "**Con | **1. Trẻ kể   |                 |                 |
-| hãy kể cho mẹ | một câu       |                 |                 |
-| nghe          | chuyện về một |                 |                 |
-| về...**"     | chủ đề nào    |                 |                 |
-|               | đó.**         |                 |                 |
-| **2.**        |               |                 |                 |
-| "**Nào, bây   | **2. Trẻ kể   |                 |                 |
-| giờ đến lượt  | về câu chuyện |                 |                 |
-| con. Hãy kể   | tự nghĩ ra.** |                 |                 |
-| cho mẹ nghe   |                 |                 |                 |
-| một câu       |                 |                 |                 |
-| chuyện.**"    |                 |                 |                 |
--------------------------------------------------------------------------
-| 1. Về một    |                 |                 |                 |
-| chủ đề nào đó |                 |                 |                 |
--------------------------------------------------------------------------
-| 2. Không     |                 |                 |                 |
-| theo chủ đề   |                 |                 |                 |
-| nào           |                 |                 |                 |
--------------------------------------------------------------------------
-
 •**Gợi ý bổ trợ:** Cần uốn nắn, điều chỉnh cách kể chuyện qua từng
 buổi dạy (ví dụ: ban đầu, khen thưởng cho trẻ lại câu chuyện một câu,
 sau đó là hai câu, và cứ tiếp tục...). Đây là một bài rất hay để dạy

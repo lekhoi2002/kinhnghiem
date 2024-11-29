@@ -51,32 +51,6 @@ cho trẻ một chủ đề nào đó không rõ ràng (ví dụ: "Con hãy kể
 nghe chuyện về bạn Mai") hoặc bắt đầu câu chuyện bằng cách kể mẫu câu
 đầu tiên, sau đó dừng lại để xem trẻ kể tiếp câu chuyện hay không.
 
--------------------------------------------------------------------------
-| **Chỉ dẫn**     | **Trẻ thực      | **Ngày hướng    | **Ngày trẻ    |
-|                 | hiện**          | dẫn**           | tiếp thu      |
-|                 |                 |                 | được**        |
--------------------------------------------------------------------------
-| **1. Con hãy  | **1. Trẻ kể   |                 |                 |
-| kể cho mẹ     | một câu       |                 |                 |
-| nghe về...** | chuyện về một |                 |                 |
-|               | chủ đề dùng   |                 |                 |
-| **2. Nào, bây | các đồ chơi   |                 |                 |
-| giờ đến lượt  | hỗ trợ.**     |                 |                 |
-| con. Hãy kể   |               |                 |                 |
-| cho mẹ nghe   | **2. Trẻ kể   |                 |                 |
-| một câu       | lại câu       |                 |                 |
-| chuyện.**     | chuyện dùng   |                 |                 |
-|                 | các đồ chơi   |                 |                 |
-|                 | hỗ trợ**      |                 |                 |
--------------------------------------------------------------------------
-| 1. Về một    |                 |                 |                 |
-| chủ đề nào đó |                 |                 |                 |
--------------------------------------------------------------------------
-| 2. Không     |                 |                 |                 |
-| theo chủ đề   |                 |                 |                 |
-| nào           |                 |                 |                 |
--------------------------------------------------------------------------
-
 •**Gợi ý bổ trợ:** Đây là một bài rất hay dùng để dạy cho trẻ cùng với
 bạn của trẻ. Tất cả ngồi trong vòng tròn và lần lượt kể chuyện. Với
 cách thực hiện thứ hai, để tránh trường hợp trẻ kể lại câu chuyện của

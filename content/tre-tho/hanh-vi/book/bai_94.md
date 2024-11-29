@@ -35,58 +35,6 @@ hoàn câu một cách lôgíc.
 
 •**Gợi ý cách dạy:** Làm mẫu cách thực hiện để trẻ làm theo.
 
--------------------------------------------------------------------------
-| **Câu hỏi**     | **Trẻ trả lời** | **Ngày hướng  | **Ngày trẻ    |
-|                 |                 | dẫn**         | tiếp thu      |
-|                 |                 |                 | được**        |
--------------------------------------------------------------------------
-| **(1-2) "Con  | <table        |                 |                 |
-| nghĩ điều gì  | <colgroup     |                 |                 |
-| sẽ xảy ra     | <col            |                 |                 |
-| tiếp theo?"** | style-          |                 |                 |
-|               | "width: 33%" /|                 |                 |
-| **"Con đoán   | <col            |                 |                 |
-| xem bạn ấy sẽ | style-          |                 |                 |
-| làm gì"**     | "width: 33%" /|                 |                 |
-|                 | <col            |                 |                 |
-|                 | style-          |                 |                 |
-|                 | "width: 33%" /|                 |                 |
-|                 | </colgroup    |                 |                 |
-|                 | <thead        |                 |                 |
-|                 | <tr             |                 |                 |
-|                 | class-"header"|                 |                 |
-|                 | <               |                 |                 |
-|                 | th<strong(1-2 |                 |                 |
-|                 | )</strong</th|                 |                 |
-|                 | <th<strongTr  |                 |                 |
-|                 | ẻ</strong</th|                 |                 |
-|                 | <               |                 |                 |
-|                 | th<blockquote|                 |                 |
-|                 | <p<strongđo   |                 |                 |
-|                 | án</strong</p|                 |                 |
-|                 | </b             |                 |                 |
-|                 | lockquote</th|                 |                 |
-|                 | </tr          |                 |                 |
-|                 | </thead       |                 |                 |
-|                 | <tbody        |                 |                 |
-|                 | </tbody       |                 |                 |
-|                 | </table       |                 |                 |
-|                 |                 |                 |                 |
-|                 | **trước một   |                 |                 |
-|                 | sự việc sẽ    |                 |                 |
-|                 | xảy ra một    |                 |                 |
-|                 | cách phù      |                 |                 |
-|                 | hợp**         |                 |                 |
--------------------------------------------------------------------------
-| 1. Khi cho   |                 |                 |                 |
-| trẻ xem tranh |                 |                 |                 |
-| ảnh           |                 |                 |                 |
--------------------------------------------------------------------------
-| 2. Khi kể    |                 |                 |                 |
-| chuyện cho    |                 |                 |                 |
-| trẻ nghe      |                 |                 |                 |
--------------------------------------------------------------------------
-
 •**Gợi ý bổ trợ:** Khi dạy,nên sử dụng các bức tranh ảnh mà trong đó
 có thể đoán trước sẽ có một sự việc sẽ xảy ra.
 
