@@ -2,45 +2,38 @@
 title: BÀI 53 TRAO ĐỔI THÔNG TIN
 date: 2024-11-27T23:07:39.698614
 ---
-**BÀI 53**
 
-**TRAO ĐỔI THÔNG TIN (Con có...... con nhìn thấy......)**
+## Mục Tiêu Của Bài Viết
+- **Hỗ trợ trẻ học cách trao đổi thông tin với người khác.**
+- **Khuyến khích trẻ sử dụng ngôn ngữ để diễn đạt ý muốn hoặc quan sát.**
+- **Tăng cường kỹ năng giao tiếp và phản xạ.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ diễn đạt thông tin về đồ vật hoặc tranh ảnh.
+- Trẻ chủ động tham gia trao đổi thông tin với người khác.
 
-***1. Với đồ vật:*** Bạn ngồi trên ghế đối diện với trẻ. Đưa cho trẻ
-một đồ vật trong khi bạn cũng cầm một đồ vật khác. Giơ đồ vật của bạn
-lên và nói với trẻ "Mẹ đang có...... (tên đồ vật đang cầm)". Khen và
-thưởng cách làm của trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần
-chỉ khen và thưởng những khi trẻ trả lời đúng mà không cần gợi ý trẻ.
-Cứ vài lần lại thay đổi đồ vật. Cuối cùng khi đang trao đổi, yêu cầu
-trẻ chọn lấy một đồ vật cho riêng mình từ trong hộp. Khi trẻ đã học
-được cách nói mình đang cầm cái gì, bạn hãy nói mở rộng thêm một vài
-câu về đồ vật đó (xem ví dụ ở bên dưới).
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***2. Với tranh ảnh/ sách báo:*** Đặt hai bức tranh trên bàn cho trẻ
-nhìn thấy. Chỉ vào một trong 2 bức tranh đó và nói: "Mẹ nhìn
-thấy...... (tên của con vật trong bức ảnh đó)". Gợi ý cho trẻ chỉ vào
-một bức tranh khác và nói : "Con nhìn thấy ...... (tên của vật trong
-bức tranh đó)". Khen và thưởng cho trẻ. Càng về sau càng giảm gợi ý
-cho trẻ, dần dần chỉ khen và thưởng cho trẻ những khi trẻ trả lời đúng
-mà ít phải gợi ý nhất. Cuối cùng chỉ khen và thưởng cho trẻ những khi
-trẻ trả lời đúng mà không cần nhắc. Cứ vài lần lại thay đổi một bức
-tranh. Khi trẻ đã học được cách trao đổi thông tin từ các bức tranh,
-hãy dạy trẻ trả lời theo các bức tranh trong sách (xem các câu hỏi và
-đáp bên dưới).
+### Chuẩn Bị
+- **Giáo cụ:** Đồ vật (bóng, bút), tranh ảnh hoặc sách báo.
+- **Điều kiện trước tiên:** Trẻ nhận biết đồ vật và biết nhắc lại thông tin đơn giản.
 
-•**Giáo cụ:** Đồ vật, tranh và sách báo.
+### Các Bước Thực Hành
+#### Bước 1: Trao Đổi Về Đồ Vật
+1. Đưa cho trẻ một đồ vật và nói: "Mẹ có quả bóng. Con có gì?"
+2. Hướng dẫn trẻ trả lời: "Con có chiếc ô tô."
 
-•**Điều kiện trước tiên:** Trẻ nhận biết đồ vật và nhắc lại người khác
+#### Bước 2: Trao Đổi Về Tranh Ảnh
+1. Đặt hai bức tranh trước mặt trẻ và chỉ vào một tranh: "Mẹ nhìn thấy con mèo."
+2. Hỏi trẻ: "Con nhìn thấy gì?"
+3. Hướng dẫn trẻ trả lời: "Con nhìn thấy con chó."
 
-•**Gợi ý cách dạy:** Làm mẫu các câu hỏi và gợi ý cho trẻ. Có thể kéo
-dài thời gian bằng cách làm mẫu câu hỏi trả lời của trẻ ngay sau khi
-bạn nói. Mỗi lần làm trong 2 giây và dần dần giảm nhắc nhở cho trẻ.
+> **Lưu ý:** Thay đổi đồ vật hoặc tranh ảnh để tăng sự đa dạng.
 
-•**Gợi ý bổ trợ:** Luyện tập cho trẻ khái quát hoá trong các tình
-huống tự nhiên (ví dụ: trong khi chơi, dạy trẻ nói "Con đang chơi với
-..." hoặc trong khi ăn dạy trẻ nói: "Con đang ăn ...")
+## Gợi Ý Cách Dạy
+- **Làm mẫu trước:** Đưa ra câu trả lời mẫu để trẻ dễ bắt chước.
+- **Khuyến khích liên tưởng:** Yêu cầu trẻ miêu tả thêm về đồ vật, ví dụ: "Con mèo màu gì?"
 
-53
-
+## Gợi Ý Bổ Trợ
+- Luyện tập qua các tình huống tự nhiên như trong lúc chơi hoặc ăn uống.
+- Kết hợp câu hỏi và phần thưởng để duy trì hứng thú học tập.

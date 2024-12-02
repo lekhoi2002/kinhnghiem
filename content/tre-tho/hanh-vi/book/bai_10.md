@@ -3,46 +3,34 @@ title: BÀI 10 NHẬN BIẾT NGƯỜI THÂN
 date: 2024-11-27T23:07:39.698614
 ---
 
-**NHẬN BIẾT NGƯỜI THÂN**
+## Mục tiêu của Bài Viết  
+Hỗ trợ phụ huynh dạy trẻ nhận biết và phân biệt các thành viên trong gia đình qua tranh ảnh và người thật.
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ nhận biết được người thân trong gia đình qua tranh ảnh và thực tế.  
+- Trẻ gọi được tên người thân.  
 
-**(1) *Nhận biết người trong tranh ảnh***: Đặt bức ảnh lên bàn trước
-mặt trẻ, tạo sự tập trung chú ý và bảo trẻ "Hãy chỉ vào...... (tên
-người trong ảnh) nhắc trẻ chỉ vào đúng bức ảnh và khen thưởng việc làm
-theo chỉ dẫn của trẻ.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-**(2) *Nhận biết người thực: ***Cùng với một người thân ở trong phòng,
-ngồi lên ghế đối diện với trẻ, tạo sự tập trung chú ý và bảo trẻ "Con
-hãy đi đến chỗ....... (tên của người thân đó)". Nhắc trẻ đi đến chỗ
-người thân đó. Khen thưởng việc làm của trẻ.
+### Chuẩn Bị  
+- Ảnh của các thành viên trong gia đình.
 
-•**Trong mỗi bước 1 và 2:** Hãy gợi ý trẻ ít dần đi trong các lần dạy
-tiếp theo thực hiện theo chỉ dẫn hoặc trả lời bạn bằng các cách khác
-nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng những
-lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần nhắc.
+### Các Bước Thực Hành  
+1. **Nhận biết người trong tranh ảnh**  
+   - Đặt ảnh lên bàn trước mặt trẻ.  
+   - Tạo sự tập trung chú ý và yêu cầu trẻ: **"Hãy chỉ vào... (tên người trong ảnh)"**.  
+   - Hướng dẫn trẻ chỉ đúng và khen thưởng khi trẻ làm theo đúng yêu cầu.  
 
-•**Giáo cụ**: ảnh của người thân
+2. **Nhận biết người thật**  
+   - Cùng một người thân trong gia đình ở trong phòng.  
+   - Yêu cầu trẻ: **"Con hãy đi đến chỗ... (tên người thân)"**.  
+   - Hướng dẫn trẻ thực hiện đúng và khen thưởng.
 
-•**Điều kiện trước tiên**:
+Trong quá trình thực hành, giảm dần sự hỗ trợ và chỉ khen thưởng khi trẻ tự làm đúng.  
 
-(1) Kết hợp những bức ảnh dễ nhận biết.
+## Gợi Ý cách dạy  
+- Hướng dẫn cụ thể cho trẻ bằng cách sử dụng tay chỉ dẫn hoặc làm mẫu.  
 
-(2) Làm theo 10 chỉ dẫn từng bước một và nhận biết được các đồ vật
-trong tranh.
-
-•**Gợi ý cách dạy**: Hướng dẫn cụ thể chân tay trẻ để trẻ làm theo chỉ
-dẫn của bạn.
-
-
--------------------------------------------------------------------------
-
-•**Gợi ý bổ trợ:** Trước khi dạy trẻ phân biệt 2 bức ảnh của người
-thân, dùng các bức ảnh của đồ vật như 1 vật làm cắt ngang dòng suy
-nghĩ của trẻ, bắt đầu với1 ảnh của một người và 2 ảnh hoặc 2 tranh của
-đồ vật. Dần đưa ảnh của nhiều người khác nhau. Nếu trẻ có khó khăn
-trong việc nhận dạng người thân, cố gắng dùng ảnh như 1 vật để nhắc
-trẻ bằng cách giơ ảnh lên khi đưa ra chỉ dẫn "Đi đến chỗ.........".
-
-10
-
+## Gợi Ý Bổ Trợ  
+- Bắt đầu với ảnh của một người thân quen nhất và thêm dần các ảnh khác.  
+- Sử dụng ảnh chụp đồ vật xen kẽ để giúp trẻ tập trung và tránh nhầm lẫn.  

@@ -3,48 +3,54 @@ title: BÀI 8 DẠY BẰNG ĐỒ VẬT (dễ nhớ và có ý nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
 
-**DẠY BẰNG ĐỒ VẬT (dễ nhớ và có ý nghĩa)**
+## Mục tiêu của Bài Viết  
 
-**Các bước dạy trẻ:**
+Hướng dẫn cha mẹ và giáo viên cách dạy trẻ **nhận biết và gọi tên đồ vật**, giúp trẻ phát triển kỹ năng giao tiếp, mở rộng vốn từ vựng, và khả năng nhận thức về thế giới xung quanh.  
 
-***(1). Nhận biết đồ vật:*** Đặt đồ vật lên bàn trước mặt trẻ. Tạo sự
-tập trung chú ý và bảo trẻ "Hãy đưa cho cô........ (tên của đồ vật)".
-Nhắc trẻ đưa cho bạn đồ vật đó và khen thưởng việc làm theo chỉ dẫn
-của trẻ.
+## Mục tiêu của bài dạy  
 
-***(2).Gọi tên các đồ vật:*** Ngồi lên ghế đối diện với trẻ. Tạo sự
-tập trung chú ý và đưa ra 1 đồ vật. Hỏi trẻ "Đây là cái gì ?". Nhắc
-trẻ nói tên đồ vật đó và khen thưởng việc trả lời của trẻ.
+- **Phát triển khả năng nhận biết đồ vật**: Trẻ có thể xác định và thực hiện yêu cầu liên quan đến các đồ vật cụ thể.  
+- **Tăng vốn từ vựng và giao tiếp**: Trẻ có thể gọi tên đồ vật một cách chính xác.  
+- **Xây dựng tính tự lập**: Giảm dần sự hỗ trợ để trẻ tự thực hiện mà không cần nhắc nhở.  
 
-•**Trong mỗi bước 1 và 2**: Bạn hãy gợi ý trẻ ít dần đi trong các lần
-dạy tiếp theo. Trẻ thực hiện việc làm theo chỉ dẫn hoặc trả lời bạn
-bằng các cách khác nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng
-chỉ khen thưởng những lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng
-mà không cần nhắc.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-•**Giáo cụ**: Các đồ vật.
+### Chuẩn Bị  
 
-•**Điều kiện trước tiên**:
+- **Giáo cụ**: Các đồ vật quen thuộc hoặc yêu thích của trẻ, ví dụ: đồ chơi, vật dụng hàng ngày.  
+- **Điều kiện**:  
+  1. Trẻ đã làm quen với các đồ vật khác nhau để nhận biết.  
+  2. Trẻ đã thực hiện tốt các bài tập làm theo chỉ dẫn từng bước.  
+  3. Trẻ có khả năng bắt chước âm thanh hoặc từ đơn giản.  
 
-(1) Kết hợp những đồ vật để nhận biết.
+### Các Bước Thực Hành  
 
-(2) Làm theo 15 chỉ dẫn từng bước một.
+#### 1. Nhận biết đồ vật  
+- Đặt đồ vật lên bàn trước mặt trẻ.  
+- Thu hút sự chú ý của trẻ và nói: **"Hãy đưa cho cô... (tên đồ vật)"**.  
+- Nếu trẻ chưa thực hiện đúng, gợi ý nhẹ bằng cách chỉ hoặc hướng dẫn tay trẻ.  
+- Khi trẻ làm đúng, khen thưởng ngay lập tức.  
 
-(3) Bắt chước những âm thanh và những từ đơn giản .
+#### 2. Gọi tên đồ vật  
+- Ngồi đối diện với trẻ và đưa ra một đồ vật, chẳng hạn như quả bóng hoặc chiếc bút.  
+- Hỏi trẻ: **"Đây là cái gì?"**, và nhắc trẻ nói tên đồ vật đó.  
+- Nếu trẻ không trả lời, hãy gợi ý bằng cách phát âm từ từ hoặc nhấn mạnh tên đồ vật.  
 
-•**Gợi ý cách dạy:**
+#### 3. Giảm dần sự hỗ trợ  
+- Qua mỗi lần dạy, giảm mức độ gợi ý để trẻ tự nhận biết và gọi tên đồ vật.  
+- Chỉ khen thưởng khi trẻ làm đúng mà không cần nhắc nhở.  
+
+## Gợi Ý cách dạy  
+
+- **Sử dụng đồ vật quen thuộc và yêu thích**: Ví dụ, nếu trẻ thích nhân vật Big Bird hoặc Elmo, hãy bắt đầu bằng các đồ chơi này.  
+- **Tránh nhầm lẫn giữa các âm gần giống nhau**: Không nên dạy hai từ có phát âm gần nhau, như "cá" và "rá", trong cùng một bài học.  
+- **Tăng dần độ khó**: Khi trẻ đã quen, dịch chuyển đồ vật gần nhau hơn và thay đổi cách yêu cầu, ví dụ: **"Đưa cho cô tờ giấy ăn"** và **"Lấy cho cô quả bóng"**.  
+
+## Gợi Ý Bổ Trợ  
+
+- **Kết hợp trò chơi với bài học**: Sử dụng đồ vật trong các hoạt động vui nhộn như tung bóng, ghép hình, hoặc sắp xếp đồ chơi để trẻ vừa học vừa chơi.  
+- **Dạy qua hành động**: Nếu trẻ khó gọi tên đồ vật, hãy thử yêu cầu trẻ thực hiện các hành động liên quan, như **"Lấy tờ giấy ăn"** hoặc **"Tung bóng"**.  
+- **Kiên nhẫn và động viên**: Trẻ có thể cần nhiều thời gian để quen với các bước dạy. Hãy kiên nhẫn và tạo môi trường học tập tích cực để trẻ cảm thấy thoải mái.  
 
 
-•**Gợi ý bổ trợ:** Chọn những đồ vật có liên quan đến trẻ. Ví dụ: Nếu
-trẻ thích những đồ chơi nào đó như con chim Big hoặc Elmo, dùng những
-đồ chơi này để làm 1 vài đồ vật đầu tiên để dạy. Một vài đồ vật đầu
-tiên này phải có phát âm khác nhau (ví dụ: không nên dạy từ "cá" và
-"rá" - là tên của 2 đồ vật đầu tiên vì chúng phát âm gần giống nhau).
-Nếu gặp trẻ khó khăn trong việc học cách gọi tên, hãy cố gắng dạy trẻ
-bằng cách sai làm các việc liên quan đế đồ vật "cháu hãy lấy tờ giấy
-ăn" và "cháu hãy tung bóng đi"). Dần dần dịch chuyển đồ vật gần nhau
-hơn và thay đổi khẩu hiệu thành "Đưa cho cô tờ giấy ăn và "lấy cho cô
-quả bóng".
-
-8
 

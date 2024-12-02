@@ -3,33 +3,34 @@ title: BÀI 66 CHỨC NĂNG CỦA CÁC PHÒNG
 date: 2024-11-27T23:07:39.698614
 ---
 
-**CHỨC NĂNG CỦA CÁC PHÒNG**
+## Mục Tiêu Của Bài Viết
+- **Hỗ trợ trẻ nhận biết chức năng của từng phòng trong nhà.**
+- **Tăng cường khả năng liên kết giữa không gian và hành động.**
+- **Khuyến khích trẻ sử dụng ngôn ngữ để diễn đạt chính xác.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nói được chức năng của từng phòng.
+- Trẻ trả lời đúng các câu hỏi liên quan đến phòng và chức năng.
 
-***1. Nhận biết phòng theo chức năng:*** Ngồi trên ghế đối diện với
-trẻ. Yêu cầu trẻ chú ý và hỏi: "Con thường ...... ( ngủ) ở phòng
-nào?". Gợi ý cho trẻ trả lời tên phòng (ví dụ: "Phòng ngủ"). Khen và
-thưởng cho câu trả lời của trẻ. Càng về sau càng giảm gợi ý cho trẻ,
-dần dần khen và thưởng cho trẻ khi trẻ trả lời đúng mà ít phải gợi ý
-nhất. Cuối cùng, chỉ khen và thưởng cho trẻ khi trẻ trả lời đúng mà
-không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***2. Nhận biết chức năng của phòng:*** Ngồi trên ghế đối diện với
-trẻ. Yêu cầu trẻ chú ý và hỏi trẻ: "Con thường làm gì trong ......
-(nhà bếp)?". Gợi ý cho trẻ trả lời câu hỏi (ví dụ: "Con nấu ăn"). Khen
-thưởng câu trả lời của trẻ. Càng về sau càng giảm gợi ý cho trẻ. Dần
-dần khen và thưởng cho trẻ khi trẻ trả lời đúng mà ít phải gợi ý nhất.
-Cuối cùng, chỉ khen và thưởng cho trẻ mỗi khi trẻ trả lời đúng mà
-không cần gợi ý.
+### Chuẩn Bị
+- **Giáo cụ:** Tranh ảnh minh họa các phòng trong nhà.
+- **Điều kiện trước tiên:** Trẻ nhận biết được các phòng và các hành động liên quan.
 
-•**Điều kiện trước tiên:** Trẻ nhận biết được các phòng, chức năng của
-đồ vật, hành động.
+### Các Bước Thực Hành
+#### Bước 1: Nhận Biết Phòng Theo Chức Năng
+1. Hỏi trẻ: "Con thường ngủ ở đâu?" và gợi ý trả lời: "Phòng ngủ."
+2. Khen thưởng khi trẻ trả lời đúng.
 
-•**Gợi ý cách dạy:** Làm mẫu câu trả lời chuẩn cho trẻ.
+#### Bước 2: Nhận Biết Chức Năng Của Phòng
+1. Hỏi trẻ: "Con thường làm gì trong nhà bếp?"
+2. Hướng dẫn trẻ trả lời: "Con nấu ăn."
 
-•**Gợi ý bổ trợ:** Sử dụng tranh ảnh các phòng để gợi ý cho cách thực
-hiện tốt nhất.
+## Gợi Ý Cách Dạy
+- **Làm mẫu:** Hướng dẫn trẻ bằng cách trả lời câu hỏi mẫu.
+- **Tăng độ khó:** Kết hợp hỏi về nhiều phòng trong cùng một bài học.
 
-66
-
+## Gợi Ý Bổ Trợ
+- Sử dụng tranh ảnh các phòng để trẻ thực hành nhận biết.
+- Đưa trẻ tham quan nhà và liên hệ với các hoạt động thực tế.

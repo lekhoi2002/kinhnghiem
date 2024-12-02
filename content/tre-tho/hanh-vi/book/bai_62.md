@@ -2,29 +2,40 @@
 title: BÀI 62 MIÊU TẢ TRANH BẰNG CÂU ĐẦY ĐỦ
 date: 2024-11-27T23:07:39.698614
 ---
-**BÀI 62**
 
-**MIÊU TẢ TRANH BẰNG CÂU ĐẦY ĐỦ**
+## Mục Tiêu Của Bài Viết
+- **Hỗ trợ trẻ học cách miêu tả tranh bằng câu hoàn chỉnh.**
+- **Giúp trẻ phát triển kỹ năng quan sát và diễn đạt ngôn ngữ.**
+- **Tăng cường khả năng giao tiếp thông qua thực hành.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ miêu tả được nội dung bức tranh bằng câu hoàn chỉnh.
+- Trẻ nhận biết và gọi tên các hành động, đồ vật trong tranh.
 
-Ngồi trên ghế đối diện với trẻ. Yêu cầu trẻ chú ý, cho trẻ xem một bức
-tranh và nói với trẻ: "Nói cho mẹ nghe về bức tranh". Gợi ý cho trẻ tả
-về bức tranh đó bằng câu hoàn chỉnh (ví dụ: "Cô gái đang đọc sách").
-Khen và thưởng cho câu trả lời của trẻ và càng về sau càng giảm gợi ý
-cho trẻ. Cuối cùng, khen những cách trẻ làm đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-•**Giáo cụ:** Các bức tranh chỉ hành động.
+### Chuẩn Bị
+- **Giáo cụ:** Các bức tranh minh họa hành động hoặc tình huống.
+- **Điều kiện trước tiên:** Trẻ đã nhận biết đồ vật, người thân, hành động và nhắc lại cụm từ đơn giản.
 
-•**Điều kiện trước tiên:** Trẻ nhận biết được đồ vật, người thân, hành
-động, giới tính và có khả năng nhắc lại các cụm từ.
+### Các Bước Thực Hành
+#### Bước 1: Miêu Tả Tranh Đơn Giản
+1. Ngồi đối diện trẻ, đưa cho trẻ một bức tranh.
+2. Hỏi trẻ: "Con nhìn thấy gì trong tranh này?"
+3. Gợi ý trẻ trả lời bằng câu đầy đủ, ví dụ: "Cô gái đang đọc sách."
 
-•**Gợi ý cách dạy:** Làm mẫu cách mô tả cho trẻ:
+#### Bước 2: Tăng Độ Khó
+1. Đưa bức tranh có nhiều chi tiết hơn.
+2. Yêu cầu trẻ miêu tả nhiều nội dung, ví dụ: "Trong tranh có ai? Họ đang làm gì?"
 
+#### Bước 3: Giảm Gợi Ý
+1. Thực hành liên tục để trẻ tự miêu tả mà không cần hỗ trợ.
+2. Khen thưởng khi trẻ trả lời đúng và tự tin.
 
-•**Gợi ý bổ trợ:** Bạn có thể dùng các bức tranh ảnh về người thân
-trong gia đình đang làm một công việc nào đó và dạy trẻ cách mô tả các
-bức tranh này bằng câu đầy đủ (ví dụ: "Bố đang làm vườn").
+## Gợi Ý Cách Dạy
+- **Làm mẫu trước:** Miêu tả một bức tranh mẫu để trẻ học theo.
+- **Hỏi thêm chi tiết:** Ví dụ, "Cô gái đang đọc sách ở đâu?"
 
-62
-
+## Gợi Ý Bổ Trợ
+- Sử dụng tranh ảnh gia đình để tăng sự gần gũi và hứng thú.
+- Kết hợp bài học với kể chuyện ngắn để trẻ ghi nhớ tốt hơn.

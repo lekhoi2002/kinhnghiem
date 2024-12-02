@@ -3,41 +3,41 @@ title: BÀI 42 PHÂN LOẠI
 date: 2024-11-27T23:07:39.698614
 ---
 
-**PHÂN LOẠI**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ học cách phân loại đồ vật theo nhóm.**
+- **Tăng khả năng nhận biết và sắp xếp đồ vật.**
+- **Phát triển tư duy logic và kỹ năng quan sát.**
 
-**(sắp xếp, nhận biết và nói tên)**
+## Mục Tiêu Của Bài Dạy
+- Trẻ sắp xếp đồ vật hoặc hình ảnh đúng theo nhóm.
+- Trẻ nhận biết và nói được tên nhóm đồ vật.
 
-**Các bước dạy trẻ:**
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***(1). Sắp xếp*:** Để tranh của những đồ vật theo những loại hạng
-riêng biệt lên bàn trước mặt trẻ. Cầm lên 1 tranh đồ vật từ những loại
-hạng ở trên bàn và bảo trẻ "Con hãy xếp theo đúng loại". Hướng dẫn trẻ
-để đúng tranh vào cột phân loại của nó.
+### Chuẩn Bị
+- **Giáo cụ:** Tranh ảnh hoặc đồ vật phân loại theo nhóm (thức ăn, quần áo, đồ chơi).
+- **Điều kiện trước tiên:** Trẻ biết nhận diện đồ vật và nói tên.
 
-***(2). Nhận biết:*** Để tranh của những đồ vật theo những loại hạng
-riêng biệt lên bàn trước mặt trẻ. Bảo trẻ "Con hãy chỉ vào...... (loại
-đồ vật - ví dụ: thức ăn)". Hướng dẫn trẻ chỉ vào đúng loại của nó.
+### Các Bước Thực Hành
+#### Bước 1: Sắp Xếp
+1. Đặt các bức tranh thuộc nhiều nhóm lên bàn.
+2. Yêu cầu trẻ: "Con hãy xếp tranh vào đúng nhóm nhé!"
 
-***(3). Nói tên:*** Để cột phân loại đồ vật lên bàn trước mặt trẻ. Chỉ
-vào một trong những cột đó và hỏi trẻ "Đây là những cái gì?". Hướng
-dẫn trẻ chỉ đúng loại đồ vật. Khen và thưởng cho trẻ . **Trong mỗi
-bước 1, 2 và 3:** Bạn gợi ý trẻ ít dần đi trong các lần dạy tiếp theo.
-Trẻ làm theo chỉ dẫn của bạn hoặc trả lời bằng các cách khác nhau với
-sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng những lần trẻ
-làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần nhắc. •**Giáo
-cụ:** Tranh/ ảnh, đồ vật theo phân loại.
+#### Bước 2: Nhận Biết
+1. Chỉ vào một nhóm đồ vật và hỏi trẻ: "Đây là gì?"
+2. Hướng dẫn trẻ trả lời đúng tên nhóm.
 
-•**Điều kiện trước tiên:** Nói được tên đồ vật, màu sắc, chữ số, chữ
-cái, hình dạng, và sắp xếp những vật không giống nhau.
+#### Bước 3: Nói Tên
+1. Hỏi trẻ về từng nhóm đồ vật, ví dụ: "Đây là nhóm gì?"
+2. Khuyến khích trẻ nói tên nhóm, như "Nhóm thức ăn."
 
-•**Gợi ý cách dạy:**
-(1-2). Hướng dẫn cụ thể chân tay trẻ để trẻ đặt tranh đồ vật vào đúng
-cột phân loại của nó. (3). Làm mẫu nói tên các loại đồ vật.
+> **Lưu ý:** Giảm hỗ trợ khi trẻ quen với bài học.
 
-•**Gợi ý bổ trợ:** Nếu con bạn gặp khó khăn trong việc sắp xếp tranh
-theo phân loại, cố gắng sử dụng các đồ vật có 3 kích thước. (Đồ vật có
-3 kích thước - đồ vật hình khối, bao gồm chiều dọc, chiều ngang và
-chiều sâu).
+## Gợi Ý Cách Dạy
+- **Làm mẫu:** Sắp xếp mẫu trước để trẻ hiểu cách thực hiện.
+- **Dùng đồ vật thật:** Nếu trẻ khó hình dung, hãy sử dụng đồ vật thực tế.
+- **Thêm phần thưởng:** Khen ngợi và thưởng khi trẻ thực hiện đúng.
 
-42
-
+## Gợi Ý Bổ Trợ
+- Bắt đầu với hai nhóm đơn giản, sau đó tăng số lượng nhóm để nâng cao thử thách.
+- Biến phân loại thành trò chơi "ai xếp nhanh hơn."

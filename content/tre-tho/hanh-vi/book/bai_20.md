@@ -3,33 +3,31 @@ title: BÀI 20 NÓI TÊN NGƯỜI THÂN
 date: 2024-11-27T23:07:39.698614
 ---
 
-**NÓI TÊN NGƯỜI THÂN**
+## Mục tiêu của Bài Viết  
+Hỗ trợ phụ huynh dạy trẻ nói tên các thành viên trong gia đình qua hình ảnh và thực tế.  
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ nói được tên các thành viên trong gia đình qua ảnh và thực tế.  
 
-***(1).Nói tên người thân trong ảnh:*** Ngồi lên ghế đối diện với trẻ,
-tạo sự tập trung chú ý. Đưa ra 1 bức ảnh của người thân trong gia đình
-và nói "Đây là ai?" Nhắc trẻ nói tên của người trong ảnh và khen và
-thưởng cho trẻ.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-***(2).Nói tên người thực*:** Cùng với 1 người thân ở trong phòng,
-ngồi lên ghế đối diện với trẻ. Tạo sự tập trung chú ý và chỉ vào người
-thân đó. Hỏi trẻ "Đây là ai?". Nhắc trẻ nói tên người thân đó rồi khen
-và thưởng cho trẻ.
+### Chuẩn Bị  
+- Ảnh của các thành viên trong gia đình.  
 
-**Trong mỗi bước 1 và 2:** Bạn gợi ý cho trẻ ít dần đi trong các lần
-dạy tiếp theo. Trẻ làm theo chỉ dẫn của bạn hoặc trả lời bằng các cách
-khác nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng
-những lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần
-nhắc.
+### Các Bước Thực Hành  
+1. **Nói tên người thân trong ảnh**  
+   - Đưa một bức ảnh của người thân và hỏi: **"Đây là ai?"**  
+   - Hướng dẫn trẻ trả lời và khen thưởng khi trẻ trả lời đúng.  
 
-•**Điều kiện trước tiên:** Nhận biết người thân trong ảnh và trong
-thực tế; nói tên đồ vật.
+2. **Nói tên người thân trong thực tế**  
+   - Chỉ vào một người thân trong phòng và hỏi: **"Đây là ai?"**  
+   - Nhắc trẻ trả lời và khen thưởng khi trẻ trả lời đúng.  
 
-•**Gợi ý cách dạy:** Làm mẫu nói tên của người thân.
+Giảm dần sự hỗ trợ qua các lần dạy tiếp theo.  
 
-•**Gợi ý bổ trợ:** Ban đầu dạy trẻ những người thân trông khác nhau,
-ví dụ : bố mẹ và anh chị em ruột của trẻ
+## Gợi Ý cách dạy  
+- Làm mẫu trả lời trước cho trẻ để trẻ dễ hiểu hơn.  
 
-20
-
+## Gợi Ý Bổ Trợ  
+- Bắt đầu với các thành viên mà trẻ quen thuộc nhất, ví dụ: bố, mẹ.  
+- Sử dụng giọng nói vui vẻ để khuyến khích trẻ trả lời.  

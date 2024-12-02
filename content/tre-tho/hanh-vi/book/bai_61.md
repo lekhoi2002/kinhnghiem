@@ -3,26 +3,38 @@ title: BÀI 61 TRẢ LỜI CÁC CÂU HỎI VỀ KIẾN THỨC CHUNG
 date: 2024-11-27T23:07:39.698614
 ---
 
-**TRẢ LỜI CÁC CÂU HỎI VỀ KIẾN THỨC CHUNG**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ trả lời các câu hỏi về kiến thức chung đơn giản.**
+- **Khuyến khích trẻ học cách sử dụng thông tin đã học để trả lời.**
+- **Tăng khả năng tư duy và ghi nhớ của trẻ.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ trả lời đúng các câu hỏi về kiến thức chung theo chủ đề.
+- Trẻ sử dụng thông tin đã học để diễn đạt câu trả lời rõ ràng.
 
-Ngồi trên ghế ngang hàng với trẻ. Yêu cầu trẻ chú ý và hỏi trẻ một câu
-hỏi liên quan đến kiến thức chung. Gợi ý cho trẻ trả lời đúng, khen và
-thưởng cho trẻ, càng về sau càng giảm gợi ý cho trẻ, dần dần khen và
-thưởng những câu trẻ trả lời đúng mà ít phải gợi ý nhất. Cuối cùng chỉ
-khen những câu trả lời đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-•**Giáo cụ:** Những đồ vật liên quan đến những chủ đề cụ thể, các câu
-hỏi buộc trẻ phải cân nhắc (xem danh mục nguồn).
+### Chuẩn Bị
+- **Giáo cụ:** Tranh ảnh và đồ vật liên quan đến các chủ đề như màu sắc, động vật, thức ăn.
+- **Điều kiện trước tiên:** Trẻ đã nhận biết các khái niệm cơ bản.
 
-•**Điều kiện trước tiên:** Trẻ đã lĩnh hội được các bài học về khả
-năng nhận thức, diễn đạt phù hợp với các chủ đề (ví dụ: đối với màu
-sắc, trẻ có thể nhận biết được các màu).
+### Các Bước Thực Hành
+#### Bước 1: Câu Hỏi Về Màu Sắc
+1. Giơ một bức tranh hoặc đồ vật và hỏi trẻ: "Cái này màu gì?"
+2. Hướng dẫn trẻ trả lời đúng và khen thưởng.
 
-•**Gợi ý bổ trợ:** Có thể sử dụng tranh ảnh về giới tính (nam và nữ)
-để dạy cho trẻ (ví dụ: bạn giơ lên bức tranh một người đàn ông và hỏi
-trẻ: "Người đàn ông này đang làm gì đây? ").
+#### Bước 2: Câu Hỏi Về Động Vật
+1. Hỏi trẻ: "Con mèo kêu như thế nào?"
+2. Gợi ý trẻ trả lời: "Meo meo" và động viên trẻ.
 
-61
+#### Bước 3: Câu Hỏi Về Thức Ăn
+1. Giơ một bức tranh món ăn và hỏi: "Đây là món gì?"
+2. Hướng dẫn trẻ trả lời: "Đây là cơm."
 
+## Gợi Ý Cách Dạy
+- **Dùng đồ vật thực tế:** Thực hành với vật dụng trong nhà để tăng tính thực tiễn.
+- **Làm mẫu câu trả lời:** Nêu ví dụ để trẻ dễ hiểu.
+
+## Gợi Ý Bổ Trợ
+- Sử dụng sách hoặc câu chuyện minh họa để trẻ thực hành trả lời.
+- Tăng độ khó bằng cách mở rộng câu hỏi, như "Tại sao chúng ta cần ăn cơm?"

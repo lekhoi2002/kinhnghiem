@@ -2,47 +2,38 @@
 title: BÀI 40 NGHỀ NGHIỆP
 date: 2024-11-27T23:07:39.698614
 ---
-**NGHỀ NGHIỆP**
 
-**(người làm nghề phục vụ công chúng - dễ nhớ và có ý nghĩa)**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ nhận biết và nói tên các nghề nghiệp phổ biến.**
+- **Khuyến khích trẻ tìm hiểu về vai trò của những người phục vụ công chúng.**
+- **Tăng cường vốn từ vựng và nhận thức xã hội.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nhận biết và chỉ đúng hình ảnh về các nghề nghiệp.
+- Trẻ nói được tên nghề nghiệp và chức năng của họ.
 
-***(1). Nhận biết nghề phục vụ công chúng:*** Để ảnh của những người
-phục vụ công chúng lên bàn trước mặt trẻ. Tạo sự tập trung chú ý và
-bảo trẻ "Con chỉ vào...... (tên của những người phục vụ công chúng)".
-Hướng dẫn trẻ chỉ vào đúng ảnh của người đó.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***(2). Nói tên nghề của người phục vụ công chúng:*** Ngồi lên ghế đối
-diện với trẻ và tạo sự tập trung chú ý. Đưa ra bức ảnh của một người
-làm nghề phục vụ công chúng và hỏi trẻ "Đây là ai?". Hướng dẫn trẻ chỉ
-đúng ảnh của người đó.
+### Chuẩn Bị
+- **Giáo cụ:** Tranh ảnh các nghề nghiệp như bác sĩ, giáo viên, cảnh sát, lính cứu hỏa.
+- **Điều kiện trước tiên:** Trẻ quen với tranh ảnh và đồ vật trong môi trường sống.
 
-•**Trong mỗi bước 1 và 2:** Bạn gợi ý trẻ ít dần đi trong các lần dạy
-tiếp theo. Trẻ làm theo chỉ dẫn của bạn hoặc trả lời theo những cách
-khác nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng
-những lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần
-nhắc.
+### Các Bước Thực Hành
+#### Bước 1: Nhận Biết Nghề Nghiệp
+1. Đặt tranh ảnh lên bàn và yêu cầu trẻ: "Chỉ vào bác sĩ."
+2. Hướng dẫn trẻ chỉ đúng và khen thưởng.
 
-•**Giáo cụ:** Tranh/ ảnh của những người làm nghề phục vụ công chúng
+#### Bước 2: Nói Tên Nghề Nghiệp
+1. Chỉ vào một bức tranh và hỏi trẻ: "Đây là ai?"
+2. Hướng dẫn trẻ trả lời, ví dụ: "Đây là bác sĩ."
 
-•**Điều kiện trước tiên:**
+> **Lưu ý:** Dần giảm hỗ trợ khi trẻ làm quen.
 
-(1). Nhận biết được tranh, người thân, đồ vật thuộc môi trường xung
-quanh và phong cảnh.
+## Gợi Ý Cách Dạy
+- **Làm mẫu câu trả lời:** Ví dụ, "Đây là giáo viên, người dạy học."
+- **Thực tế hóa bài học:** Dẫn trẻ gặp trực tiếp người làm nghề đó khi có cơ hội.
+- **Tạo trò chơi:** Yêu cầu trẻ giả vờ làm bác sĩ hoặc giáo viên.
 
-(2). Nói được tên tranh, người thân thuộc môi trường xung quanh và
-phong cảnh.
-
-•**Gợi ý cách dạy:**
-
-(1). Làm mẫu câu trả lời hoặc hướng dẫn chân tay trẻ để trẻ chỉ vào
-đúng bức tranh.
-
-(2). Làm mẫu nói tên người phục vụ công chúng.
-
-•**Gợi ý bổ trợ:** Bạn phải nhớ chỉ cho con bạn thấy những người làm
-nghề phục vụ công chúng khi bạn và con bạn đi ra ngoài cộng đồng.
-
-40
-
+## Gợi Ý Bổ Trợ
+- Sử dụng các câu chuyện về nghề nghiệp để trẻ dễ hiểu và nhớ lâu hơn.
+- Tạo bộ đồ chơi đóng vai như áo bác sĩ, mũ lính cứu hỏa.

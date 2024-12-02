@@ -3,42 +3,35 @@ title: BÀI 23 HÀNH ĐỘNG
 date: 2024-11-27T23:07:39.698614
 ---
 
-**HÀNH ĐỘNG**
+## Mục tiêu của Bài Viết  
+Hỗ trợ phụ huynh dạy trẻ nhận biết và gọi tên các hành động qua tranh hoặc thực tế.
 
-**(Nói tên hành động qua tranh, bằng cách khác và tự nói)**
+## Mục tiêu của bài dạy  
+- Trẻ nhận biết và gọi tên hành động trong tranh hoặc qua các cách khác nhau.  
+- Trẻ nói được tên hành động mình đang làm.  
 
-**Các bước dạy trẻ:**
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-***(1).Nói câu hành động trong tranh:*** Ngồi lên ngang với trẻ.Tạo sự
-tập trung chú ý và đưa một bức tranh của một người đang làm hành
-động.Hỏi trẻ "Cô ấy / ông ấy họ đang làm gì?''.Hướng dẫn trẻ nói tên
-hành động đó.Khen và thưởng cho trẻ.
+### Chuẩn Bị  
+- Tranh minh họa các hành động.  
+- Đồ vật để trẻ thực hành hành động.  
 
-***(2).Nói tên hành động bằng cách khác:*** Ngồi lên ghế ngang với
-trẻ.Tạo sự tập trung chú ý và làm một hành động.Hỏi trẻ "Cô đang làm
-gì đây?".Hướng dẫn trẻ nói tên hành động đó. Khen và thưởng cho trẻ.
+### Các Bước Thực Hành  
+1. **Nói tên hành động trong tranh**  
+   - Đưa một bức tranh minh họa hành động cho trẻ. Hỏi: **"Cô ấy/ông ấy đang làm gì?"**  
+   - Hướng dẫn trẻ nói tên hành động và khen thưởng trẻ.  
 
-***(3).Tự mình nói tên hành động:*** Hướng dẫn trẻ làm 1 hành
-động(hướng dẫn chân tay trẻ làm hành động đó hoặc làm mẫu hành động để
-trẻ bắt chước).Hỏi trẻ "Con đang gì vậy?''.Hướng dẫn trẻ nói tên hành
-động đó.Khen và thưởng cho trẻ.
+2. **Nói tên hành động qua quan sát**  
+   - Thực hiện một hành động trước mặt trẻ và hỏi: **"Cô đang làm gì đây?"**  
+   - Hướng dẫn trẻ trả lời và khen thưởng khi trẻ trả lời đúng.  
 
-•**Trong mỗi bước 1, 2 và 3:** Bạn gợi trẻ ít dần đi trong các lần dạy
-tiếp theo.Trẻ làm theo chỉ dẫn của bạn hoặc trả lời bằng các cách khác
-nhau với sự hỗ trợ ở mức độ thấp nhất.Cuối cùng chỉ khen thưởng những
-lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần nhắc.
+3. **Tự nói tên hành động**  
+   - Hướng dẫn trẻ thực hiện một hành động, sau đó hỏi: **"Con đang làm gì?"**  
+   - Nhắc trẻ trả lời và giảm dần sự hỗ trợ qua các lần dạy tiếp theo.  
 
-•**Giáo cụ :** Đồ vật để làm hành động và tranh chỉ hành động.
+## Gợi Ý cách dạy  
+- Làm mẫu các hành động và tên gọi để trẻ dễ bắt chước.  
 
-•**Điều kiện cho trước**: Làm theo chỉ dẫn hành động và nói tên hành
-động trong tranh.
-
-•**Gợi ý cách dạy**: Làm mẫu và nói tên hành động.
-
-•**Gợi bổ trợ:** Lấy của người trong gia đình đang làm hành động. Chắc
-chắn nâng cao khả năng tổng quát hoá của trẻ bằng cách bảo trẻ nói tên
-hành động bằng cách khác và tự trẻ nói tên hành động trong ngữ cảnh tự
-nhiên.
-
-23
-
+## Gợi Ý Bổ Trợ  
+- Sử dụng các hành động quen thuộc với trẻ trong sinh hoạt hàng ngày.  
+- Khuyến khích trẻ nói tên hành động trong các tình huống tự nhiên.  

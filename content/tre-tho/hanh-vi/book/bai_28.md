@@ -2,29 +2,45 @@
 title: BÀI 28 SỐ (dễ nhớ và có ý nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
-**SỐ (dễ nhớ và có ý nghĩa)**
 
-**Các bước dạy trẻ:**
-***(1). Nhận biết số***: Để các số lên bàn trước mặt trẻ. Tạo sự tập
-trung chú ý và bảo trẻ "Chỉ vào ......(tên của con số đó)". Hướng dẫn
-trẻ chỉ vào đúng số và khen thưởng việc thực hiện của trẻ. ***(2). Nói
-tên số:*** Ngồi lên ghế đối diện với trẻ. Tạo sự tập trung chú ý và
-giơ 1 chữ số lên. Hỏi trẻ "Đây là số mấy?". Hướng dẫn trẻ nói được số
-đó và khen thưởng việc thực hiện của trẻ . **Trong mỗi bước 1 và 2:**
-Bạn gợi ý trẻ ít dần đi trong các lần dạy tiếp theo. Trẻ làm theo chỉ
-dẫn của bạn hoặc làm theo các cách khác nhau với sự hỗ trợ ở mức độ
-thấp nhất. Cuối cùng chỉ khen thưởng những lần trẻ làm đúng theo chỉ
-dẫn hoặc trả lời đúng mà không cần nhắc.
+## Mục Tiêu Của Bài Viết
+- **Hướng dẫn trẻ nhận biết và nói tên các số một cách chính xác.**
+- **Phát triển kỹ năng tập trung và khả năng thực hiện theo chỉ dẫn của trẻ.**
+- **Giúp trẻ ghi nhớ các con số thông qua các hoạt động thú vị và dễ hiểu.**
 
-•**Giáo cụ:** Các chữ số.
+## Mục Tiêu Của Bài Dạy
+- Trẻ nhận biết và chỉ đúng các số khi được yêu cầu.
+- Trẻ nói được tên của các con số một cách độc lập.
+- Trẻ thực hiện các yêu cầu với mức độ hỗ trợ tối thiểu.
 
-•**Điều kiện trước tiên:**
-(1) Nhận biết tranh đồ vật và tranh và xếp vào đúng chỗ
-(2) Nhận biết số, nói tên đồ vật và tranh
-•**Gợi ý cách dạy:**
-(1) Hướng dẫn cụ thể chân tay trẻ để trẻ chỉ vào đúng số. Dùng cách
-gợi ý vị trí của vật bằng cách để số mà bạn đang hỏi trẻ ở gần trẻ
-hơn.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-(2) Làm mẫu nói tên chữ số đó.
+### Chuẩn Bị
+- **Giáo cụ:** Bộ số (bằng giấy, nhựa hoặc chất liệu an toàn khác).
+- **Điều kiện trước tiên:**  
+  1. Trẻ nhận biết tranh đồ vật.  
+  2. Trẻ có thể nói tên đồ vật trong tranh.
 
+### Các Bước Thực Hành
+#### Bước 1: Nhận Biết Số
+1. Đặt các số lên bàn trước mặt trẻ.
+2. Tạo sự tập trung chú ý và yêu cầu trẻ: "Chỉ vào số …… (tên con số)".
+3. Hướng dẫn trẻ chỉ đúng số và khen thưởng.
+
+#### Bước 2: Nói Tên Số
+1. Ngồi đối diện trẻ, tạo sự tập trung.
+2. Giơ một chữ số lên và hỏi: "Đây là số mấy?".
+3. Hướng dẫn trẻ nói tên con số và khen thưởng khi trẻ trả lời đúng.
+
+> **Lưu ý:** Trong cả hai bước:  
+> - Hỗ trợ ban đầu bằng gợi ý vị trí hoặc lời nhắc.  
+> - Dần dần giảm bớt gợi ý và chỉ khen thưởng khi trẻ làm đúng mà không cần hỗ trợ.
+
+## Gợi Ý Cách Dạy
+- **Hướng dẫn tay trẻ:** Nắm tay trẻ để chỉ vào đúng số.
+- **Làm mẫu:** Đưa ra ví dụ trước khi yêu cầu trẻ thực hiện.
+- **Khuyến khích:** Lặp lại và động viên trẻ thường xuyên để tạo sự tự tin.
+
+## Gợi Ý Bổ Trợ
+- Sử dụng các con số có màu sắc hoặc kích thước khác nhau để tăng khả năng phân biệt.
+- Kết hợp trò chơi như xếp số hoặc ghép cặp để tạo hứng thú học tập.

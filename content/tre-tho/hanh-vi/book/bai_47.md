@@ -3,44 +3,39 @@ title: BÀI 47 TRẢ LỜI CÁC CÂU HỎI VỀ ĐỒ VẬT VÀ TRANH ẢNH
 date: 2024-11-27T23:07:39.698614
 ---
 
-**TRẢ LỜI CÁC CÂU HỎI VỀ ĐỒ VẬT VÀ TRANH ẢNH**
+## Mục Tiêu Của Bài Viết
+- **Khuyến khích trẻ học cách trả lời các câu hỏi về đồ vật và tranh ảnh.**
+- **Giúp trẻ phát triển kỹ năng nhận biết, tư duy và giao tiếp.**
+- **Tăng cường khả năng quan sát và diễn đạt thông tin.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ trả lời chính xác các câu hỏi về đồ vật và tranh ảnh.
+- Trẻ nhận biết và phân biệt các đặc điểm liên quan đến đồ vật và tranh.
 
-***1. Với đồ vật:*** Bạn ngồi trên ghế đối diện với trẻ. Cho trẻ xem
-một số đồ vật và hỏi trẻ về một số đồ vật đó (xem ví dụ trong bảng).
-Gợi ý cho trẻ trả lời các câu hỏi (xem ví dụ trong bảng). Khen và
-thưởng cho trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần khen và
-thưởng cho trẻ mà ít phải gợi ý nhất. Cuối cùng chỉ khen và thưởng cho
-trẻ những cách trẻ làm đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***2. Với tranh ảnh:*** Ngồi trên ghế đối diện với trẻ. Cho trẻ xem
-một bức ảnh của một người thân đang làm việc tại một địa điểm cụ thể
-nào đó (ví dụ: bố đang nấu ăn ở trong bếp). Hãy hỏi trẻ về bức ảnh đó
-(xem ví dụ trong bảng). Gợi ý cho trẻ trả lời câu hỏi. Khen và thưởng
-cho trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần chỉ khen và
-thưởng cho trẻ những khi trẻ trả lời đúng mà không cần gợi ý. Dạy trẻ
-những câu hỏi phân biệt về một đồ vật hoặc một bức tranh riêng lẻ. Lúc
-đầu dạy trẻ phân biệt hai câu hỏi về cùng một đồ vật hoặc một bức
-tranh, sau đó đồng thời với mỗi bức tranh đặt thêm một câu hỏi .
+### Chuẩn Bị
+- **Giáo cụ:** Đồ vật đơn giản và tranh ảnh minh họa (ví dụ: bức ảnh về người thân, đồ chơi quen thuộc).
+- **Điều kiện trước tiên:** Trẻ đã quen với việc nhận biết đồ vật và hình ảnh.
 
-• **Giáo cụ:** Đồ vật và một số bức ảnh người trong gia đình đang làm
-việc tại một địa điểm nào đó.
+### Các Bước Thực Hành
+#### Bước 1: Trả Lời Về Đồ Vật
+1. Ngồi đối diện trẻ và cho trẻ xem một đồ vật.
+2. Hỏi: "Đây là cái gì?" hoặc "Cái này dùng để làm gì?"
+3. Hướng dẫn trẻ trả lời và khen thưởng.
 
-• **Điều kiện trước tiên:**
+#### Bước 2: Trả Lời Về Tranh Ảnh
+1. Đưa bức tranh minh họa về người thân hoặc hoạt động cụ thể, ví dụ: "Bố đang nấu ăn."
+2. Hỏi trẻ: "Ai đây?" hoặc "Bố đang làm gì?"
+3. Gợi ý trẻ trả lời và khen thưởng khi trẻ làm đúng.
 
-(1) Đồ vật: Xác định đồ vật, màu sắc, chức năng, chủng loại và vị
-trí của đồ vật.
+> **Lưu ý:** Bắt đầu với các câu hỏi đơn giản, sau đó tăng mức độ phức tạp.
 
-(2) Tranh ảnh: Nhận biết người thân trong gia đình, các hoạt động,
-nơi chốn, cảm xúc.
+## Gợi Ý Cách Dạy
+- **Hỗ trợ trẻ trả lời:** Nếu trẻ chưa quen, gợi ý bằng cách đưa ra câu trả lời mẫu.
+- **Tập trung vào chi tiết:** Khuyến khích trẻ nói thêm về đặc điểm, màu sắc hoặc vị trí.
+- **Đa dạng câu hỏi:** Ví dụ: "Đây là cái gì?", "Nó ở đâu?", hoặc "Dùng để làm gì?"
 
-
-hỏi theo thứ tự đặt sẵn và sau đó dần dần hỏi trẻ một cách ngẫu nhiên.
-Lưu ý là con bạn không nhất thiết phải đáp ứng đủ các điều kiện ở trên
-để có thể trả lời nhiều câu hỏi về đồ vật hay tranh ảnh (ví dụ: Nếu
-con bạn đã biết tên đồ vật và màu sắc, hãy dạy con bạn trả lời các câu
-hỏi : "Cái gì đây?" và "Cái đó màu gì?").
-
-47
-
+## Gợi Ý Bổ Trợ
+- Sử dụng các câu hỏi về tranh ảnh gia đình để tăng sự gắn kết.
+- Luyện tập qua các trò chơi hỏi-đáp để trẻ cảm thấy thú vị.

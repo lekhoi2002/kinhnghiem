@@ -3,32 +3,37 @@ title: BÀI 41 GIẢ VỜ
 date: 2024-11-27T23:07:39.698614
 ---
 
-**GIẢ VỜ**
+## Mục Tiêu Của Bài Viết
+- **Khuyến khích trẻ phát triển trí tưởng tượng thông qua trò chơi giả vờ.**
+- **Tăng khả năng sáng tạo và kỹ năng xã hội của trẻ.**
+- **Giúp trẻ thể hiện bản thân thông qua hành động và ngôn ngữ.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ thực hiện hành động giả vờ theo yêu cầu.
+- Trẻ mô phỏng chính xác các tình huống quen thuộc.
 
-Ngồi trên ghế đối diện với trẻ và tạo sự tập trung chú ý. Bảo trẻ "Giả
-vờ con...... (hành động, con vật, người làm nghề phục vụ công chúng)"
-(ví dụ: "Giả vờ con đang uống nước nào"). Hướng dẫn trẻ làm hành động
-(ví dụ: đối với hành động uống nước, trẻ đưa cốc lên miệng trước và
-tạo ra âm thanh uống nước).
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-**Trong bước trên:** Bạn gợi ý trẻ ít dần đi trong các lần dạy tiếp
-theo. Trẻ làm theo chỉ dẫn của bạn hoặc làm theo các cách khác nhau
-với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng những lần
-trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần nhắc .
+### Chuẩn Bị
+- **Giáo cụ:** Đồ chơi hoặc trang phục giúp trẻ đóng vai (cốc, áo bác sĩ, mũ cứu hỏa).
+- **Điều kiện trước tiên:** Trẻ đã quen với hành động mô phỏng đơn giản.
 
-•**Giáo cụ:** Đồ dùng sân khấu dùng để đóng giả người làm nghề phục vụ
-công chúng (ví dụ: mũ cứu hoả, dụng cụ đồ nghề của bác sĩ)
+### Các Bước Thực Hành
+#### Bước 1: Làm Mẫu Hành Động
+1. Ngồi đối diện trẻ và yêu cầu: "Giả vờ con đang uống nước nhé!"
+2. Làm mẫu hành động (đưa cốc lên miệng và tạo âm thanh uống nước).
 
-•**Điều kiện trước tiên:** Làm theo chỉ dẫn từng bước một; bắt trước
-các hành động với đồ vật; làm theo chỉ dẫn với động từ chỉ hành động
-và nói được tên đồ vật. Nói được tên con vật và những người làm nghề
-phục vụ công chúng.
+#### Bước 2: Hướng Dẫn Trẻ Làm Theo
+1. Yêu cầu trẻ làm theo hành động của bạn.
+2. Khen thưởng khi trẻ làm đúng.
 
-•**Gợi ý cách dạy:** Hướng dẫn cụ thể chân tay trẻ để trẻ làm theo chỉ
-dẫn .
+> **Lưu ý:** Dần giảm hỗ trợ và chỉ khen thưởng khi trẻ làm tốt mà không cần nhắc.
 
-•**Gợi ý bổ trợ:** Đây là bài dạy vui nhộn, trẻ nên học cùng với chị
-em ruột và bạn cùng lứa tuổi .
+## Gợi Ý Cách Dạy
+- **Sử dụng trò chơi đóng vai:** Mời trẻ và bạn bè hoặc anh chị em cùng tham gia.
+- **Tạo tình huống thú vị:** Yêu cầu trẻ giả vờ làm bác sĩ hoặc đầu bếp.
+- **Khuyến khích giao tiếp:** Hỏi trẻ trong khi thực hiện, ví dụ: "Con đang làm gì vậy?"
 
+## Gợi Ý Bổ Trợ
+- Thực hiện bài học trong không khí vui nhộn, kích thích sự tham gia tự nhiên.
+- Sử dụng câu chuyện để trẻ dễ nhập vai, như "Hôm nay con làm bác sĩ nhé!"

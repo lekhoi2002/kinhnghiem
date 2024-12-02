@@ -3,65 +3,38 @@ title: BÀI 46 NHẬN BIẾT VÀ DIỄN ĐẠT VỀ GIỚI TÍNH
 date: 2024-11-27T23:07:39.698614
 ---
 
-**NHẬN BIẾT VÀ DIỄN ĐẠT VỀ GIỚI TÍNH**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ nhận biết giới tính của bản thân và người khác.**
+- **Khuyến khích trẻ gọi tên và xác định đặc điểm giới tính qua hình ảnh.**
+- **Tăng khả năng quan sát và giao tiếp về giới tính trong các tình huống thực tế.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nhận biết và chỉ đúng giới tính theo yêu cầu.
+- Trẻ gọi được tên giới tính của người trong tranh hoặc thực tế.
 
-***(1). Nhận biết về giới:*** Đặt một hoặc một số tranh ảnh con trai
-hay con gái lên bàn ngay trước mặt trẻ. Yêu cầu trẻ chú ý và nói: "Con
-hãy chỉ cho mẹ ..." (ví dụ: cô gái). Hướng dẫn trẻ chỉ đúng các bức
-tranh ảnh và khen thưởng lại cách thức thực hiện của trẻ. Càng về sau
-càng giảm gợi ý cho trẻ, dần dần khen và thưởng cho trẻ mà ít phải gợi
-ý nhất. Cuối cùng khen và thưởng cho trẻ những cách trẻ làm đúng mà
-không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***(2). Nêu đúng tên giới:*** Ngồi trên ghế đối diện với trẻ. Yêu cầu
-trẻ chú ý, đưa ra một bức tranh, ảnh và hỏi trẻ "Đây là cái gì?".
-Hướng dẫn trẻ gọi đúng giới tính (ví dụ: đó là con trai). Khen và
-thưởng cho trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần chỉ khen
-và thưởng cho trẻ những khi trẻ trả lời đúng mà ít phải gợi ý nhất.
-Cuối cùng khen và thưởng lại cho trẻ những câu trẻ trả lời đúng mà
-không cần gợi ý.
+### Chuẩn Bị
+- **Giáo cụ:** Tranh ảnh minh họa giới tính nam và nữ.
+- **Điều kiện trước tiên:** Trẻ đã quen với việc nhận biết hình ảnh và người thân.
 
-• **Giáo cụ:** Các tranh ảnh nam hay nữ.
+### Các Bước Thực Hành
+#### Bước 1: Nhận Biết Về Giới
+1. Đặt các bức tranh (con trai, con gái) lên bàn trước mặt trẻ.
+2. Yêu cầu trẻ: "Chỉ cho mẹ thấy cô gái."
+3. Hướng dẫn trẻ chỉ đúng và khen thưởng khi trẻ thực hiện tốt.
 
-• **Điều kiện trước tiên:**
+#### Bước 2: Nêu Đúng Tên Giới
+1. Đưa ra một bức tranh và hỏi: "Đây là ai?"
+2. Hướng dẫn trẻ trả lời, ví dụ: "Đây là con trai."
 
-(1) Nhận biết các bức tranh ảnh và những người có đặc điểm giống.
+> **Lưu ý:** Giảm gợi ý dần dần, chỉ hỗ trợ khi cần thiết.
 
-(2) Nhận biết giới tính, gọi tên các bức tranh ảnh những người thân
-trong gia đình.
+## Gợi Ý Cách Dạy
+- **Làm mẫu:** Chỉ vào tranh và nói tên để trẻ lặp lại.
+- **Gợi ý vị trí:** Đặt tranh gần trẻ hơn nếu cần hỗ trợ.
+- **Sử dụng câu hỏi thực tế:** Hỏi trẻ về giới tính của người thân trong gia đình, ví dụ: "Bố là nam hay nữ?"
 
-• **Gợi ý cách dạy:**
-
-(1) Có thể cầm tay trẻ để hướng dẫn trẻ đi đúng hình. Gợi ý về vị
-trí bằng cách đặt các tranh ảnh bạn đang hỏi lại gần con bạn hơn.
-
-(2) Làm mẫu việc dán nhãn cho giới tính để quan sát.
-
-
-| gái     |           |           |           |           |           |
--------------------------------------------------------------------------
-| 3.     |           |           |           |           |           |
-| Người   |           |           |           |           |           |
-| đàn ông |           |           |           |           |           |
--------------------------------------------------------------------------
-| 4.     |           |           |           |           |           |
-| Người   |           |           |           |           |           |
-| phụ nữ  |           |           |           |           |           |
--------------------------------------------------------------------------
-
--------------------------------------------------------------------------
-| •                                 | **Gợi ý bổ trợ:** Hãy dùng các  |
-|                                   | tranh, ảnh miêu tả về giới      |
-|                                   | trong tạp chí. Các tranh, ảnh   |
-|                                   | đó phải                         |
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-
-rõ ràng, dễ hiểu đối với trẻ. Cuối cùng hãy dạy con bạn xác định giới
-của người thân trong gia đình (ví dụ: "Bố là đàn ông hay đàn bà?" hoặc
-"Con là nam hay nữ?").
-
-46
-
+## Gợi Ý Bổ Trợ
+- Sử dụng các bức ảnh gia đình để tăng tính liên hệ thực tế.
+- Thực hiện bài học như một trò chơi, ví dụ: "Ai tìm ra cô gái trước sẽ thắng!"

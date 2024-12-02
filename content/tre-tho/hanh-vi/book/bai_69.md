@@ -3,33 +3,38 @@ title: BÀI 69 CHƠI ĐÓNG VAI VỚI CON RỐI
 date: 2024-11-27T23:07:39.698614
 ---
 
-**CHƠI ĐÓNG VAI VỚI CON RỐI**
+## Mục Tiêu Của Bài Viết
+- **Khuyến khích trẻ tham gia chơi đóng vai với con rối để phát triển khả năng sáng tạo.**
+- **Giúp trẻ luyện tập kỹ năng giao tiếp và diễn đạt ý tưởng.**
+- **Tăng cường tương tác xã hội thông qua trò chơi nhóm.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ đặt câu hỏi và trả lời qua con rối.
+- Trẻ phát triển sự tự tin và kỹ năng giao tiếp qua trò chơi.
 
-Ngồi trong khu vực chơi trên sàn nhà ngang bằng với trẻ. Đặt trước mặt
-trẻ nhiều con rối các nhân vật cụ thể hay hình nộm các con vật (ví dụ:
-con rối Bert, con rối hình con ếch). Gợi ý cho trẻ chọn lấy một con.
-Cầm một con rối lên tay bạn và hỏi trẻ (ví dụ: "Tên con....... (con
-rối) là gì?"). Gợi ý cho trẻ trả lời thay cho con rối của mình (ví dụ:
-"Tên con là Emie"). Khen thưởng cho trẻ đồng thời giảm dần gợi ý cho
-trẻ. Dần dần khen thưởng cách chơi của trẻ mà ít phải gợi ý nhất. Cuối
-cùng, chỉ khen thưởng những câu trả lời đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-•**Giáo cụ:** Các con rối (ví dụ: con rối Bert, Emie, hình nộm các con
-vật).
+### Chuẩn Bị
+- **Giáo cụ:** Các con rối nhân vật hoặc hình nộm động vật.
+- **Điều kiện trước tiên:** Trẻ có khả năng trả lời câu hỏi xã hội và kiến thức chung.
 
-•**Điều kiện trước tiên:** Trao đổi các thông tin xã hội cũng như các
-thông tin về đồ vật, trả lời các câu hỏi về xã hội và các câu hỏi về
-kiến thức chung.
+### Các Bước Thực Hành
+#### Bước 1: Làm Quen Với Con Rối
+1. Đưa con rối cho trẻ và yêu cầu: "Con rối này tên là gì?"
+2. Gợi ý trẻ trả lời: "Tên con là Bert."
 
-•**Gợi ý cách dạy:** Nhắc lại câu hỏi và làm mẫu câu trả lời cho trẻ.
+#### Bước 2: Đặt Câu Hỏi Qua Con Rối
+1. Dùng con rối để hỏi trẻ: "Con thích món ăn gì?"
+2. Hướng dẫn trẻ trả lời qua con rối của mình.
 
+#### Bước 3: Tăng Độ Tương Tác
+1. Dạy trẻ cách đặt câu hỏi ngược lại, ví dụ: "Con rối của bạn tên là gì?"
+2. Khen thưởng khi trẻ tham gia tích cực.
 
-•**Gợi ý bổ trợ:** Nên dạy bài này khi trẻ đang chơi trò chơi cùng với
-các bạn khác. Dạy cho trẻ đặt câu hỏi cho con rối, bạn có thể thay
-bằng con búp bê. Cuối cùng, dạy cho trẻ trao đổi thông tin qua lại
-bằng đặt câu hỏi và trả lời.
+## Gợi Ý Cách Dạy
+- **Thực hành theo nhóm:** Dạy trẻ chơi đóng vai cùng các bạn khác.
+- **Làm mẫu trước:** Đưa ra câu hỏi và trả lời mẫu để trẻ học theo.
 
-
-
+## Gợi Ý Bổ Trợ
+- Kết hợp với các trò chơi kể chuyện để tăng hứng thú.
+- Thay con rối bằng búp bê hoặc đồ chơi khác để tạo sự mới mẻ.

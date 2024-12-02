@@ -3,30 +3,30 @@ title: BÀI 13 CHỈ VÀO TRANH ẢNH TRONG SÁCH
 date: 2024-11-27T23:07:39.698614
 ---
 
-**CHỈ VÀO TRANH ẢNH TRONG SÁCH**
+## Mục tiêu của Bài Viết  
+Hướng dẫn phụ huynh cách dạy trẻ nhận biết các đồ vật trong sách tranh một cách tự nhiên và vui vẻ.
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ nhận biết được đồ vật qua tranh ảnh trong sách.  
+- Trẻ làm theo hướng dẫn và chỉ đúng vào đồ vật.  
 
-Đưa trẻ xem 1 trang trong quyển sách tranh. Bảo trẻ "Hãy chỉ
-vào........(tên của đồ vật)". Hướng dẫn trẻ chỉ vào đúng bức tranh và
-khen thưởng việc làm theo chỉ dẫn của trẻ. Bạn hãy gợi ý trẻ ít dần đi
-trong các lần dạy tiếp theo. Trẻ làm theo chỉ dẫn của bạn bằng cách
-khác nhau vơi sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng
-những lần trẻ làm đúng chỉ dẫn mà không cần nhắc .
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-•**Giáo cụ:** Sách tranh
+### Chuẩn Bị  
+- Sách tranh với hình ảnh rõ ràng, dễ nhận biết.
 
-•**Điều kiện trước tiên:** Nhận biết được các đồ vật và các bức tranh.
+### Các Bước Thực Hành  
+1. **Chỉ vào đồ vật trong sách**  
+   - Đưa trẻ xem một trang sách.  
+   - Yêu cầu trẻ: **"Hãy chỉ vào... (tên đồ vật)"**.  
+   - Hướng dẫn trẻ chỉ đúng và khen thưởng.  
 
-•**Gợi ý cách dạy:**
+Giảm dần sự trợ giúp để trẻ tự thực hiện.  
 
-Hướng dẫn cụ thể chân tay trẻ để trẻ làm theo chỉ dẫn . Bắt đầu với
-các quyển sách tranh mà có giới hạn số lượng các vật trong mỗi bức
-tranh.
+## Gợi Ý cách dạy  
+- Sử dụng sách có ít đồ vật trong mỗi trang để trẻ dễ tập trung.  
+- Dạy trong các tình huống tự nhiên, như đọc sách trước khi đi ngủ.  
 
-• **Gợi ý bổ trợ** : Sắp xếp ảnh của các đồ vật mà con bạn biết trong
-tập album ảnh để chỉ vào. Cố gắng dạy trong ngữ cảnh tự nhiên, không
-gượng ép (ví dụ: dạy trong lúc xem sách trước khi đi ngủ)
-
-13
-
+## Gợi Ý Bổ Trợ  
+- Tạo một album ảnh các đồ vật quen thuộc để trẻ chỉ vào khi học.  
+- Hướng dẫn tay trẻ nếu cần thiết để giúp trẻ làm đúng.  

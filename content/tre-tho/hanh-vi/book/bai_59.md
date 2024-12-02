@@ -3,43 +3,38 @@ title: BÀI 59 SỬ DỤNG CÁC ĐẠI TỪ NHÂN XƯNG
 date: 2024-11-27T23:07:39.698614
 ---
 
-**SỬ DỤNG CÁC ĐẠI TỪ NHÂN XƯNG**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ sử dụng đúng đại từ nhân xưng ngôi thứ nhất ("Con") và ngôi thứ hai ("Mẹ").**
+- **Khuyến khích trẻ diễn đạt chính xác khi giao tiếp.**
+- **Tăng khả năng sử dụng ngôn ngữ một cách tự nhiên.**
 
-**(ngôi thứ nhất và thứ hai)**
+## Mục Tiêu Của Bài Dạy
+- Trẻ sử dụng đúng đại từ nhân xưng ngôi thứ nhất và thứ hai trong câu.
+- Trẻ trả lời và đặt câu hỏi sử dụng đại từ phù hợp.
 
-**Các bước dạy trẻ:**
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***1. Đại từ nhân xưng ngôi thứ nhất (***"***Con***"***):*** Gợi ý cho
-trẻ thực hiện một hành động (ví dụ: cầm tay hướng dẫn trẻ vỗ tay) và
-hỏi: "Con đang làm gì đấy?". Gợi ý cho trẻ nói về hành động của mình
-đang làm, sử dụng đúng đại từ (ví dụ: "Con đang vỗ tay"). Khen và
-thưởng cho câu trả lời của trẻ và càng về sau càng giảm gợi ý cho trẻ.
-Cuối cùng chỉ khen thưởng những khi trẻ làm đúng mà không cần gợi ý.
+### Chuẩn Bị
+- **Giáo cụ:** Không yêu cầu giáo cụ cụ thể.
+- **Điều kiện trước tiên:** Trẻ nhận biết hành động và sự sở hữu.
 
-***2. Đại từ nhân xưng ngôi thứ hai:*** Ngồi ngang hàng với trẻ. Yêu
-cầu trẻ chú ý và thực hiện một hành động (ví dụ: vỗ tay). Hỏi trẻ "Mẹ
-đang làm gì đây?". Gợi ý cho tre trả lời đúng hành động bạn đang làm
-(ví dụ: "Mẹ đang vỗ tay"). Khen và thưởng cho câu trả lời của trẻ và
-càng về sau càng giảm gợi ý cho trẻ. Cuối cùng, chỉ khen và thưởng cho
-trẻ mỗi lần trẻ làm đúng mà không cần gợi ý.
+### Các Bước Thực Hành
+#### Bước 1: Đại Từ Ngôi Thứ Nhất ("Con")
+1. Gợi ý trẻ thực hiện một hành động, ví dụ: vỗ tay.
+2. Hỏi trẻ: "Con đang làm gì?" và hướng dẫn trả lời: "Con đang vỗ tay."
 
-***3. Dạy ngẫu nhiên đại từ nhân xưng ngôi thứ nhất và ngôi thứ
-hai:*** Gợi ý cho trẻ thực hiện một hành động (ví dụ đưa cho trẻ một
-ít nước hoa quả để uống) và bạn cũng thực hiện một hành động. Bạn hãy
-hỏi trẻ: "Con đang làm gì vậy?" hoặc "Mẹ đang làm gì vậy?". Gợi ý cho
-trẻ trả lời đúng câu hỏi ( ví dụ: "Mẹ đang ăn bánh quy" hoặc "Con đang
-uống nước"). Khen và thưởng cho câu trả lời của trẻ và càng về su càng
-giảm gợi ý cho trẻ. Cuối cùng chỉ khen và thưởng những khi trẻ làm
-đúng mà không cần gợi ý.
+#### Bước 2: Đại Từ Ngôi Thứ Hai ("Mẹ")
+1. Thực hiện một hành động trước mặt trẻ, ví dụ: nhặt đồ chơi.
+2. Hỏi trẻ: "Mẹ đang làm gì?" và hướng dẫn trả lời: "Mẹ đang nhặt đồ chơi."
 
-•**Điều kiện trước tiên:** Trẻ nhận biết được hành động, sự sở hữu, sử
-dụng các đại từ ngôi thứ nhất và thứ hai.
+#### Bước 3: Kết Hợp Ngẫu Nhiên
+1. Xen kẽ câu hỏi về ngôi thứ nhất và thứ hai.
+2. Gợi ý trẻ trả lời đúng và khen thưởng khi trẻ thực hiện tốt.
 
-•**Gợi ý cách dạy:** làm mẫu câu trả lời đúng cho trẻ đồng thời cho
-thêm thời gian để thực hiện yêu cầu.
+## Gợi Ý Cách Dạy
+- **Làm mẫu trước:** Thực hiện hành động và mô tả để trẻ lặp lại.
+- **Sử dụng câu hỏi đơn giản:** Tạo môi trường tự nhiên để thực hành.
 
-•**Gợi ý bổ trợ:** Bạn cần nhớ yêu cầu con bạn sử dụng các đại từ trong
-tình huống tự nhiên.
-
-59
-
+## Gợi Ý Bổ Trợ
+- Áp dụng trong sinh hoạt hằng ngày, như khi ăn uống hoặc chơi đùa.
+- Tạo trò chơi hỏi đáp giữa bạn và trẻ.

@@ -1,52 +1,32 @@
 ---
-title: BÀI 25 MÀU SẮC dễ nhớ và có ý nghĩa
+title: BÀI 25 MÀU SẮC (dễ nhớ và có ý nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
 
-**MÀU SẮC (dễ nhớ và có ý nghĩa)**
+## Mục tiêu của Bài Viết  
+Hỗ trợ phụ huynh dạy trẻ nhận biết và gọi tên các màu sắc cơ bản một cách dễ nhớ và thú vị.
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ nhận biết và gọi tên các màu sắc.  
 
-***(1).Nhận biết màu sắc:*** Để những vật có màu sắc lên trên bàn
-trước mặt trẻ. Tạo sự tập trung chú ý và bảo trẻ "Chỉ vào......(tên
-của màu sắc)". Ví dụ: "Con hãy chỉ vào mầu đỏ nào". Hướng dẫn trẻ chỉ
-vào đúng màu sắc và khen thưởng việc thực hiện của trẻ.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-***(2).Nói tên màu sắc:***Ngồi lên ghế đối diện với trẻ. Tạo sự tập
-trung chú ý và giơ một vật có màu sắc lên, hỏi trẻ: "Đây là màu gì?".
-Hướng dẫn trẻ nói lên màu sắc đó và khen thưởng trẻ.
+### Chuẩn Bị  
+- Các đồ vật có màu sắc khác nhau (bóng, giấy màu).  
 
-**Trong mỗi bước 1 và 2:** Bạn gợi ý trẻ ít dần đi trong các lần dạy
-tiếp theo. Trẻ làm theo chỉ dẫn của các bạn hoặc làm theo các cách
-khác nhau với sự hỗ trợ ở mức thấp nhất. Cuối cùng chỉ khen thưởng
-những lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần
-nhắc.
+### Các Bước Thực Hành  
+1. **Nhận biết màu sắc**  
+   - Đặt các vật có màu sắc lên bàn trước mặt trẻ. Yêu cầu: **"Con hãy chỉ vào màu đỏ nào."**  
+   - Hướng dẫn trẻ chỉ đúng màu và khen thưởng.  
 
-•**Giáo cụ:** Giấy tô màu hoặc đồ vật có màu sắc.
+2. **Gọi tên màu sắc**  
+   - Giơ một đồ vật và hỏi trẻ: **"Đây là màu gì?"**  
+   - Hướng dẫn trẻ trả lời và khen thưởng khi trẻ làm đúng.  
 
-•**Điều kiện trước tiên:**
+Giảm dần sự hỗ trợ qua các lần dạy.  
 
-(1) Nhận biết tranh.
+## Gợi Ý cách dạy  
+- Hướng dẫn tay trẻ chỉ vào đúng màu sắc khi cần thiết.  
 
-(2) Nói được tên đồ vật và tranh.
-
-•**Gợi ý cách dạy:**
-
-(1) Hướng dẫn cụ thể chân tay trẻ để trẻ chỉ và đúng màu sắc. Dùng
-cách gợi ý vị trí của vật bằng cách để đồ vật có màu sắc mà bạn đang
-hỏi để gần trẻ hơn.
-
-(2) Làm mẫu nói tên màu sắc.
-
-
-•**Gợiý bổ trợ:** Cố gắng tình cờ dạy trẻ kỹ năng để nhận biết màu sắc
-có ý nghĩa. Xếp những vật mà trẻ thích có màu sắc khác nhau lên trước
-mặt trẻ nhưng đừng để cho trẻ với được. Khi trẻ đòi lấy 1 vật nào đó,
-hỏi trẻ vật đó màu gì trước khi đưa vật đó cho trẻ. Ví dụ: để 1 cái ô
-tô màu vàng, 1 quả bóng màu xanh da trời và 1 cái kẹo màu xanh lá cây
-lên bàn. Nếu trẻ đòi lấy cái kẹo màu xanh lá cây, giơ nó lên và hỏi
-"Cái kẹo này màu gì?". Hướng dẫn trẻ trả lời và đưa cái kẹo đó cho
-trẻ.
-
-25
-
+## Gợi Ý Bổ Trợ  
+- Đặt các đồ vật yêu thích có màu sắc khác nhau trước mặt trẻ. Khi trẻ yêu cầu, hỏi trẻ tên màu trước khi đưa cho trẻ.  

@@ -3,46 +3,38 @@ title: BÀI 63 MIÊU TẢ CÁC ĐẶC TÍNH CỦA ĐỒ VẬT
 date: 2024-11-27T23:07:39.698614
 ---
 
-**MIÊU TẢ CÁC ĐẶC TÍNH CỦA ĐỒ VẬT**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ học cách miêu tả các đặc tính cơ bản của đồ vật.**
+- **Tăng cường khả năng quan sát và diễn đạt chi tiết.**
+- **Phát triển vốn từ vựng và kỹ năng tư duy logic.**
 
-**(trong và ngoài tầm quan sát)**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nhận biết và mô tả được ít nhất ba đặc tính của một đồ vật.
+- Trẻ phân biệt được đồ vật thông qua đặc tính như màu sắc, hình dáng, chức năng.
 
-**Các bước dạy trẻ:**
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***1. Trong tầm quan sát của trẻ:*** Ngồi trên ghế đối diện với trẻ ,
-đưa cho trẻ một đồ vật và nói với trẻ: "Hãy nói cho mẹ nghe về đồ vật
-này". Gợi ý cho trẻ nhận biết được đồ vật và nói được ba đặc tính của
-đồ vật ấy ( ví dụ: "Đây là xe cứu hoả, màu đỏ- trắng, trên xe có một
-chú lính cứu hoả và một cái thang"). Khen và thưởng cho câu trả lời
-của trẻ và càng về sau càng giảm gợi ý cho trẻ. Cuối cùng chỉ khen và
-thưởng cho trẻ những câu trả lời đúng mà không cần gợi ý.
+### Chuẩn Bị
+- **Giáo cụ:** Đồ vật đa dạng (xe đồ chơi, quả bóng, sách).
+- **Điều kiện trước tiên:** Trẻ nhận biết đồ vật và có thể nhắc lại các cụm từ đơn giản.
 
-***2. Ngoài tầm quan sát của trẻ:*** Ngồi trên ghế đối diện với trẻ.
-Yêu cầu trẻ chú ý và nói với trẻ: "Hãy nói cho mẹ nghe về....... (bạn
-nêu tên một đồ vật, quả táo chẳng hạn)". Gợi ý cho trẻ mô tả đồ vật
-theo đặc tính, chức năng hay chủng loại (ví dụ: "Táo màu đỏ, ăn được
-và là một loại quả"). Khen và thưởng cho câu trả lời của trẻ và càng
-về sau càng giảm gợi ý cho trẻ. Cuối cùng chỉ khen thưởng những câu
-trả lời đúng mà không cần gợi ý.
+### Các Bước Thực Hành
+#### Bước 1: Miêu Tả Đồ Vật Trong Tầm Quan Sát
+1. Đưa đồ vật cho trẻ và hỏi: "Con thấy đây là gì?"
+2. Gợi ý trẻ mô tả các đặc tính, ví dụ: "Đây là xe cứu hỏa, màu đỏ, có thang."
 
-•**Giáo cụ:** Đồ vật.
+#### Bước 2: Miêu Tả Đồ Vật Ngoài Tầm Quan Sát
+1. Hỏi trẻ về đồ vật mà trẻ không nhìn thấy, ví dụ: "Quả táo như thế nào?"
+2. Hướng dẫn trẻ trả lời: "Táo màu đỏ, ăn được và là một loại quả."
 
-•**Điều kiện trước tiên:**
+#### Bước 3: Thực Hành Đa Dạng
+1. Xen kẽ giữa đồ vật có sẵn và đồ vật không có trước mặt trẻ.
+2. Khen thưởng khi trẻ trả lời đúng và đủ thông tin.
 
-1. Trong tầm quan sát của trẻ: Nhận biết được đồ vật cũng như những
-đặc tính, chức năng và phân loại của nó, trẻ có thể nhắc lại các cụm
-từ
+## Gợi Ý Cách Dạy
+- **Làm mẫu trước:** Miêu tả một đồ vật chi tiết để trẻ học theo.
+- **Thêm câu hỏi chi tiết:** Hỏi về màu sắc, hình dạng, chức năng của đồ vật.
 
-2. Ngoài tầm quan sát của trẻ: Mô tả các đồ vật trẻ nhìn thấy, nhận
-biết được chủng loại, đặc tính, chức năng của đồ vật, nhắc lại các cụm
-từ.
-
-•**Gợi ý cách dạy:** Làm mẫu cách mô tả các đồ vật cho trẻ.
-
-•**Gợi ý bổ trợ:** Điều chỉnh, uốn nắn cách trả lời của trẻ qua từng
-lần dạy (ví dụ: ban đầu dạy trẻ nói "Chiếc xe màu đỏ ", lần thứ hai
-dạy trẻ nói "Chiếc xe màu đỏ và có bốn bánh", lần thứ ba dạy trẻ nói
-"Chiếc xe màu đỏ, có bốn bánh và trên xe có một người đang lái xe").
-
-63
-
+## Gợi Ý Bổ Trợ
+- Luyện tập với các đồ vật quen thuộc trong nhà.
+- Sử dụng trò chơi phân loại đồ vật dựa trên đặc tính để tăng hứng thú.

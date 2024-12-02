@@ -3,49 +3,38 @@ title: BÀI 14 CHỨC NĂNG CỦA ĐỒ VẬT
 date: 2024-11-27T23:07:39.698614
 ---
 
-**CHỨC NĂNG CỦA ĐỒ VẬT**
+## Mục tiêu của Bài Viết  
+Hướng dẫn phụ huynh dạy trẻ hiểu và nói được chức năng của các đồ vật trong cuộc sống hằng ngày.
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ nhận biết được đồ vật qua chức năng.  
+- Trẻ nói được chức năng của đồ vật.  
 
-***(1). Nhận biết đồ vật qua chức năng:***
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-Để đồ vật hoặc bức tranh lên bàn trước mặt trẻ. Tạo sự tập trung chú ý
-và bảo trẻ: ví dụ "Con quét nhà bằng cái gì?" (nhận biết được cái chổi
-qua chức năng quét nhà). Hướng dẫn trẻ chỉ vào đúng đồ vật hoặc bức
-tranh. Khen thưởng việc làm theo chỉ dẫn của trẻ. Bạn hãy gợi ý trẻ ít
-dần đi trong các lần dạy tiếp theo. Trẻ làm theo chỉ dẫn của bạn bằng
-các cách khác nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ
-khen thưởng những lần trẻ làm đúng theo chỉ dẫn mà không cần nhắc.
+### Chuẩn Bị  
+- Các đồ vật đơn giản như bút chì, thìa, chổi.  
 
-***(2*). *Nói tên đồ vật qua chức năng:*** Ngồi lên ghế đối diện với
-trẻ. Tạo sự tập trung chú ý và hỏi trẻ :ví dụ "Con tô màu bằng cái
-gì?". Nhắc trẻ gọi tên đồ vật "bút chì màu" hoặc "Con tô màu bằng bút
-chì màu''.
+### Các Bước Thực Hành  
+1. **Nhận biết đồ vật qua chức năng**  
+   - Đặt đồ vật hoặc tranh lên bàn.  
+   - Hỏi trẻ: **"Con quét nhà bằng cái gì?"**  
+   - Hướng dẫn trẻ chỉ vào đúng đồ vật và khen thưởng.  
 
-***(3). Nói được chức năng của đồ vật:*** Ngồi lên ghế đối diện với
-trẻ và tạo sự tập trung chú ý. Hỏi trẻ "Con làm gì với........(tên đồ
-vật)"? Ví dụ "Con làm gì bằng chiếc bút chì này?". Khen và thưởng cho
-trẻ.
+2. **Nói tên đồ vật qua chức năng**  
+   - Hỏi trẻ: **"Con tô màu bằng cái gì?"**  
+   - Nhắc trẻ trả lời đúng và khen thưởng.  
 
-Bạn hãy gợi ý trẻ ít dần đi trong các lần dạy tiếp theo. Trẻ trả lời
-câu hỏi của bạn bằng các cách khác nhau với sự hỗ trợ ở mức độ thấp
-nhất. Cuối cùng chỉ khen thưởng những lần trẻ trả lời đúng mà không
-cần nhắc.
+3. **Nói chức năng của đồ vật**  
+   - Hỏi trẻ: **"Con làm gì với chiếc bút chì này?"**  
+   - Hướng dẫn trẻ trả lời và khen thưởng.  
 
-•**Giáo cụ:** Đồ vật.
+Giảm dần sự trợ giúp qua các lần dạy.  
 
-•**Điều kiện trước tiên:**
-(1) Làm theo các chỉ dẫn từng bước một;nhận biết đồ vật & làm theo chỉ
-dẫn với động từ chỉ hành động.
+## Gợi Ý cách dạy  
+- Bắt đầu với đồ vật mà trẻ đã quen thuộc.  
+- Làm mẫu câu trả lời cho trẻ nếu cần thiết.  
 
-(2 và 3) Nhận biết đồ vật qua chức năng và gọi tên đồ vật & nói được
-chức năng đó.
-
-
-
-• **Gợi ý bổ trợ:** Chỉ dùng các đồ vật mà con bạn đã biết được trong
-bài nhận biết đồ vật/ tranh ảnh (ví dụ: phải tin chắc là con bạn đã
-biết cái búa trước khi bạn dạy trẻ chức năng của cái búa).
-
-14
-
+## Gợi Ý Bổ Trợ  
+- Đảm bảo trẻ biết tên đồ vật trước khi học chức năng của chúng.  
+- Tạo các tình huống thực tế để trẻ áp dụng kiến thức.  

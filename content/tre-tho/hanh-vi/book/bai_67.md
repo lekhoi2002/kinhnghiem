@@ -3,24 +3,34 @@ title: BÀI 67 TRẢ LỜI CÂU HỎI VỀ THỜI GIAN
 date: 2024-11-27T23:07:39.698614
 ---
 
-**TRẢ LỜI CÂU HỎI VỀ THỜI GIAN**
+## Mục Tiêu Của Bài Viết
+- **Hỗ trợ trẻ học cách trả lời các câu hỏi liên quan đến thời gian.**
+- **Giúp trẻ nhận thức rõ hơn về thời điểm trong ngày và các hoạt động gắn liền.**
+- **Phát triển kỹ năng giao tiếp và sử dụng từ ngữ chỉ thời gian.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ trả lời được các câu hỏi về thời gian như "Khi nào?", "Lúc mấy giờ?"
+- Trẻ liên kết thời gian với các hoạt động quen thuộc.
 
-Ngồi trên ghế đối diện với trẻ. Yêu cầu trẻ chú ý và hỏi trẻ một câu
-hỏi về thời gian (ví dụ: "Con thường đi ngủ lúc nào?"). Gợi ý cho trẻ
-trả lời câu hỏi đó (ví dụ: "Vào mỗi tối "). Khen thưởng câu trả lời
-cho trẻ. Càng về sau càng giảm gợi ý cho trẻ. Dần dần khen và thưởng
-cho trẻ mà ít phải gợi ý nhất. Cuối cùng chỉ khen và thưởng những khi
-trẻ trả lời đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-•**Điều kiện trước tiên:** Trẻ trả lời được các câu hỏi về Ai, Ở đâu,
-Tại sao.
+### Chuẩn Bị
+- **Giáo cụ:** Đồng hồ đồ chơi hoặc lịch.
+- **Điều kiện trước tiên:** Trẻ đã nhận biết các khái niệm cơ bản như sáng, chiều, tối.
 
-•**Gợi ý cách dạy:** Làm mẫu câu trả lời chuẩn cho trẻ.
+### Các Bước Thực Hành
+#### Bước 1: Hỏi Về Thời Điểm Trong Ngày
+1. Hỏi trẻ: "Con thường ăn sáng khi nào?" và gợi ý trả lời: "Vào buổi sáng."
+2. Khen thưởng trẻ khi trẻ trả lời đúng.
 
-•**Gợi ý bổ trợ:** Sử dụng sách MEER2 để hỏi thêm các câu hỏi về thời
-gian (xem danh mục nguồn).
+#### Bước 2: Hỏi Cụ Thể Về Thời Gian
+1. Sử dụng đồng hồ và hỏi trẻ: "Con thường đi ngủ lúc mấy giờ?"
+2. Hướng dẫn trẻ trả lời: "Con đi ngủ lúc 9 giờ tối."
 
-67
+## Gợi Ý Cách Dạy
+- **Làm mẫu:** Nêu các câu trả lời mẫu để trẻ dễ hiểu.
+- **Thực hành thường xuyên:** Luyện tập các câu hỏi trong các hoạt động hàng ngày.
 
+## Gợi Ý Bổ Trợ
+- Sử dụng lịch hoặc đồng hồ để trẻ liên hệ thời gian cụ thể.
+- Thực hành qua trò chơi hỏi đáp về thời gian trong ngày.

@@ -3,41 +3,37 @@ title: BÀI 45 CÁC THẺ TRANH (xếp theo đúng thứ tự và mô tả)
 date: 2024-11-27T23:07:39.698614
 ---
 
-**CÁC THẺ TRANH (xếp theo đúng thứ tự và mô tả)**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ học cách sắp xếp các hình ảnh theo thứ tự.**
+- **Tăng cường kỹ năng kể chuyện và mô tả của trẻ.**
+- **Khuyến khích trẻ phát triển tư duy logic và sự sáng tạo.**
 
-**Các bước dạy trẻ :**
+## Mục Tiêu Của Bài Dạy
+- Trẻ sắp xếp các thẻ tranh đúng thứ tự từ trái qua phải.
+- Trẻ mô tả câu chuyện dựa trên nội dung các thẻ tranh.
 
-***- Xếp theo đúng thứ tự:*** Đưa cho trẻ một bộ thẻ tranh và yêu cầu
-"Con hãy xếp các thẻ này theo đúng thứ tự". Hướng dẫn trẻ xếp các thẻ
-trên theo đúng thứ tự từ trái sang phải. Khen thưởng lại cách thực
-hiện của trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần khen và
-thưởng cho trẻ mà ít gợi ý nhất. Cuối cùng khen và thưởng cho trẻ
-những cách làm mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***- Mô tả các thẻ tranh:*** Đưa cho trẻ một bộ thẻ tranh và yêu cầu
-trẻ xếp các thẻ đó theo thứ tự. Khi trẻ đã xếp đúng thứ tự các thẻ
-trên bàn, bạn hãy nói với trẻ "Con hãy nói cho mẹ biết về các hình in
-trên các thẻ tranh này". Gợi ý cho trẻ chỉ vào từng hình và mô tả
-chúng từ trái qua phải ( ví dụ: "cô gái đang rót nước, cô ấy đang uống
-nước, cô ấy đang để chiếc cốc vào trong chậu"). Khen và thưởng cho
-trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần chỉ khen và thưởng
-mỗi khi trẻ trả lời đúng mà ít phải gợi ý nhất. Cuối cùng, khen thưởng
-cho trẻ những câu trả lời đúng mà không cần gợi ý .
+### Chuẩn Bị
+- **Giáo cụ:** Bộ thẻ tranh minh họa các chuỗi hành động (ví dụ: rót nước, uống nước, cất cốc).
+- **Điều kiện trước tiên:** Trẻ biết mô tả hình ảnh bằng câu đơn giản.
 
-•**Giáo cụ:** Một bộ thẻ tranh.
+### Các Bước Thực Hành
+#### Bước 1: Xếp Thứ Tự
+1. Đưa bộ thẻ tranh cho trẻ và yêu cầu: "Con hãy xếp các thẻ này theo thứ tự."
+2. Hướng dẫn trẻ xếp từ trái qua phải.
 
-•**Điều kiện trước tiên:** Mô tả các bức hình bằng các câu đầy đủ.
+#### Bước 2: Mô Tả Thẻ Tranh
+1. Sau khi xếp, yêu cầu trẻ: "Con hãy kể lại câu chuyện này."
+2. Hướng dẫn trẻ mô tả từng thẻ tranh, ví dụ: "Cô gái đang rót nước, cô ấy đang uống nước."
 
-•**Gợi ý cách dạy:** Gợi ý cho trẻ xếp các thẻ tranh đó theo đúng thứ
-tự hoặc làm mẫu cách thực hiện cho trẻ.
+> **Lưu ý:** Giảm dần hỗ trợ và chỉ gợi ý khi trẻ gặp khó khăn.
 
+## Gợi Ý Cách Dạy
+- **Làm mẫu trước:** Kể lại câu chuyện mẫu để trẻ hiểu cách thực hiện.
+- **Sử dụng chuỗi ảnh quen thuộc:** Chọn các tình huống trẻ đã trải qua để dễ liên tưởng.
+- **Tăng độ khó:** Bắt đầu với hai thẻ, sau đó tăng lên năm thẻ.
 
-dạy trẻ yêu cầu thứ hai (ví dụ: sau khi bạn hướng dẫn con bạn xếp bài
-theo thứ tự, hãy yêu cầu trẻ mô tả từng hình một). Bắt đầu làm với
-chuỗi hai lá bài và tiến dần tới chuỗi năm lá bài. Hãy sử dụng các
-tình huống mà con bạn đã có kinh nghiệm (ví dụ: leo cầu trượt, ngồi
-trên cầu trượt, trượt xuống...). Hãy chụp ảnh con bạn trong chuỗi
-hoạt động và sử dụng chúng để dạy cho trẻ.
-
-
-
+## Gợi Ý Bổ Trợ
+- Chụp ảnh các hoạt động hằng ngày của trẻ để làm thẻ tranh.
+- Biến bài học thành trò chơi "kể chuyện từ thẻ tranh" để tạo hứng thú.

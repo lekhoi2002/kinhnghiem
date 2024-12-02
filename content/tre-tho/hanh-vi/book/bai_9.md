@@ -3,46 +3,36 @@ title: BÀI 9 DẠY BẰNG TRANH ẢNH (dễ nhớ và ý nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
 
-**DẠY BẰNG TRANH ẢNH (dễ nhớ và ý nghĩa)**
+## Mục tiêu của Bài Viết  
+Hướng dẫn phụ huynh cách dạy trẻ nhận biết và gọi tên các bức tranh bằng phương pháp tương tác trực tiếp, tạo sự hứng thú và phát triển khả năng nhận thức của trẻ.
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ nhận biết được các bức tranh đơn giản.
+- Trẻ gọi được tên các đồ vật trong tranh.  
+- Phát triển khả năng tập trung và làm theo hướng dẫn.
 
-**(1) *Nhận biết tranh***: Đặt bức tranh lên bàn trước mặt trẻ. Tạo sự
-tập trung chú ý và bảo trẻ "Hãy chỉ vào........ (tên của vật trong
-tranh)". Nhắc trẻ chỉ vào bức tranh và khen thưởng việc làm theo chỉ
-dẫn của trẻ.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-(**2) *Nói tên các bức tranh***: Ngồi lên ghế đối diện với trẻ. Tạo sự
-tập trung chú ý và đưa ra 1 bức tranh cho trẻ nhìn. Hỏi trẻ "đây là
-cái gì"? Nhắc trẻ nói lên bức tranh đó và khen thưởng câu trả lời đó
-của trẻ.
+### Chuẩn Bị  
+- Các bức tranh minh họa đồ vật đơn giản (ví dụ: quả táo, cái bàn, chiếc xe).  
 
-**Trong mỗi bước 1 và 2:** Bạn hãy gợi ý trẻ ít dần đi trong những lần
-dạy tiếp theo. Trẻ thực hiện theo các chỉ dẫn bằng các cách khác nhau
-và sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng những lần
-trẻ đúng, theo chỉ dẫn hoặc làm đúng mà không cần nhắc.
+### Các Bước Thực Hành  
+1. **Nhận biết tranh**  
+   - Đặt bức tranh lên bàn trước mặt trẻ.  
+   - Tạo sự tập trung chú ý và yêu cầu trẻ: **"Hãy chỉ vào... (tên đồ vật trong tranh)"**.  
+   - Hướng dẫn trẻ chỉ đúng và khen thưởng khi trẻ làm theo đúng yêu cầu.  
 
-•**Giáo cụ :** Tranh ảnh các đồ vật.
+2. **Nói tên các bức tranh**  
+   - Ngồi đối diện với trẻ, đưa ra một bức tranh và hỏi: **"Đây là cái gì?"**  
+   - Nhắc trẻ nói tên đồ vật và khen thưởng câu trả lời đúng.  
 
-•**Điều kiện trước tiên:**
+Trong quá trình thực hiện, giảm dần sự trợ giúp để trẻ tự hoàn thành nhiệm vụ. Cuối cùng, chỉ khen thưởng khi trẻ làm đúng mà không cần nhắc nhở.  
 
-(1) Kết hợp những bức tranh dễ nhận biết.
+## Gợi Ý cách dạy  
+- Dùng giọng nói rõ ràng, nhẹ nhàng để thu hút sự chú ý của trẻ.  
+- Khi trẻ làm sai, kiên nhẫn nhắc lại hướng dẫn và khích lệ trẻ thử lại.  
 
-(2) Làm theo 10 - 15 chỉ dẫn từng bước một và có thể nhận biết 10 -
-15 đồ vật.
-
-(3) Gọi tên các đồ vật.
-
-•**Gợi ý cách dạy:**
-
--------------------------------------------------------------------------
-
-•**Gợi ý bổ trợ:** Bắt đầu với những bức tranh đồ vật mà trẻ đã học
-cách nhận dạng. Những bức tranh đó bề ngoài phải dễ dàng nhận thấy (ví
-dụ: Bức tranh1 quả táo phải là một quả táo đứng một mình, khác hẳn với
-một quả táo ở trên cây). Ảnh của đồ vật có liên quan đến trẻ (như 1
-bức ảnh chụp chiếc giường của trẻ hoặc một bức ảnh đôi giầy của trẻ)
-sẽ giúp trẻ tăng khả năng hệ thống hoá nhận thức.
-
-9
-
+## Gợi Ý Bổ Trợ  
+- Bắt đầu với những bức tranh dễ nhận diện, như quả táo hoặc chiếc bàn.  
+- Sử dụng các bức ảnh quen thuộc với trẻ (ví dụ: ảnh chụp đồ chơi của trẻ, đồ vật trong nhà).  
+- Dạy trẻ trong không gian yên tĩnh để trẻ dễ tập trung.  

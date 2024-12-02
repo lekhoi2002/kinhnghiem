@@ -3,34 +3,29 @@ title: BÀI 21 TRẺ LỰA CHỌN
 date: 2024-11-27T23:07:39.698614
 ---
 
-**TRẺ LỰA CHỌN**
+## Mục tiêu của Bài Viết  
+Hỗ trợ phụ huynh dạy trẻ đưa ra lựa chọn giữa các đồ vật yêu thích và không yêu thích.
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ biết chỉ vào vật mà mình muốn.  
+- Trẻ gọi tên vật mà mình chọn.  
 
-Ngồi lên ghế ngang với trẻ. Giơ 2 vật mà trẻ thích lên trước mặt trẻ.
-Hỏi trẻ "Con muốn cái ....... hay cái ....... ?". Hướng dẫn trẻ chỉ
-vào vật mà trẻ thích nhất và nói tên vật đó. Ngay lập tức, đưa vật mà
-trẻ vừa lựa chọn cho trẻ. Bạn hãy gợi ý trẻ ít dần đi trong các dạy
-tiếp theo. Trẻ làm theo chỉ dẫn của bạn hoặc trả lời bằng các khác
-nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng những
-lần trẻ làm đúng theo lời chỉ dẫn hoặc trả lời mà không cần nhắc.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-•**Điều kiện trước tiên:** Chỉ vào vật mà trẻ muốn; đòi lấy được vật
-mà trẻ muốn bằng lời nói; nói tên đồ vật đó.
+### Chuẩn Bị  
+- Hai loại đồ vật: đồ trẻ thích và không thích.  
 
-•**Gợi ý cách dạy:** Hướng dẫn cụ thể chân tay trẻ để trẻ chỉ vào vật
-mà mình muốn nói mẫu gọi tên đồ vật đó.
+### Các Bước Thực Hành  
+1. **Chọn giữa hai đồ vật**  
+   - Giơ hai vật trước mặt trẻ và hỏi: **"Con muốn cái... hay cái...?"**  
+   - Hướng dẫn trẻ chỉ vào vật mà trẻ thích nhất và nói tên vật đó.  
+   - Đưa ngay vật được chọn cho trẻ.  
 
-•**Gợi ý bổ trợ:** Để dễ phân biệt, nên bắt đầu bằng 1 vật mà trẻ
-thích và 1 vật mà trẻ không thích.thay đổi câu hỏi của bạn (ví dụ:
-"Con muốn lấy cái nào"). Nếu con bạn vẫn chưa biết nói, bạn có thể dạy
-trẻ cách trả lời không cần nói (ví dụ : Chỉ nhắc trẻ chỉ vào vật mà
-trẻ thích). Cuối cùng dạy trẻ lựa chọn vật mà trẻ muốn mà vật đó không
-ở trong tầm mắt trẻ. Phải chắc chắn thay đổi yêu cầu trong đó bạn đưa
-ra sự lựa chọn sao cho trẻ không chỉ chọn vật mà bạn nói sau cùng
-trong câu hỏi lựa chọn đó (ví dụ: Nếu bạn nói "Con muốn ăn cái bánh
-hay quả táo", bạn cũng có thể đổi thành "Con muốn ăn cái bánh hay quả
-táo?").
+Giảm dần sự hỗ trợ qua các lần dạy.  
 
-21
+## Gợi Ý cách dạy  
+- Làm mẫu hành động chỉ và nói tên đồ vật để trẻ bắt chước.  
 
+## Gợi Ý Bổ Trợ  
+- Bắt đầu với một đồ vật mà trẻ thích và một đồ vật mà trẻ không thích.  
+- Đảm bảo thay đổi câu hỏi để tránh trẻ chọn theo thứ tự đồ vật bạn nêu ra.  

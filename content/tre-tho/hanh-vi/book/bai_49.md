@@ -2,36 +2,37 @@
 title: BÀI 49 CHỨC NĂNG CỦA CÁC BỘ PHẬN CƠ THỂ
 date: 2024-11-27T23:07:39.698614
 ---
-**BÀI 49**
 
-**CHỨC NĂNG CỦA CÁC BỘ PHẬN CƠ THỂ**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ hiểu chức năng của các bộ phận cơ thể.**
+- **Khuyến khích trẻ trả lời chính xác các câu hỏi về chức năng cơ thể.**
+- **Tăng khả năng nhận thức và diễn đạt của trẻ.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nói đúng chức năng của từng bộ phận cơ thể.
+- Trẻ trả lời được các câu hỏi liên quan đến cơ thể.
 
-***1. Biết tên bộ phận cơ thể theo chức năng:*** Ngồi trên ghế đối
-diện với trẻ. Yêu cầu trẻ chú ý và hỏi "Con ...... (một chức năng
-nào đó, ví dụ: ăn) bằng gì?". Gợi ý cho trẻ chỉ đúng và nói tên bộ
-phận cơ thể. Khen và thưởng cho câu trả lời của trẻ. Càng về sau càng
-giảm gợi ý cho trẻ, dần dần chỉ khen và thưởng khi trẻ trả lời đúng mà
-ít phải gợi ý nhất. Cuối cùng, chỉ khen và thưởng những khi trẻ trả
-lời đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***2. Nhận biết chức năng các bộ phận cơ thể:*** Ngồi trên ghế đối
-diện với trẻ. Yêu cầu trẻ chú ý và hỏi: "Con thường làm gì với
-...... (với tên bộ phận nào đó, ví dụ : tay) của mình ?". Hướng dẫn
-trẻ nói được chức năng của bộ phận đó. Càng về sau càng giảm gợi ý cho
-trẻ, dần dần chỉ khen và thưởng khi trẻ trả lời đúng mà ít phải gợi ý
-nhất. Cuối cùng, chỉ khen và thưởng những khi trẻ trả lời đúng mà
-không cần gợi ý.
+### Chuẩn Bị
+- **Giáo cụ:** Không yêu cầu giáo cụ cụ thể.
+- **Điều kiện trước tiên:** Trẻ nhận biết và nói được tên các bộ phận cơ thể.
 
-•**Điều kiện trước tiên:** Xác định và nói được tên các bộ phận của cơ
-thể, nhận biết đồ vật qua chức năng của chúng.
+### Các Bước Thực Hành
+#### Bước 1: Hỏi Về Chức Năng
+1. Ngồi đối diện trẻ và hỏi: "Con ăn bằng gì?"
+2. Hướng dẫn trẻ trả lời đúng, ví dụ: "Con ăn bằng miệng."
 
-•**Gợi ý cách dạy:** Trả lời mẫu cho trẻ.
+#### Bước 2: Nói Về Bộ Phận
+1. Hỏi: "Con thường làm gì với tay của mình?"
+2. Hướng dẫn trẻ trả lời, ví dụ: "Con dùng tay để cầm đồ."
 
-•**Gợi ý bổ trợ:** Gần đây bạn đã đánh giá và khen thưởng sự tiến bộ
-của con bạn chưa? Có thể đã đến lúc cần có sự khen thưởng mới mẻ và
-thú vị hơn.
+> **Lưu ý:** Giảm dần mức độ hỗ trợ khi trẻ thực hiện quen.
 
-49
+## Gợi Ý Cách Dạy
+- **Dùng tình huống thực tế:** Ví dụ, trong lúc ăn uống, hỏi trẻ về chức năng miệng.
+- **Làm mẫu câu trả lời:** Hỏi và trả lời trước để trẻ lặp lại.
 
+## Gợi Ý Bổ Trợ
+- Kết hợp với bài hát hoặc trò chơi liên quan đến bộ phận cơ thể.
+- Khen thưởng trẻ khi trẻ trả lời đúng để tạo động lực.

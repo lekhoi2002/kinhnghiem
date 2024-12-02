@@ -2,43 +2,42 @@
 title: BÀI 52 DẠY TRẺ NÓI CÂU ĐƠN
 date: 2024-11-27T23:07:39.698614
 ---
-**BÀI 52**
 
-**DẠY TRẺ NÓI CÂU ĐƠN**
+## Mục Tiêu Của Bài Viết
+- **Hỗ trợ trẻ xây dựng câu đơn giản để giao tiếp hiệu quả.**
+- **Tăng khả năng diễn đạt của trẻ thông qua thực hành câu đơn.**
+- **Giúp trẻ sử dụng ngôn ngữ rõ ràng và chính xác.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nói được các câu đơn để trả lời hoặc diễn đạt ý muốn.
+- Trẻ dần quen với việc sử dụng câu đơn trong giao tiếp.
 
-***1. Dạy trẻ nói*** "***Đó là ...***"***:*** Ngồi trên ghế đối diện
-với trẻ. Cho trẻ xem một đồ vật và hỏi trẻ "Đây là cái gì?". Gợi ý cho
-trẻ trả lời "Đây là ...... (tên đồ vật đó)", (ví dụ: "quả bóng").
-Khen và thưởng cho câu trả lời của trẻ. Càng về sau càng gợi ý ít dần
-đi, dần dần khen và thưởng cho trẻ những lần mà ít phải gợi ý nhất.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***2. Dạy trẻ nói*** "***Con nhìn thấy ...***"***:*** Ngồi trên ghế
-đối diện với trẻ, giơ ra cho trẻ xem một bức tranh, ảnh và hỏi trẻ
-"Con nhìn thấy gì trong bức tranh này?". Gợi ý cho trẻ trả lời "Con
-nhìn thấy ...... (tên đồ vật trong bức tranh, ảnh đó)". Khen và
-thưởng cho trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần chỉ khen
-và thưởng những khi trẻ trả lời đúng mà không cần nhắc.
+### Chuẩn Bị
+- **Giáo cụ:** Đồ vật quen thuộc (quả bóng, xe hơi) và tranh ảnh minh họa.
+- **Điều kiện trước tiên:** Trẻ nhận biết đồ vật và biết lặp lại từ đơn.
 
-***3. Dạy trẻ*** "***Con có ...***"***:*** Ngồi trên ghế đối diện với
-trẻ, đưa cho trẻ một đồ vật hoặc bảo trẻ chon lấy một thứ trong giỏ và
-hỏi "Con đang có cái gì vây?". Gợi ý cho trẻ trả lời "Con có ......
-(tên đồ vật đó)". Khen và thưởng cho trẻ. Càng về sau càng giảm gợi ý
-cho trẻ, dần dần chỉ khen và thưởng cho trẻ mà ít phải gợi ý nhất.
-Cuối cùng, chỉ khen và thưởng những khi trẻ trả lời đúng mà không cần
-nhắc.
+### Các Bước Thực Hành
+#### Bước 1: Dạy Nói "Đây là..."
+1. Giơ một đồ vật và hỏi trẻ: "Đây là cái gì?"
+2. Hướng dẫn trẻ trả lời: "Đây là quả bóng."
+3. Khen thưởng khi trẻ trả lời đúng.
 
-•**Giáo cụ:** Đồ vật, tranh ảnh.
+#### Bước 2: Dạy Nói "Con nhìn thấy..."
+1. Đưa một bức tranh và hỏi trẻ: "Con nhìn thấy gì?"
+2. Hướng dẫn trẻ trả lời: "Con nhìn thấy con mèo."
 
-•**Điều kiện trước tiên:** Trẻ nhận biết đồ vật và nhắc lại lời người
-khác .
+#### Bước 3: Dạy Nói "Con có..."
+1. Đưa đồ vật cho trẻ và hỏi: "Con có cái gì?"
+2. Hướng dẫn trẻ trả lời: "Con có cái ô tô."
 
-•**Gợi ý cách dạy:** Trả lời mẫu cho trẻ.
+> **Lưu ý:** Giảm dần mức độ hỗ trợ khi trẻ thực hiện quen.
 
-•**Gợi ý bổ trợ:** Câu hỏi số 2 dạy con bạn nhận biết được từ 2 vật
-trở lên (ví dụ: "Con nhìn thấy ngôi nhà, cái cây, chiếc ô tô quả bóng,
-bông hoa .. ") và khái quát được câu trả lời cho các bức tranh.
+## Gợi Ý Cách Dạy
+- **Dùng tình huống thực tế:** Ví dụ, trong lúc chơi, hỏi trẻ: "Con đang có gì?"
+- **Khen thưởng:** Động viên trẻ bằng lời khen và phần thưởng khi trẻ thực hiện tốt.
 
-52
-
+## Gợi Ý Bổ Trợ
+- Kết hợp các câu đơn trong câu chuyện ngắn hoặc bài hát.
+- Yêu cầu trẻ mô tả hai hoặc nhiều đồ vật sau khi quen với câu đơn.

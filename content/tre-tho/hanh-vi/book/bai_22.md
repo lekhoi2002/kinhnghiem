@@ -3,25 +3,29 @@ title: BÀI 22 NHỮNG CÂU HỎI XÃ HỘI
 date: 2024-11-27T23:07:39.698614
 ---
 
-**NHỮNG CÂU HỎI XÃ HỘI**
+## Mục tiêu của Bài Viết  
+Hướng dẫn phụ huynh dạy trẻ trả lời các câu hỏi xã hội đơn giản để cải thiện giao tiếp.  
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ trả lời được các câu hỏi xã hội cơ bản.  
+- Phát triển kỹ năng giao tiếp của trẻ.  
 
-Ngồi lên ghế ngang với trẻ. Tạo sự tập trung chú ý và hỏi 1 câu hỏi xã
-hội. Hướng dẫn trẻ trả lời câu hỏi đó và thưởng cho trẻ. Bạn hãy gợi ý
-trẻ ít dần đi trong các lần dạy tiếp theo. Trẻ làm theo chỉ dẫn của
-bạn hoặc trả lời bằng các cách khác nhau với sự hỗ trợ ở mức độ thấp
-nhất. Cuối cùng chỉ khen thưởng những lần trẻ làm đúng theo chỉ dẫn
-hoặc trả lời mà không cần nhắc.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-•**Điều kiện trước tiên:** Làm theo chỉ dẫn từng bước một và bắt chước
-nói các từ.
+### Chuẩn Bị  
+- Một danh sách các câu hỏi xã hội phù hợp với độ tuổi của trẻ.  
 
-•**Gợi ý cách dạy:** Đợi một chút rồi hãy nhắc trẻ. Làm mẫu ngay câu
-trả lời đúng rồi ngừng làm mẫu trong khoảng 2 giây cho lần dạy sau.
+### Các Bước Thực Hành  
+1. **Đặt câu hỏi xã hội**  
+   - Ngồi ngang với trẻ và hỏi: **"Con tên gì?"**, **"Con mấy tuổi?"**, hoặc các câu tương tự.  
+   - Hướng dẫn trẻ trả lời đúng và khen thưởng ngay khi trẻ làm đúng.  
 
-•**Gợi ý bổ trợ:** Trước hết thực hành câu hỏi bằng sự bắt chước bằng
-lời nói để đảm bảo phát âm đầy đủ, rõ ràng.
+Giảm dần sự hỗ trợ trong các lần dạy.  
 
-22
+## Gợi Ý cách dạy  
+- Đưa ra mẫu trả lời để trẻ dễ bắt chước.  
+- Dừng làm mẫu trong 2 giây để trẻ tự trả lời sau các lần thực hành đầu tiên.  
 
+## Gợi Ý Bổ Trợ  
+- Luyện tập các câu hỏi xã hội qua các tình huống hàng ngày.  
+- Đảm bảo phát âm rõ ràng để trẻ học theo.  

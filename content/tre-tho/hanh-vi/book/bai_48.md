@@ -3,44 +3,42 @@ title: BÀI 48 TRẢ LỜI CÓ/ KHÔNG (với đồ vật)
 date: 2024-11-27T23:07:39.698614
 ---
 
-**TRẢ LỜI CÓ/ KHÔNG (với đồ vật)**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ học cách trả lời câu hỏi dạng có/không một cách chính xác.**
+- **Khuyến khích trẻ phân biệt đúng sai qua quan sát đồ vật.**
+- **Tăng khả năng phản xạ và giao tiếp hiệu quả.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ trả lời đúng câu hỏi "Có/Không" dựa trên đồ vật.
+- Trẻ hiểu và phân biệt các đặc điểm của đồ vật qua câu hỏi.
 
-***1. Trả lời*** "***có***"***:*** Ngồi trên ghế đối diện với trẻ. Cho
-trẻ xem một đồ vật và hỏi "Đây có phải là ...... (tên đồ vật) hay
-không" (ví dụ: "Đây có phải là chiếc xe hơi không?"). Gợi ý cho trẻ
-trả lời "Có". Khen và thưởng câu trả lời của trẻ. Càng về sau càng
-giảm gợi ý cho trẻ, dần dần khen và thưởng cho trẻ những lần trẻ trả
-lời đúng mà ít phải gợi ý nhất. Cuối cùng, chỉ khen và thưởng cho trẻ
-những khi trẻ trả lời đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***2. Trả lời*** "***không***"***:*** Ngồi trên ghế đối diện với trẻ.
-Yêu cầu trẻ chú ý cho trẻ xem một đồ vật và hỏi trẻ "Đây có phải là
-...... (tên đồ vật khác) hay không ?" ("Đây có phải quả táo
-không?"). Hướng dẫn cho trẻ trả lời "Không, đó là ...... (tên một đồ
-vật khác)", (ví dụ: "Không. Đó là chiếc ô tô"). Khen và thưởng cho
-trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần chỉ khen và thưởng
-những lần trẻ làm đúng mà ít phải gợi ý nhất. Cuối cùng, chỉ khen và
-thưởng cho trẻ những khi trẻ trả lời đúng mà không cần gợi ý.
+### Chuẩn Bị
+- **Giáo cụ:** Đồ vật quen thuộc với trẻ (quả bóng, xe hơi, bút chì).
+- **Điều kiện trước tiên:** Trẻ có khả năng nhận biết đồ vật và biết nói "Có" hoặc "Không."
 
-***3. Trả lời ngẫu nhiên*** "***có***" ***và*** "***không***"***:***
-Ngồi trên ghế đối diện với trẻ xem một đồ vật và hỏi trẻ "Đây có phải
-là...... (tên một đồ vật khác) hay không?" hoặc "Đây có phải là
-...... (tên đồ vật đó) hay không?". Gợi ý trẻ trả lời "có" hoặc
-"Không, đó là ......". Khen và thưởng cho trẻ. Càng về sau càng giảm
-gợi ý cho trẻ, dần dần chỉ khen và thưởng cho trẻ những khi trẻ trả
-lời đúng mà ít phải gợi ý nhất. Cuối cùng, chỉ khen và thưởng những
-khi trẻ trả lời đúng mà không cần gợi ý.
+### Các Bước Thực Hành
+#### Bước 1: Trả Lời "Có"
+1. Đưa ra một đồ vật, ví dụ: quả bóng.
+2. Hỏi: "Đây có phải là quả bóng không?"
+3. Hướng dẫn trẻ trả lời "Có" và khen thưởng.
 
-• **Giáo cụ:** Đồ vật
+#### Bước 2: Trả Lời "Không"
+1. Đưa ra đồ vật, ví dụ: quả bóng, và hỏi: "Đây có phải là cái bút không?"
+2. Hướng dẫn trẻ trả lời "Không" và giải thích: "Đây là quả bóng."
 
-• **Điều kiện trước tiên:** Trả lời "có"/ "không" với những đồ vật mà
-trẻ thích hoặc không thích, nhận biết (dán nhãn) đồ vật, bắt chước lại
-lời nói, nhận biết được những đồ vật giống và khác nhau.
+#### Bước 3: Trả Lời Ngẫu Nhiên
+1. Hỏi trẻ các câu dạng "Có/Không" về đồ vật khác nhau.
+2. Khen thưởng khi trẻ trả lời đúng mà không cần gợi ý.
 
-động (ví dụ: "Cô gái này đang vỗ tay phải không?") và những câu hỏi
-mang kiến thức chung (ví dụ: "Vào mùa hè có tuyết không?").
+> **Lưu ý:** Dần giảm mức độ gợi ý khi trẻ quen dần.
 
-48
+## Gợi Ý Cách Dạy
+- **Làm mẫu câu trả lời:** Ví dụ: "Đây là quả bóng, đúng không? Có."
+- **Dùng đồ vật yêu thích:** Chọn đồ vật trẻ thích để tạo hứng thú.
+- **Thay đổi vị trí đồ vật:** Giúp trẻ hiểu rõ sự khác biệt khi trả lời.
 
+## Gợi Ý Bổ Trợ
+- Áp dụng vào các tình huống hàng ngày, như hỏi trẻ: "Con có muốn uống sữa không?"
+- Tạo trò chơi với các câu hỏi dạng "Có/Không" để luyện tập.

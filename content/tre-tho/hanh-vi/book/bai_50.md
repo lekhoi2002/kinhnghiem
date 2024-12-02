@@ -2,46 +2,39 @@
 title: BÀI 50 NHẬN BIẾT CẢM XÚC
 date: 2024-11-27T23:07:39.698614
 ---
-**BÀI 50**
 
-**NHẬN BIẾT CẢM XÚC**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ nhận biết các cảm xúc cơ bản như vui, buồn, tức giận.**
+- **Khuyến khích trẻ diễn đạt cảm xúc qua hành động hoặc lời nói.**
+- **Tăng khả năng giao tiếp và hiểu biết về cảm xúc.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nhận biết và gọi tên cảm xúc qua tranh ảnh hoặc người thật.
+- Trẻ diễn đạt được cảm xúc của bản thân.
 
-***1. Nhận biết cảm xúc qua tranh ảnh:*** Ngồi trên ghế đối diện với
-trẻ. Yêu cầu trẻ chú ý, giơ ra trước mặt trẻ một bức ảnh một người
-đang biểu hiện cảm xúc và hỏi: "Cô ấy/ anh ấy đang cảm thấy như thế
-nào?". Gợi ý cho trẻ nói được cảm xúc của người đó. Khen và thưởng câu
-trả lời của trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần khen và
-thưởng cho trẻ mà ít phải gợi ý nhất. Cuối cùng, chỉ khen và thưởng
-những khi trẻ trả lơi đúng mà không cần gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***2. Nhận biết cảm xúc qua người khác:*** Ngồi trên ghế đối diện với
-trẻ. Yêu cầu trẻ chú ý và hỏi "Mẹ đang cảm thấy như thế nào?". Gợi ý
-cho trẻ nói được cảm xúc và khen thưởng cho trẻ. Càng về sau càng giảm
-gợi ý cho trẻ, dần dần chỉ khen và thưởng những lần trẻ trả lời đúng
-mà ít phải gợi ý nhất. Cuối cùng , chỉ khen và thưởng cho trẻ những
-khi trẻ trả lời đúng mà không cần gợi ý.
+### Chuẩn Bị
+- **Giáo cụ:** Tranh ảnh người thể hiện cảm xúc.
+- **Điều kiện trước tiên:** Trẻ có thể nhận biết hình ảnh và gọi tên cảm xúc cơ bản.
 
-***3. Tự nhận biết cảm xúc bản thân:*** Trong một ngữ cảnh cụ thể, khi
-mà trẻ đang biểu hiện cảm xúc (ví dụ: khi mà trẻ đang cười, hoặc đang
-khóc vì đau): "Con cảm thấy như thế nào?". Gợi ý cho trẻ nói được cảm
-xúc và khen và thưởng cho trẻ. Càng về sau càng giảm gợi ý cho trẻ,
-dần dần chỉ khen và thưởng mỗi khi trẻ trả lời đúng mà ít phải gợi ý
-nhất. Cuối cùng, chỉ khen và thưởng cho trẻ những khi trẻ trả lời đúng
-mà không cần phải gợi ý.
+### Các Bước Thực Hành
+#### Bước 1: Nhận Biết Cảm Xúc Qua Tranh
+1. Giơ tranh lên và hỏi trẻ: "Cô ấy đang cảm thấy thế nào?"
+2. Hướng dẫn trẻ trả lời, ví dụ: "Cô ấy đang vui."
 
-•**Giáo cụ:** Các tranh ảnh người đang biểu hiện cảm xúc, hoặc các thẻ
-biểu thị cảm xúc.
+#### Bước 2: Nhận Biết Cảm Xúc Của Người Thật
+1. Hỏi trẻ: "Mẹ đang cảm thấy như thế nào?" khi bạn cười hoặc buồn.
+2. Khuyến khích trẻ trả lời, ví dụ: "Mẹ đang vui."
 
-•**Điều kiện trước tiên:** Xác định được cảm xúc trong ảnh, đồ vật,
-hành động và người thân.
+#### Bước 3: Tự Nhận Biết Cảm Xúc
+1. Hỏi trẻ khi trẻ đang thể hiện cảm xúc, ví dụ: "Con cảm thấy như thế nào khi được quà?"
+2. Hướng dẫn trẻ trả lời, ví dụ: "Con cảm thấy hạnh phúc."
 
-•**Gợi ý cách dạy:** Làm mẫu nhận biết cảm xúc để trẻ theo dõi.
+## Gợi Ý Cách Dạy
+- **Làm mẫu trước:** Hãy thể hiện cảm xúc rõ ràng để trẻ dễ nhận biết.
+- **Dùng ví dụ cụ thể:** Kể chuyện hoặc tình huống để trẻ liên tưởng.
 
-•**Gợi ý bổ trợ:** Sử dụng các tranh ảnh biểu hiện cảm xúc trong những
-tình huống tương đương (ví dụ: Cảm xúc vui - bức ảnh một cậu bé đang
-cười vì được tặng quà).
-
-50
-
+## Gợi Ý Bổ Trợ
+- Kết hợp các bức tranh và tình huống thực tế để trẻ dễ hình dung.
+- Sử dụng trò chơi "đoán cảm xúc" để tăng hứng thú học tập.

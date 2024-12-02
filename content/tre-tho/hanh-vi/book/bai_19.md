@@ -1,49 +1,39 @@
 ---
-title: BÀI 19 CÂU TRẢ LỜI "CÓ/ KHÔNG
+title: BÀI 19 CÂU TRẢ LỜI "CÓ/ KHÔNG"
 date: 2024-11-27T23:07:39.698614
 ---
 
-**CÂU TRẢ LỜI "CÓ/ KHÔNG"**
+## Mục tiêu của Bài Viết  
+Hỗ trợ phụ huynh dạy trẻ hiểu và trả lời các câu hỏi đơn giản với "Có" hoặc "Không".  
 
-**Các bước dạy trẻ:**
+## Mục tiêu của bài dạy  
+- Trẻ trả lời đúng "Có" hoặc "Không" với các đồ vật mà trẻ thích hoặc không thích.  
+- Phát triển khả năng nhận biết và phản hồi với câu hỏi đơn giản.  
 
-***(1).Đối với những vật trẻ không thích:*** Ngồi lên ghế đối diện với
-trẻ. Cầm một vật mà trẻ không thích lên (đồ ăn hoặc đồ chơi) và nói
-"Con có muốn...(tên đồ vật ) không". Hướng dẫn trẻ lắc đầu nói không
-hoặc nói "không". Ngay sau trẻ trả lời như vậy, bỏ vật mà trẻ không
-thích xuống tầm mắt của trẻ.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-***(2). Đối với những vật trẻ thích***: Ngồi lên ghế đối diện với trẻ.
-Đưa một vật mà trẻ thích hoặc một vật mà trẻ không thích (đồ ăn hoặc
-đồ chơi) và nói " Con có muốn.......(tên đồ vật) không?". Hướng dẫn
-trẻ gật đầu nói có hoặc nói "có". Ngay sau khi trẻ trả lời như vậy,
-đưa cho trẻ vật mà trẻ thích.
+### Chuẩn Bị  
+- Các đồ vật trẻ thích và không thích (đồ ăn, đồ chơi).  
 
-***(3).Lựa chọn câu trả lời có và không:*** Ngồi lên ghế đối diện với
-trẻ. Đưa ra một vật mà trẻ không thích hoặc một vật mà trẻ thích và
-hỏi trẻ " Con có muốn ......(tên đồ vật) không?". Hướng dẫn trẻ lắc
-đầu nói không đối với những vật mà trẻ không thích hoặc gật đầu với
-những vật mà trẻ thích. Ngay sau khi trẻ trả lời không, cất vật mà trẻ
-không thích đi. Ngay sau khi mà trẻ trả lời có, đưa cho trẻ vật mà trẻ
-thích.
+### Các Bước Thực Hành  
+1. **Đối với những vật trẻ không thích**  
+   - Cầm một vật trẻ không thích và hỏi: **"Con có muốn... (tên đồ vật) không?"**  
+   - Hướng dẫn trẻ lắc đầu hoặc nói: **"Không"**. Ngay sau đó, cất vật đó đi.  
 
-•**Trong mỗi bước 1,2 và 3:** Làm lại từng bước trên và gợi ý trẻ ít
-dần đi trong các lần dạy tiếp theo. Trẻ làm theo chỉ dẫn của bạn hoặc
-trả lời bằng cách khác nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối
-cùng chỉ khen thưởng những lần trẻ làm đúng theo chỉ dẫn hoặc trả lời
-đúng mà không cần nhắc.
+2. **Đối với những vật trẻ thích**  
+   - Đưa vật trẻ thích và hỏi: **"Con có muốn... (tên đồ vật) không?"**  
+   - Hướng dẫn trẻ gật đầu hoặc nói: **"Có"**. Đưa ngay vật đó cho trẻ.  
 
-•**Giáo cụ:** Những đồ ăn và đồ vật mà trẻ thích và không thích.
+3. **Lựa chọn câu trả lời "Có" hoặc "Không"**  
+   - Hỏi trẻ với sự kết hợp cả vật thích và không thích, ví dụ: **"Con có muốn... không?"**  
+   - Hướng dẫn trẻ trả lời phù hợp.  
 
-•**Điều kiện trước tiên:**
+Giảm dần sự hỗ trợ qua các lần dạy tiếp theo.  
 
-Bắt chước lắc đầu và gật đầu hoặc bắt chước nói "không" và "có".
+## Gợi Ý cách dạy  
+- Làm mẫu gật đầu hoặc lắc đầu để trẻ bắt chước.  
+- Sử dụng giọng nói nhẹ nhàng để khuyến khích trẻ trả lời.  
 
-•**Gợi ý cách dạy:** Làm mẫu lắc đầu hoặc làm mẫu nói "có", "không".
-
-•**Gợi ý bổ trợ:** Chắc chắn dùng những vật mà trẻ thực sự thích và
-không thích. Dùng những đồ ăn đáng sợ như (gia vị, nước mắm, mù tạc)
-mà con bạn không thích để làm vật không thích.
-
-19
-
+## Gợi Ý Bổ Trợ  
+- Dùng đồ ăn hoặc vật trẻ thực sự thích và không thích để tạo hứng thú.  
+- Thay đổi cách hỏi để kiểm tra sự hiểu biết của trẻ.  

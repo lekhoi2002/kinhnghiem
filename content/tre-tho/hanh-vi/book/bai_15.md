@@ -2,35 +2,34 @@
 title: BÀI 15 VẬT SỞ HỮU (dễ nhớ và có ý nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
-**VẬT SỞ HỮU (dễ nhớ và có ý nghĩa)**
-**Các bước dạy trẻ:**
-***(1). Nhận biết vật sở hữu*:** Với một người thân trong gia đình
-đứng gần trẻ, bảo trẻ chỉ vào bộ phận cơ thể hoặc quần áo của một
-người nào đó. Ví dụ "Hãy chỉ vào áo của mẹ". Hướng dẫn trẻ chỉ vào
-đúng bộ phận của cơ thể hoặc quần áo và khen thưởng việc làm theo chỉ
-dẫn của trẻ. ***(2).Gọi tên vật sở hữu*:** Chỉ vào bộ phận của cơ thể
-hoặc quần áo của người thân và hỏi trẻ (ví dụ: "Đây là áo của ai?")
-Hướng dẫn trẻ nói được tên người và vật sở hữu "áo của mẹ". Khen và
-thưởng cho trẻ.
 
-Trong mỗi bước 1 và 2: Bạn hãy gợi ý trẻ ít dần đi trong các lần dạy
-tiếp theo. Trẻ làm theo chỉ dẫn của bạn bằng cách khác nhau với sự hỗ
-trợ ở mức độ thấp nhất. Cuối cùng, chỉ khen thưởng những lần trẻ đã
-làm đúng theo chỉ dẫn hoặc trẻ lời đúng mà không cần cân nhắc.
+## Mục tiêu của Bài Viết  
+Hướng dẫn phụ huynh dạy trẻ hiểu khái niệm về sở hữu thông qua các bài tập đơn giản và vui nhộn.
 
-•**Điều kiện trước tiên:**
-(1). Nhận biết được bộ phận cơ thể hoặc quần áo và từng người thân
-trong gia đình (2). Nói được tên của bộ phận cơ thể hoặc quần áo đó và
-những người thân.
+## Mục tiêu của bài dạy  
+- Trẻ nhận biết được các vật sở hữu của người khác.  
+- Trẻ nói được tên vật sở hữu và người sở hữu.  
 
-•**Gợi ý cách dạy:**
-(1). Hướng dẫn cụ thể chân tay trẻ để trẻ chỉ vào đúng bộ phận cơ thể
-hoặc quần áo.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-(2). Làm mẫu câu trả lời.
+### Chuẩn Bị  
+- Các đồ vật như quần áo, giày dép hoặc đồ chơi.  
 
-•**Gợi ý bổ trợ:** Bắt đầu với những đồ chơi (Ví dụ: "Chỉ vào mũi của
-con búp bê", "Chỉ vào mũi con chim".
+### Các Bước Thực Hành  
+1. **Nhận biết vật sở hữu**  
+   - Yêu cầu trẻ chỉ vào quần áo hoặc đồ vật của người thân, ví dụ: **"Hãy chỉ vào áo của mẹ."**  
+   - Hướng dẫn trẻ làm đúng và khen thưởng.  
 
-15
+2. **Gọi tên vật sở hữu**  
+   - Chỉ vào một đồ vật và hỏi trẻ: **"Đây là áo của ai?"**  
+   - Hướng dẫn trẻ trả lời đúng, ví dụ: **"Áo của mẹ."**  
 
+Giảm dần sự trợ giúp qua các lần dạy.  
+
+## Gợi Ý cách dạy  
+- Làm mẫu câu trả lời cho trẻ trước khi yêu cầu trẻ tự trả lời.  
+- Hướng dẫn tay trẻ chỉ đúng nếu trẻ gặp khó khăn.  
+
+## Gợi Ý Bổ Trợ  
+- Sử dụng đồ chơi để minh họa (ví dụ: **"Chỉ vào mũi của con búp bê."**).  
+- Tăng dần độ khó với các vật ít quen thuộc hơn.  

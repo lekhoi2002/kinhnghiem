@@ -2,49 +2,35 @@
 title: BÀI 51 TẬP HỢP VÀ GỌI TÊN ĐỒ VẬT THEO TỪNG LOẠI
 date: 2024-11-27T23:07:39.698614
 ---
-**BÀI 51**
 
-**TẬP HỢP VÀ GỌI TÊN ĐỒ VẬT THEO TỪNG LOẠI**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ phân loại và gọi tên đồ vật theo nhóm.**
+- **Khuyến khích trẻ hiểu mối liên hệ giữa các đồ vật.**
+- **Tăng khả năng quan sát và sắp xếp của trẻ.**
 
-**Các bước dạy trẻ:**
-***1. Biết phân loại đồ vật:*** Ngồi trên ghế đối diện với trẻ. Đưa
-cho trẻ xem một đồ vật loại bất kỳ và yêu cầu trẻ gọi tên được bức
-tranh ấy (ví dụ: "Cái gì đây?", "Con mèo"). Bạn tiếp tục hỏi trẻ "...
-(tên của đồ vật đó, ví dụ: mèo) thuộc loại gì?". Gợi ý cho trẻ trả lời
-đúng chủng loại của vật đó (ví dụ: "Mèo là động vật"). Khen và thưởng
-cho câu trả lời của trẻ. Càng về sau càng giảm gợi ý cho trẻ, dần dần
-chỉ khen và thưởng cho trẻ mỗi khi trẻ trả lời đúng mà ít gợi ý nhất.
-Cuối cùng, chỉ khen và thưởng cho trẻ nhưng khi trẻ trả lời đúng mà
-không cần gợi ý .
+## Mục Tiêu Của Bài Dạy
+- Trẻ phân loại và sắp xếp đồ vật theo đúng nhóm.
+- Trẻ gọi tên đồ vật kèm theo nhóm phù hợp.
 
-***2. Gọi tên đồ vật theo chủng loại:***
-*(a). Trong tầm nhìn của trẻ:* Đặt lên bàn ngay trước mặt trẻ những
-thẻ biểu thị loại đồ vật. Hãy nói với trẻ: "Con hãy nói tên ......
-(một loại đồ vật nào đó, ví dụ: thức ăn)". Gợi ý cho trẻ gọi tên đúng
-đồ vật thuộc loại đó (ví dụ: bánh nhân thịt). Khen và thưởng cho câu
-trả lời của trẻ. Càng về sau càng giảm gợi ý cho trẻ. Cuối cùng chỉ
-khen và thưởng những khi trẻ trả lời đúng mà không cần gợi ý .
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-*(b). Ngoài tầm nhìn của trẻ:* Ngồi trên ghế ngang bằng với trẻ. Yêu
-cầu trẻ chú ý và nói: "Con hãy nói tên ...... (một loại đồ vật nào
-đó , ví dụ: động vật)". Gợi ý cho trẻ gọi đúng tên đồ vật thuộc loại
-đó (ví dụ: con hổ). Khen và thưởng cho câu trả lời của trẻ. Càng về
-sau càng giảm gợi ý cho trẻ, dần dần chỉ khen và thưởng cho trẻ với
-những lần phải gợi ý thấp nhất. Cuối cùng chỉ khen và thưởng cho trẻ
-những khi trẻ thực hiện đúng mà không cần nhắc .
+### Chuẩn Bị
+- **Giáo cụ:** Thẻ tranh phân loại (thức ăn, động vật, đồ dùng).
+- **Điều kiện trước tiên:** Trẻ nhận biết đồ vật cơ bản và biết trả lời câu hỏi.
 
-•**Giáo cụ:** Các thẻ phân loại đồ vật (xem danh mục nguồn).
+### Các Bước Thực Hành
+#### Bước 1: Phân Loại Đồ Vật
+1. Đặt các đồ vật hoặc tranh ảnh lên bàn.
+2. Yêu cầu trẻ: "Con hãy xếp các đồ này vào nhóm thức ăn."
 
-•**Điều kiện trước tiên:** Trẻ phân biệt được đồ vật, màu sắc, các con
-số, chữ cái, hình dạng và biết đối chiếu các loại đồ vật.
+#### Bước 2: Gọi Tên Đồ Vật
+1. Chỉ vào nhóm đồ vật và hỏi trẻ: "Đây là những gì?"
+2. Khuyến khích trẻ trả lời, ví dụ: "Đây là nhóm động vật."
 
-•**Gợi ý cách dạy:** Trả lời mẫu cho trẻ.
+## Gợi Ý Cách Dạy
+- **Làm mẫu sắp xếp:** Thực hiện mẫu trước để trẻ làm theo.
+- **Khen thưởng:** Động viên trẻ khi trẻ trả lời hoặc xếp đúng.
 
-
-•**Gợi ý bổ trợ:** Xem xét việc đồng thời dạy con bạn đánh dấu các
-loại đồ vật và dạy bước 1 (ví dụ: hỏi trẻ "Con gì đây?" trẻ trả lời
-"Con mèo"; "Con mèo thuộc loại gì?"; trẻ trả lời "Mèo là động vật";
-"Con giỏi lắm. Hãy chọn tranh con mèo").
-
-51
-
+## Gợi Ý Bổ Trợ
+- Tăng độ khó bằng cách thêm nhiều nhóm phân loại.
+- Dùng đồ vật thật để trẻ dễ hình dung và ghi nhớ.

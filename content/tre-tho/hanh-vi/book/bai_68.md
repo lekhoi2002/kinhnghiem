@@ -3,30 +3,34 @@ title: BÀI 68 CHUYỂN TIN NHẮN
 date: 2024-11-27T23:07:39.698614
 ---
 
-**CHUYỂN TIN NHẮN**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ học cách chuyển tin nhắn đơn giản từ người này sang người khác.**
+- **Tăng cường khả năng nghe và nhắc lại thông tin một cách chính xác.**
+- **Phát triển kỹ năng giao tiếp và sự tự tin của trẻ.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nhắc lại và chuyển thông tin chính xác theo yêu cầu.
+- Trẻ thực hiện tốt các chỉ dẫn liên quan đến giao tiếp gián tiếp.
 
-Ngồi trên ghế đối diện với trẻ. Yêu cầu trẻ chú ý và đưa ra cho trẻ
-một chỉ dẫn: "Con hãy nói với...... rằng...... " (ví dụ: "Hãy nói
-với mẹ rằng đã đến giờ ăn trưa?"). Gợi ý cho trẻ lại gần người cần
-nhắn và chuyển tin ( Ví dụ: " Mẹ ơi đã đến giờ ăn trưa"). Khen thưởng
-cho câu trả lời của trẻ. Càng về sau càng giảm gợi ý cho trẻ. Dần dần
-chỉ khen và thưởng những khi trẻ trả lời đúng mà ít phải gợi ý nhất.
-Cuối cùng chỉ khen và thưởng những khi trẻ trả lời đúng mà không cần
-gợi ý.
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-•**Điều kiện trước tiên:** Trẻ nhắc lại các cụm từ, nói được các câu
-đề nghị, làm theo chỉ dẫn hai bước, kể lại toàn bộ sự việc.
+### Chuẩn Bị
+- **Giáo cụ:** Không yêu cầu giáo cụ cụ thể.
+- **Điều kiện trước tiên:** Trẻ có khả năng nhắc lại cụm từ và làm theo hướng dẫn hai bước.
 
-•**Gợi ý cách dạy:** Cầm tay trẻ gợi ý để trẻ lại gần người cần nhắn
-tin và làm mẫu lời nhắn để trẻ nhắc lại.
+### Các Bước Thực Hành
+#### Bước 1: Chuyển Tin Đơn Giản
+1. Đưa ra chỉ dẫn: "Hãy nói với bố rằng đã đến giờ ăn trưa."
+2. Hướng dẫn trẻ lặp lại tin nhắn khi gặp người nhận, ví dụ: "Bố ơi, đến giờ ăn trưa."
 
-•Gợi ý bổ trợ: Nên bắt đầu với những lời nhắn đơn giản (ví dụ: "Hãy
-lại nói với bố rằng con muốn ăn chiếc bánh quy"). Dần dần tăng độ phức
-tạp của lời nhắn (ví dụ: "Hãy tới nói với bố rằng con đã nhìn thấy ai
-trong công viên"). Hãy đưa ra tin nhẵn phù hợp với ngữ cảnh. Khuyến
-khích trẻ có sự liên hệ bằng mắt khi chuyển tin.
+#### Bước 2: Tăng Độ Phức Tạp
+1. Đưa tin nhắn dài hơn, ví dụ: "Hãy nói với mẹ rằng con đã nhìn thấy bạn trong công viên."
+2. Khen thưởng khi trẻ chuyển tin chính xác và đầy đủ.
 
-68
+## Gợi Ý Cách Dạy
+- **Làm mẫu trước:** Nêu và nhắc lại tin nhắn để trẻ dễ hình dung.
+- **Hướng dẫn trẻ:** Cầm tay và nhắc trẻ nhắn tin nếu cần thiết.
 
+## Gợi Ý Bổ Trợ
+- Bắt đầu với tin nhắn ngắn và đơn giản, sau đó tăng dần độ dài và phức tạp.
+- Sử dụng ngữ cảnh hàng ngày để trẻ thực hành một cách tự nhiên.

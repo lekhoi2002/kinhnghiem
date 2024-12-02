@@ -3,47 +3,38 @@ title: BÀI 39 THUỘC TÍNH CỦA ĐỒ VẬT (dễ nhớ và có ý nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
 
-**THUỘC TÍNH CỦA ĐỒ VẬT (dễ nhớ và có ý nghĩa)**
+## Mục Tiêu Của Bài Viết
+- **Giúp trẻ nhận biết và phân biệt các thuộc tính của đồ vật.**
+- **Khuyến khích trẻ học cách mô tả đồ vật bằng ngôn ngữ đơn giản.**
+- **Phát triển khả năng quan sát và so sánh của trẻ.**
 
-**Các bước dạy trẻ:**
+## Mục Tiêu Của Bài Dạy
+- Trẻ nhận biết được các thuộc tính cơ bản như to, nhỏ, cao, thấp.
+- Trẻ nói tên đồ vật kèm thuộc tính chính xác.
 
-***(1). Nhận biết thuộc tính:*** Để lên bàn 2 đồ vật giống hệt nhau,
-nhưng khác nhau rõ rệt về thuộc tính (ví dụ: 2 xe tải, một chiếc to,
-một chiếc nhỏ). Tạo sự tập trung chú ý và bảo trẻ "Con chỉ vào ......
-(đồ vật)...... ( thuộc tính )" (ví dụ: "Con hãy chỉ vào chiếc xe tải
-to"). Hướng dẫn trẻ chỉ vào đúng đồ vật và khen thưởng việc thực hiện
-của trẻ .
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***(2). Nói tên thuộc tính:*** Để lên bàn trước mặt trẻ hai đồ vật
-giống hệt nhau nhưng khác nhau rõ rệt về thuộc tính (ví dụ: 2 xe tải
-một chiếc to, một chiếc nhỏ). Tạo sự tập trung chú ý và chỉ vào một
-trong hai đồ vật đó. Hỏi trẻ "Đây là cái gì?". Hướng dẫn trẻ nói được
-tên đồ vật và thuộc tính của đồ vật (ví dụ: "Nó là chiếc xe tải nhỏ").
+### Chuẩn Bị
+- **Giáo cụ:** Đồ vật hoặc tranh ảnh có sự khác biệt rõ về thuộc tính (ví dụ: xe tải lớn và nhỏ).
+- **Điều kiện trước tiên:** Trẻ nhận biết đồ vật đơn giản và có khả năng nói tên.
 
-**Trong mỗi bước 1 và 2:** Bạn gợi ý trẻ ít dần đi trong các lần dạy
-tiếp theo. Trẻ làm theo chỉ dẫn của bạn hoặc làm theo các cách khác
-nhau với sự trợ giúp ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng khi
-trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần nhắc .
+### Các Bước Thực Hành
+#### Bước 1: Nhận Biết Thuộc Tính
+1. Đặt hai đồ vật có thuộc tính đối lập lên bàn.
+2. Yêu cầu trẻ: "Chỉ vào chiếc xe tải to."
+3. Hướng dẫn trẻ chỉ đúng và khen thưởng khi trẻ làm tốt.
 
-•**Giáo cụ**: Các đồ vật có sự khác nhau về thuộc tính và các bức
-tranh miêu tả các đồ vật khác nhau về thuộc tính.
+#### Bước 2: Nói Tên Thuộc Tính
+1. Chỉ vào một đồ vật và hỏi trẻ: "Đây là cái gì?"
+2. Hướng dẫn trẻ trả lời đúng, ví dụ: "Đây là chiếc xe tải nhỏ."
 
-•**Điều kiện trước tiên:**
-(1). Nhận biết các đồ vật, các bức tranh, người thân, các đồ vật xung
-quanh và cảm xúc.
+> **Lưu ý:** Dần giảm gợi ý và chỉ hỗ trợ khi trẻ cần.
 
-(2). Nhận biết được thuộc tính, nói được tên bức tranh, người thân,
-các đồ vật xung quanh và có cảm xúc.
+## Gợi Ý Cách Dạy
+- **Làm mẫu:** Nói tên thuộc tính trước để trẻ lặp lại.
+- **Sử dụng câu hỏi thú vị:** "Chiếc nào lớn hơn?" để kích thích sự tham gia.
+- **Giảm dần hỗ trợ:** Để trẻ tự đưa ra câu trả lời mà không cần nhắc.
 
-•**Gợi ý cách dạy:**
-(1). Hướng dẫn cụ thể chân tay trẻ để trẻ chỉ vào đúng bức tranh.
-
-(2). Làm mẫu nói tên thuộc tính và tên đồ vật.
-
-•**Gợi ý bổ trợ:** Trước hết hãy bỏ phần tên đồ vật đi khi dạy trẻ
-nhận biết thuộc tính của đồ vật ấy (ví dụ: "Chỉ vào chiếc to" hơn là
-bảo trẻ "Chỉ vào chiếc xe tải to"), dần dần khi trẻ nhận thức được thì
-nói tên đồ vật đi kèm với thuộc tính của nó.
-
-39
-
+## Gợi Ý Bổ Trợ
+- Sử dụng trò chơi phân loại dựa trên thuộc tính (to/nhỏ, cao/thấp).
+- Bắt đầu với đồ vật thật, sau đó sử dụng tranh ảnh minh họa.

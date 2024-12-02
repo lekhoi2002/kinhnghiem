@@ -3,41 +3,36 @@ title: BÀI 11 ĐỘNG TỪ CHỈ HÀNH ĐỘNG
 date: 2024-11-27T23:07:39.698614
 ---
 
-**ĐỘNG TỪ CHỈ HÀNH ĐỘNG**
+## Mục tiêu của Bài Viết  
+Hướng dẫn phụ huynh cách dạy trẻ nhận biết và thực hiện các hành động qua lời nói và tranh ảnh.
 
-**Các bước dạy trẻ:**
-***(1).Làm theo chỉ dẫn với động từ:*** Ngồi trên ghế đối diện với
-trẻ. Để giáo cụ cần thiết lên bàn trong tầm với của trẻ. Tạo sự tập
-trung chú ý của trẻ và bảo trẻ thực hiện hành động mà bạn yêu cầu "
-Hãy đứng lên.....(hành động)". Hướng dẫn trẻ thực hiện hành động đó và
-khen thưởng việc làm theo chỉ dẫn của trẻ.
+## Mục tiêu của bài dạy  
+- Trẻ thực hiện được các hành động theo yêu cầu.  
+- Trẻ nhận biết và chỉ đúng hành động trong tranh.  
 
-***(2).Nhận biết hành động trong tranh***: Đặt tranh lên bàn trước mặt
-trẻ. Tạo sự tập trung chú ý và bảo trẻ "Chỉ vào......( hành động)".
-Nhắc trẻ chỉ vào đúng hành động trong tranh và khen thưởng việc làm
-theo đúng chỉ dẫn của trẻ.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-**Trong mỗi bước 1 và 2** : Bạn hãy gợi ý trẻ ít dần đi trong các lần
-dạy tiếp theo. Trẻ thực hiện việc làm theo chỉ dẫn hoặc trả lời bạn
-bằng các cách khác nhau với sự hỗ trợ ở mức độ thấp nhất. Cuối cùng
-chỉ khen thưởng những lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng
-mà không cần nhắc.
+### Chuẩn Bị  
+- Đồ vật cần thiết để thực hiện hành động.  
+- Các bức tranh minh họa hành động.  
 
-•**Giáo cụ**: Các đồ vật cần thiết cho thực hiện hành động .
+### Các Bước Thực Hành  
+1. **Làm theo chỉ dẫn với động từ**  
+   - Ngồi đối diện trẻ, đặt đồ vật cần thiết trên bàn.  
+   - Yêu cầu trẻ thực hiện hành động: **"Hãy đứng lên..."**  
+   - Hướng dẫn trẻ làm theo và khen thưởng.  
 
-•**Điều kiện trước tiên:**
-(1) Làm theo 10 chỉ dãn từng bước một.
+2. **Nhận biết hành động trong tranh**  
+   - Đặt tranh minh họa hành động trước mặt trẻ.  
+   - Yêu cầu trẻ: **"Chỉ vào... (hành động)"**.  
+   - Hướng dẫn trẻ chỉ đúng và khen thưởng.  
 
-(2) Nhận biết các hành động trong tranh
-•**Gợi ý cách dạy:**
-(1). Làm mẫu cụ thể hành động hoặc hướng dẫn cụ thể chân tay trẻ để
-thực hiện hành động. (2). Làm mẫu gọi tên hành động.
+Giảm dần sự trợ giúp qua các lần dạy tiếp theo.  
 
+## Gợi Ý cách dạy  
+- Làm mẫu cụ thể cho trẻ hoặc hướng dẫn tay chân của trẻ.  
+- Dạy các hành động quen thuộc như **đứng lên**, **ngồi xuống** trước.  
 
-
-•**Gợi ý bổ trợ:** Bắt đầu với những hành động mà con bạn đã được học
-như trong bài 6. Những chỉ dẫn từng bước một (ví dụ : dạy trẻ "Hãy làm
-cho cô xem đứng lên" nếu đã học "đứng lên'.
-
-11
-
+## Gợi Ý Bổ Trợ  
+- Kết hợp với các bài học trước để trẻ dễ liên kết.  
+- Sử dụng các tình huống tự nhiên để dạy, như chơi trò chơi vận động.  

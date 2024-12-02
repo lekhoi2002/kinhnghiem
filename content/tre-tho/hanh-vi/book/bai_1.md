@@ -3,57 +3,68 @@ title: BÀI 1 GIAO TIẾP BẰNG MẮT Các bước dạy trẻ
 date: 2024-11-27T23:07:39.698614
 ---
 
-**GIAO TIẾP BẰNG MẮT Các bước dạy trẻ:**
+## Mục tiêu của Bài Viết  
 
-***(1). Đáp lại khi gọi tên***: Ngồi trên ghế ngang với trẻ. Gọi tên
-trẻ và đồng thời nhắc trẻ giao tiếp bằng mắt, bằng cách đưa một vật có
-thể ăn được hoặc một vật nhỏ có thể sờ mó được lên ngang tầm mắt của
-bạn. Khi trẻ nhìn bạn trong một giây, lập tức đưa vật đó cho trẻ và
-đừng nhắc trẻ trong một vài giây để xem trẻ có nhìn bạn mà không cần
-nhắc lại không. Trẻ biểu lộ sự đáp lại khác nhau mà không cần nhắc.
-Trong khi dạy, tăng cường tích cực giúp trẻ nếu nhìn bạn một cách tự
-nhiên
+Bài viết này hướng dẫn phụ huynh và giáo viên cách dạy trẻ kỹ năng **giao tiếp bằng mắt** – một kỹ năng quan trọng giúp trẻ cải thiện khả năng tương tác xã hội, tập trung và thể hiện sự quan tâm trong giao tiếp hàng ngày.
 
-***(2). Trong 5 giõy*:** Nhắc lại bước 1 nhưng kéo dài sự giao tiếp
-bằng mắt trong 5 giây trước khi đưa vật đó cho trẻ. Trẻ biểu lộ sự đáp
-lại khác nhau mà không cần nhắc
+## Mục tiêu của bài dạy  
 
-***(3). Trong khi chơi***: Đưa 1 món đồ chơi cho trẻ chơi trên bàn.
-Ngồi ngang với trẻ và gọi tên trẻ. Nhắc trẻ nhìn bạn và tăng cường sự
-đáp lại của trẻ. Bạn hãy gợi ý trẻ ít dần đi trong các lần dạy tiếp
-theo. Trẻ biểu lộ sự đáp lại khác nhau với sự hỗ trợ ở mức độ thấp
-nhất
+- **Phát triển kỹ năng giao tiếp bằng mắt**: Trẻ có thể đáp lại bằng ánh mắt khi được gọi tên hoặc hướng dẫn.  
+- **Tăng khả năng tập trung và đáp ứng**: Duy trì giao tiếp bằng mắt trong khoảng thời gian dài hơn qua từng bước luyện tập.  
+- **Khuyến khích trẻ tương tác tự nhiên hơn**: Giảm dần sự hỗ trợ để trẻ tự thực hiện giao tiếp bằng mắt.  
 
-***(4). Từ một khoảng cách***: Nhắc lại bước 3 nhưng ngồi hoặc đứng
-cách trẻ 3 bước. Gọi tên trẻ và nhắc trẻ nhìn bạn. Khen thưởng trẻ đáp
-lại. Bạn hãy gợi ý trẻ ít dần đi trong các lần dạy tiếp theo. Trẻ biểu
-lộ sự đáp lại khác nhau vơi sự hỗ trợ ở mức độ thấp nhất. Trong quá
-trình dạy, tăng dần khoảng cách giữa bạn với trẻ.
+## Hướng Dẫn Thực Hành Dạy Trẻ  
 
-***(5). Đáp lại khẩu lệnh "Hãy nhìn vào cô"***: Ngồi trên ghế ngang
-với trẻ. Nói rõ chỉ dẫn "Hãy nhìn vào cô". Dùng các bước tăng cường hỗ
-trợ trẻ nhắc trẻ giống như bước 1.
+### Chuẩn Bị  
 
-•**Giáo cụ**: Những vật có thể ăn được và có thể sờ mó được.
+- **Giáo cụ**: Các vật dụng dễ thu hút trẻ như đồ ăn nhỏ, đồ chơi mềm hoặc đồ vật có thể sờ nắm.  
+- **Điều kiện**: Ngồi trên ghế ngang tầm mắt với trẻ để tăng sự tập trung.  
 
-•**Điều kiện trước tiên**: Ngồi trên ghế
-•**Gợi ý cách dạy**: Mang đồ vật lên ngang tầm mắt để cho trẻ theo dõi
-hoặc nhẹ nhàng nâng cằm trẻ lên để thúc đẩy việc giao tiếp bằng mắt.
-Thực hiện bước dạy chậm lại một chút: Từ từ hãy nhắc trẻ bằng cách
-tăng thêm 2 giây qua các lần dạy.
+### Các Bước Thực Hành  
 
-•**Gợi ý bổ trợ**: Hãy chắc chắn rằng con bạn đang nhìn trực tiếp vào
-mắt bạn chứ không phải nhìn vào đồ vật.
+#### 1. Đáp lại khi gọi tên  
+- Ngồi ngang với trẻ, gọi tên trẻ và cầm một vật (đồ ăn hoặc đồ chơi nhỏ) ngang tầm mắt của bạn.  
+- Khi trẻ nhìn vào mắt bạn trong **1 giây**, thưởng ngay vật đó cho trẻ.  
+- Lặp lại và quan sát xem trẻ có tự giao tiếp bằng mắt mà không cần nhắc nhở.  
 
-**Giải thích cách đánh giá khả năng tiếp thu của trẻ: Đánh dấu** "-"
-**vào ô số:** *(1)Nếu trẻ trả lời thực hiện đúng mà không cần nhắc.*
+#### 2. Kéo dài thời gian giao tiếp trong 5 giây  
+- Lặp lại bước 1 nhưng yêu cầu trẻ giữ ánh mắt trong **5 giây** trước khi nhận thưởng.  
+- Động viên và khen ngợi khi trẻ thực hiện thành công.  
 
-*(2)Nếu trẻ trả lời thực hiện đúng do sự hỗ trợ và nhắc nhở củ cô
-giáo.*
+#### 3. Giao tiếp trong khi chơi  
+- Đặt một món đồ chơi trước mặt trẻ. Ngồi ngang tầm mắt với trẻ, gọi tên và nhắc trẻ nhìn bạn.  
+- Giảm dần sự hỗ trợ qua từng lần dạy để trẻ tự giao tiếp bằng mắt tự nhiên hơn.  
 
-(3)*Nếu trẻ không trả lời / thực hiện được kể cả có sự hỗ trợ và nhắc
-nhở của cô giáo* **Cách đánh giá này được áp dụng trong suốt các bài
-dạy từ Bài 1 đến Bài 106**
+#### 4. Tăng khoảng cách  
+- Lặp lại bước 3, nhưng thay vì ngồi gần, hãy ngồi hoặc đứng cách trẻ khoảng **3 bước chân**.  
+- Gọi tên trẻ, nhắc trẻ nhìn bạn, và thưởng khi trẻ đáp lại đúng.  
+- Dần dần tăng khoảng cách giữa bạn và trẻ khi trẻ quen dần với kỹ năng.  
 
-1
+#### 5. Đáp lại khẩu lệnh "Hãy nhìn vào cô"  
+- Ngồi ngang tầm mắt với trẻ, nói rõ ràng: **"Hãy nhìn vào cô"**.  
+- Dùng vật hỗ trợ hoặc nhẹ nhàng nâng cằm trẻ để hướng ánh mắt trẻ về bạn.  
+
+## Gợi Ý Cách Dạy  
+
+- **Sử dụng đồ vật thu hút**: Đưa đồ vật ngang tầm mắt để kích thích trẻ nhìn.  
+- **Hỗ trợ nhẹ nhàng**: Có thể nâng cằm trẻ nếu cần nhưng giảm dần các gợi ý qua mỗi lần dạy.  
+- **Tăng thời gian và khoảng cách từ từ**: Mỗi lần dạy, tăng thêm **2 giây** thời gian giao tiếp hoặc thêm một bước chân khoảng cách.  
+
+## Gợi Ý Bổ Trợ  
+
+- **Đảm bảo trẻ thực sự nhìn vào mắt bạn**: Nếu trẻ chỉ nhìn đồ vật, nhẹ nhàng điều chỉnh hướng mắt trẻ.  
+- **Kiên nhẫn và động viên tích cực**: Dành thời gian để trẻ làm quen, không ép buộc hay tạo áp lực.  
+- **Theo dõi tiến độ**: Sử dụng bảng đánh giá để theo dõi mức độ tiếp thu của trẻ, dựa vào:  
+  - **(1)** Trẻ thực hiện đúng mà không cần nhắc.  
+  - **(2)** Trẻ thực hiện đúng nhưng cần hỗ trợ.  
+  - **(3)** Trẻ không thực hiện dù đã được hỗ trợ.  
+
+## Gợi Ý Bổ Trợ  
+
+- Hãy lặp lại bài tập nhiều lần trong ngày ở các tình huống khác nhau để trẻ dần thành thạo.  
+- Kết hợp giao tiếp bằng mắt trong các hoạt động thường ngày như ăn uống, chơi đùa để tăng cường phản xạ tự nhiên.  
+- Nếu trẻ gặp khó khăn trong thời gian dài, hãy tham khảo ý kiến chuyên gia để được hỗ trợ thêm.  
+
+
+
 

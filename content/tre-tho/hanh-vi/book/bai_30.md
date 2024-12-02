@@ -3,52 +3,39 @@ title: BÀI 30 BẮT CHƯỚC HOẠT ĐỘNG THEO THỨ TỰ
 date: 2024-11-27T23:07:39.698614
 ---
 
-**BẮT CHƯỚC HOẠT ĐỘNG THEO THỨ TỰ**
+## Mục Tiêu Của Bài Viết
+- **Phát triển kỹ năng ghi nhớ và thực hiện theo thứ tự.**
+- **Khuyến khích trẻ bắt chước chính xác các hành động thô và sử dụng đồ vật.**
+- **Tăng cường sự chú ý và khả năng phối hợp các hoạt động.**
 
-**(Vận động thô và hành động với đồ vật)**
+## Mục Tiêu Của Bài Dạy
+- Trẻ thực hiện chính xác hai hoạt động theo thứ tự đã được làm mẫu.
+- Trẻ sử dụng đồ vật trong các hoạt động theo hướng dẫn.
 
-**Các bước dạy trẻ:**
+## Hướng Dẫn Thực Hành Dạy Trẻ
 
-***(1). Vận động thô* :** Ngồi trên ghế đối diện và tạo sự tập trung
-chú ý. Bảo trẻ "Hãy làm như thế này" và làm mẫu 2 vận động thô (ví dụ:
-vỗ tay và sau đó đập nhẹ lên đầu bạn). Hướng dẫn trẻ làm 2 động tác
-trên theo thứ tự mà bạn vừa làm.
+### Chuẩn Bị
+- **Giáo cụ:** Bộ đồ vật như chuông, cờ hoặc khối gỗ.
+- **Điều kiện trước tiên:** Trẻ đã biết làm theo các chỉ dẫn đơn lẻ và có khả năng bắt chước hành động.
 
-***(2). Hành động với đồ vật* :** Để 2 bộ đồ vật để nhận biết lên bàn
-(ví dụ: hai cái chuông và hai lá cờ). Ngồi ngang với bàn đối diện với
-trẻ và tạo sự tập trung chú ý, bảo trẻ "Hãy làm như thế này" và làm
-mẫu 1 hành động với mỗi đồ vật. Hướng dẫn trẻ thực hiện hai hành động
-với mỗi vật mà bạn vừa làm.
+### Các Bước Thực Hành
+#### Bước 1: Bắt Chước Vận Động Thô
+1. Ngồi đối diện trẻ, tạo sự tập trung chú ý.
+2. Làm mẫu hai động tác liên tiếp, như vỗ tay và sờ đầu.
+3. Hướng dẫn trẻ làm theo thứ tự các động tác.
 
-**Trong mỗi bước 1 và 2:** Bạn gợi ý trẻ ít dần đi trong các lần dạy
-tiếp theo. Trẻ làm theo chỉ dẫn của bạn hoặc làm theo những cách khác
-nhau với sự gợi ý ở mức độ thấp nhất. Cuối cùng chỉ khen thưởng những
-lần trẻ làm đúng theo chỉ dẫn hoặc trả lời đúng mà không cần nhắc.
+#### Bước 2: Bắt Chước Hành Động Với Đồ Vật
+1. Đặt hai bộ đồ vật trước mặt trẻ (ví dụ: chuông và cờ).
+2. Làm mẫu hành động với từng đồ vật theo thứ tự.
+3. Hướng dẫn trẻ thực hiện tương tự.
 
-•**Giáo cụ:** Các đồ vật
+> **Lưu ý:** Giảm dần gợi ý sau mỗi lần thực hành và chỉ khen thưởng khi trẻ làm đúng.
 
-•**Điều kiện thực hiện:** Làm theo "Các chỉ dẫn từng bước một", bắt
-trước những hoạt động vận động thô và hành động với đồ vật
+## Gợi Ý Cách Dạy
+- **Hỗ trợ từng bước:** Hướng dẫn cụ thể tay chân trẻ nếu trẻ gặp khó khăn.
+- **Kết hợp lời nói:** Nói tên hành động trong khi thực hiện mẫu để giúp trẻ dễ nhớ.
+- **Thay đổi hoạt động:** Luân phiên thay đổi thứ tự để kiểm tra khả năng ghi nhớ của trẻ.
 
-•**Gợi ý cách dạy:**
-
-(1). Hướng dẫn cụ thể chân tay trẻ để trẻ làm theo chỉ dẫn.
-
-(2). Làm mẫu hành động vận động thô thứ hai khi trẻ đang bắt đầu làm
-theo hoạt động vận động thô thứ nhất. Dần dần làm mẫu cả hai hoạt động
-cùng một lúc.
-
-(3). Hãy nói là bạn đang làm gì khi bạn đang làm mẫu hành động đó: Ví
-dụ: Nếu bạn làm mẫu sờ tay vào mũi sau đó vỗ nhẹ lên đầu, bạn hãy nói
-"sờ tay lên mũi", "Chạm tay lên đầu" trong lúc bạn làm động tác đó dần
-dần bạn nhắc trẻ bằng lời ít dần đi .
-
-•**Gợi ý bổ trợ:** Bạn phải chắc chắn thay đổi các hoạt động trong
-hoạt động vận động thô theo thứ tự (ví dụ: Nếu bạn làm mẫu "Vỗ tay và
-sờ tay lên mũi", hãy dạy trẻ hoạt động khác sau hoạt động vỗ tay như
-"Vỗ tay và vẫy tay"). Nếu con bạn gặp khó khăn khi làm các hoạt động
-theo thứ tự, thử kết hợp 1 hoạt động vận động đi với 1 hành động với
-đồ vật (ví dụ: để 1 hình khối vào trong rổ và đập tay lên bàn).
-
-30
-
+## Gợi Ý Bổ Trợ
+- Nếu trẻ gặp khó khăn, kết hợp một hành động vận động với một hành động sử dụng đồ vật để tăng khả năng nhận diện.
+- Tạo sự thú vị bằng cách biến bài tập thành trò chơi "làm đúng thứ tự" để khuyến khích trẻ tham gia.
