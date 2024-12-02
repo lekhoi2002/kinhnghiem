@@ -1,5 +1,5 @@
 ---
 author: Khôi Lê
-title: Can Thiệp Hành Vi
+title: Hành Vi
 nested: true
 ---
