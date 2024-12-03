@@ -3,7 +3,7 @@ title: "Chiến lược phân loại và nhắm đối tượng khách hàng m�
 meta:
   title: "Cách phân loại và nhắm đối tượng khách hàng trong quảng cáo Facebook"
   description: "Hướng dẫn phân loại khách hàng và chiến lược nhắm mục tiêu hiệu quả cho quảng cáo tin nhắn Facebook."
-date: 2025-01-14
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - nhắm đối tượng khách hàng mục tiêu
   - chiến lược quảng cáo tin nhắn

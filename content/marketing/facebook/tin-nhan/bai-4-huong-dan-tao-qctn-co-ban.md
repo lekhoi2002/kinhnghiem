@@ -3,7 +3,7 @@ title: "Hướng dẫn tạo quảng cáo tin nhắn cơ bản"
 meta:
   title: "Hướng dẫn từng bước tạo quảng cáo tin nhắn Facebook"
   description: "Chi tiết cách tạo quảng cáo tin nhắn Facebook đầu tiên: chọn mục tiêu, thiết lập đối tượng, và viết nội dung quảng cáo hấp dẫn."
-date: 2024-12-24
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - hướng dẫn tạo quảng cáo tin nhắn
   - quảng cáo tin nhắn cơ bản

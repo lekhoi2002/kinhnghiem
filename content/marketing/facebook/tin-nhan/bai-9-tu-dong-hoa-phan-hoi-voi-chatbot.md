@@ -3,7 +3,7 @@ title: "Tự động hóa phản hồi với chatbot"
 meta:
   title: "Cách sử dụng chatbot để tự động hóa quảng cáo tin nhắn Facebook"
   description: "Hướng dẫn tích hợp chatbot vào quảng cáo tin nhắn Facebook để nâng cao hiệu quả và tiết kiệm thời gian phản hồi khách hàng."
-date: 2025-01-28
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - chatbot quảng cáo Facebook
   - tự động hóa phản hồi tin nhắn

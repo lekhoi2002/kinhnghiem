@@ -3,7 +3,7 @@ title: "Tối ưu hóa nội dung tin nhắn để tăng tỷ lệ phản hồi"
 meta:
   title: "Hướng dẫn tối ưu nội dung tin nhắn Facebook tăng phản hồi"
   description: "Chiến lược tối ưu nội dung tin nhắn quảng cáo Facebook để nâng cao tỷ lệ phản hồi từ khách hàng."
-date: 2025-01-07
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - tối ưu nội dung tin nhắn Facebook
   - cách tăng tỷ lệ phản hồi tin nhắn

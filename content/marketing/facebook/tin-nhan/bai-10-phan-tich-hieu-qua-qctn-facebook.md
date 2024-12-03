@@ -3,7 +3,7 @@ title: "Phân tích hiệu quả quảng cáo tin nhắn Facebook"
 meta:
   title: "Hướng dẫn phân tích hiệu quả quảng cáo tin nhắn Facebook"
   description: "Tìm hiểu cách đọc báo cáo từ Ads Manager, phân tích các chỉ số quan trọng như CTR, CPC và tối ưu hóa chiến dịch quảng cáo tin nhắn."
-date: 2025-02-04
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - phân tích hiệu quả quảng cáo
   - chỉ số CTR CPC tin nhắn Facebook

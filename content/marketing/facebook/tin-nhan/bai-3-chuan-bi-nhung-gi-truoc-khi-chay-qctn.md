@@ -3,7 +3,7 @@ title: "Chuẩn bị những gì trước khi chạy quảng cáo tin nhắn?"
 meta:
   title: "Hướng dẫn chuẩn bị chạy quảng cáo tin nhắn Facebook"
   description: "Danh sách các bước cần làm trước khi bắt đầu chiến dịch quảng cáo tin nhắn Facebook, từ tài khoản Business đến nội dung quảng cáo."
-date: 2024-12-17
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - chuẩn bị quảng cáo tin nhắn Facebook
   - hướng dẫn chạy quảng cáo Messenger

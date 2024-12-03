@@ -3,7 +3,7 @@ title: "Chiến lược kết hợp quảng cáo tin nhắn với các loại qu
 meta:
   title: "Cách kết hợp quảng cáo tin nhắn với các chiến lược khác"
   description: "Hướng dẫn kết hợp quảng cáo tin nhắn Facebook với các chiến lược quảng cáo khác như Remarketing và Lookalike Audience để tăng hiệu quả."
-date: 2025-02-11
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - chiến lược quảng cáo Facebook
   - kết hợp quảng cáo tin nhắn

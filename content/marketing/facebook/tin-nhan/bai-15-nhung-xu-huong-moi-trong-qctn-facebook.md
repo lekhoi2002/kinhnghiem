@@ -3,7 +3,7 @@ title: "Những xu hướng mới trong quảng cáo tin nhắn Facebook"
 meta:
   title: "Xu hướng quảng cáo tin nhắn Facebook: AI, AR/VR và đa nền tảng"
   description: "Cập nhật những xu hướng mới nhất trong quảng cáo tin nhắn Facebook, bao gồm tích hợp AI, chatbot thông minh, và quảng cáo đa nền tảng."
-date: 2025-03-10
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - xu hướng quảng cáo tin nhắn
   - quảng cáo tin nhắn đa nền tảng

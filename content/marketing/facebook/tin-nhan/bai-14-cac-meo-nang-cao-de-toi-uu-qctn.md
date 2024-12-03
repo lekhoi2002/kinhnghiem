@@ -3,7 +3,7 @@ title: "Các mẹo nâng cao để tối ưu quảng cáo tin nhắn"
 meta:
   title: "Mẹo nâng cao giúp tối ưu quảng cáo tin nhắn Facebook hiệu quả"
   description: "Những mẹo nâng cao như sử dụng Quick Replies, CTA mạnh mẽ và các chiến lược upsell/cross-sell để tối ưu hóa quảng cáo tin nhắn."
-date: 2025-03-03
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - tối ưu quảng cáo tin nhắn
   - mẹo nâng cao quảng cáo Messenger

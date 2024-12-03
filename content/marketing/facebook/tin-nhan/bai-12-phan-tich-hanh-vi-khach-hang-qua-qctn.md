@@ -3,7 +3,7 @@ title: "Phân tích hành vi khách hàng qua quảng cáo tin nhắn"
 meta:
   title: "Hướng dẫn phân tích hành vi khách hàng qua quảng cáo tin nhắn"
   description: "Cách sử dụng Facebook Pixel và công cụ Messenger để theo dõi hành vi khách hàng, từ đó tối ưu hóa hành trình mua sắm."
-date: 2025-02-18
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - phân tích hành vi khách hàng
   - theo dõi khách hàng qua tin nhắn

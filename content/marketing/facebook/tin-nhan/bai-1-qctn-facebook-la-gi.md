@@ -1,9 +1,9 @@
 ---
-title: "Quảng cáo tin nhắn Facebook là gì?"
+title: Quảng cáo tin nhắn Facebook là gì?
 meta:
   title: "Tìm hiểu quảng cáo tin nhắn Facebook: Khái niệm và lợi ích"
-  description: "Bài viết giải thích quảng cáo tin nhắn Facebook là gì, cách hoạt động và những lợi ích nổi bật cho doanh nghiệp."
-date: 2024-12-03
+  description: Bài viết giải thích quảng cáo tin nhắn Facebook là gì, cách hoạt động và những lợi ích nổi bật cho doanh nghiệp.
+date: 2024-12-03T08:22:05.396Z
 keywords:
   - quảng cáo tin nhắn Facebook
   - lợi ích quảng cáo tin nhắn Facebook

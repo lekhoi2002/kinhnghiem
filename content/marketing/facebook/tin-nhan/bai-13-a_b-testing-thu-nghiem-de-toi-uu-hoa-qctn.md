@@ -3,7 +3,7 @@ title: "A/B Testing: Thử nghiệm để tối ưu hóa quảng cáo tin nhắn
 meta:
   title: "Hướng dẫn A/B Testing tối ưu quảng cáo tin nhắn Facebook"
   description: "Cách thực hiện A/B Testing trong quảng cáo tin nhắn Facebook để tìm ra phiên bản hiệu quả nhất, tăng tỷ lệ chuyển đổi."
-date: 2025-02-25
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - A/B Testing quảng cáo
   - tối ưu quảng cáo tin nhắn

@@ -3,7 +3,7 @@ title: "Cách viết nội dung tin nhắn đầu tiên để gây ấn tượng
 meta:
   title: "Hướng dẫn viết nội dung tin nhắn Facebook ấn tượng"
   description: "Mẹo và mẫu nội dung tin nhắn hiệu quả cho quảng cáo Facebook, giúp tăng tỷ lệ phản hồi ngay từ lần đầu."
-date: 2024-12-31
+date: 2024-12-03T08:22:19.388Z
 keywords:
   - nội dung tin nhắn Facebook
   - cách viết tin nhắn quảng cáo hiệu quả
