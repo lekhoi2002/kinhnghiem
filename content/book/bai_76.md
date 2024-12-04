@@ -1,5 +1,5 @@
 ---
-title: BÀI 76 DẠY TRẺ PHÂN BIỆT KHI NÀO NÊN HỎI, KHI NÀO NÊN NÓI
+title: Bài 76 Dạy Trẻ Phân Biệt Khi Nào Nên Hỏi, Khi Nào Nên Nói
 date: 2024-11-27T23:07:39.698614
 ---
 

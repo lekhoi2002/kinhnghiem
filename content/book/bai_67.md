@@ -1,5 +1,5 @@
 ---
-title: BÀI 67 TRẢ LỜI CÂU HỎI VỀ THỜI GIAN
+title: Bài 67 Trả Lời Câu Hỏi Về Thời Gian
 date: 2024-11-27T23:07:39.698614
 ---
 

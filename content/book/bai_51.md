@@ -1,5 +1,5 @@
 ---
-title: BÀI 51 TẬP HỢP VÀ GỌI TÊN ĐỒ VẬT THEO TỪNG LOẠI
+title: Bài 51 Tập Hợp Và Gọi Tên Đồ Vật Theo Từng Loại
 date: 2024-11-27T23:07:39.698614
 ---
 

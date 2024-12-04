@@ -1,5 +1,5 @@
 ---
-title: BÀI 46 NHẬN BIẾT VÀ DIỄN ĐẠT VỀ GIỚI TÍNH
+title: Bài 46 Nhận Biết Và Diễn Đạt Về Giới Tính 
 date: 2024-11-27T23:07:39.698614
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BÀI 61 TRẢ LỜI CÁC CÂU HỎI VỀ KIẾN THỨC CHUNG
+title: Bài 61 Trả Lời Các Câu Hỏi Về Kiến Thức Chung
 date: 2024-11-27T23:07:39.698614
 ---
 

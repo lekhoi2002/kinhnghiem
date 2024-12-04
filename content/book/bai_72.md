@@ -1,5 +1,5 @@
 ---
-title: BÀI 72 TRẢ LỜI CÁC CÂU HỎI VỀ MỘT CÂU CHUYỆN
+title: Bài 72 Trả Lời Các Câu Hỏi Về Một Câu Chuyện
 date: 2024-11-27T23:07:39.698614
 ---
 

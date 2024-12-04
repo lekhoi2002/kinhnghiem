@@ -1,5 +1,5 @@
 ---
-title: BÀI 40 NGHỀ NGHIỆP
+title: Bài 40 Nghề Nghiệp
 date: 2024-11-27T23:07:39.698614
 ---
 

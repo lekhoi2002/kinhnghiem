@@ -1,5 +1,5 @@
 ---
-title: BÀI 24 XẾP VẬT NÀY VÀO CHỖ CỦA VẬT KIA GIỐNG VỚI NÓ HOẶC TƯƠNG XỨNG VỚI NÓ
+title: Bài 24 Xếp Vật Này Vào Chỗ Của Vật Kia Giống Với Nó Hoặc Tương Xứng Với Nó  
 date: 2024-11-27T23:07:39.698614
 ---
 

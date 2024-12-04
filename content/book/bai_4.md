@@ -1,6 +1,7 @@
 ---
-title: BÀI 4 BẮT CHƯỚC NHỮNG HOẠT ĐỘNG VẬN ĐỘNG TINH
+title: Bài 4 Bắt Chước Những Hoạt Động Vận Động Tinh 
 date: 2024-11-27T23:07:39.698614
+weight: 4
 ---
 
 ## Mục tiêu của Bài Viết  

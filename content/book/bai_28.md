@@ -1,5 +1,5 @@
 ---
-title: BÀI 28 SỐ (dễ nhớ và có ý nghĩa)
+title: Bài 28 Số (Dễ Nhớ Và Có Ý Nghĩa) 
 date: 2024-11-27T23:07:39.698614
 ---
 

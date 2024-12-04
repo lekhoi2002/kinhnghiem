@@ -1,5 +1,5 @@
 ---
-title: BÀI 8 DẠY BẰNG ĐỒ VẬT (dễ nhớ và có ý nghĩa)
+title: Bài 8 Dạy Bằng Đồ Vật (Dễ Nhớ Và Có Ý Nghĩa)  
 date: 2024-11-27T23:07:39.698614
 ---
 

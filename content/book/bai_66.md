@@ -1,5 +1,5 @@
 ---
-title: BÀI 66 CHỨC NĂNG CỦA CÁC PHÒNG
+title: Bài 66 Chức Năng Của Các Phòng 
 date: 2024-11-27T23:07:39.698614
 ---
 

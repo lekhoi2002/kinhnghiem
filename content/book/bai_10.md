@@ -1,5 +1,5 @@
 ---
-title: BÀI 10 NHẬN BIẾT NGƯỜI THÂN
+title: Bài 10 Nhận Biết Người Thân 
 date: 2024-11-27T23:07:39.698614
 ---
 

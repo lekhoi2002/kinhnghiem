@@ -1,5 +1,5 @@
 ---
-title: BÀI 26 HÌNH DẠNG (dễ nhớ và có ý nghĩa)
+title: Bài 26 Hình Dạng (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
 

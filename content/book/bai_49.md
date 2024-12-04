@@ -1,5 +1,5 @@
 ---
-title: BÀI 49 CHỨC NĂNG CỦA CÁC BỘ PHẬN CƠ THỂ
+title: Bài 49 Chức Năng Của Các Bộ Phận Cơ Thể
 date: 2024-11-27T23:07:39.698614
 ---
 

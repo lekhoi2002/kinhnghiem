@@ -1,5 +1,5 @@
 ---
-title: BÀI 6 LÀM THEO CHỈ DẪN TỪNG BƯỚC MỘT
+title: Bài 6 Làm Theo Chỉ Dẫn Từng Bước Một 
 date: 2024-11-27T23:07:39.698614
 ---
 ## Mục tiêu của Bài Viết  

@@ -1,5 +1,5 @@
 ---
-title: BÀI 68 CHUYỂN TIN NHẮN
+title: Bài 68 Chuyển Tin Nhắn 
 date: 2024-11-27T23:07:39.698614
 ---
 

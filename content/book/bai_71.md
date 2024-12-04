@@ -1,5 +1,5 @@
 ---
-title: BÀI 71 CHỈ RA NHỮNG ĐỒ VẬT KHÔNG CÙNG TÍNH CHẤT VÀ CHỦNG LOẠI
+title: Bài 71 Chỉ Ra Những Đồ Vật Không Cùng Tính Chất Và Chủng Loại 
 date: 2024-11-27T23:07:39.698614
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BÀI 16 NHẬN BIẾT ÂM THANH CỦA MÔI TRƯỜNG XUNG QUANH
+title: Bài 16 Nhận Biết Âm Thanh Của Môi Trường Xung Quanh  
 date: 2024-11-27T23:07:39.698614
 ---
 

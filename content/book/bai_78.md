@@ -1,5 +1,5 @@
 ---
-title: BÀI 78 MÔ TẢ THEO CHỦ ĐỀ
+title: Bài 78 Mô Tả Theo Chủ Đề
 date: 2024-11-27T23:07:39.698614
 ---
 

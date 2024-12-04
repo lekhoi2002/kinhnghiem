@@ -1,5 +1,5 @@
 ---
-title: BÀI 9 DẠY BẰNG TRANH ẢNH (dễ nhớ và ý nghĩa)
+title: Bài 9 Dạy Bằng Tranh Ảnh (Dễ Nhớ Và Ý Nghĩa) 
 date: 2024-11-27T23:07:39.698614
 ---
 

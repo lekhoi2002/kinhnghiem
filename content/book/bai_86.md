@@ -1,5 +1,5 @@
 ---
-title: BÀI 86 MÔ TẢ CÁCH THỨC THỰC HIỆN HÀNH ĐỘNG
+title: Bài 86 Mô Tả Cách Thức Thực Hiện Hành Động 
 date: 2024-11-27T23:07:39.698614
 ---
 

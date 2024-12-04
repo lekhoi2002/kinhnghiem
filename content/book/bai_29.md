@@ -1,5 +1,5 @@
 ---
-title: BÀI 29 BẮT CHƯỚC CÁC HOẠT ĐỘNG THÔ KHI ĐANG ĐỨNG
+title: Bài 29 Bắt Chước Các Hoạt Động Thô Khi Đang Đứng 
 date: 2024-11-27T23:07:39.698614
 ---
 

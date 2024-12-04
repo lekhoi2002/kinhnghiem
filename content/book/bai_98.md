@@ -1,5 +1,5 @@
 ---
-title: BÀI 98 BẮT CHƯỚC CÁC BẠN
+title: Bài 98 Bắt Chước Các Bạn
 date: 2024-11-27T23:07:39.698614
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BÀI 13 CHỈ VÀO TRANH ẢNH TRONG SÁCH
+title: Bài 13 Chỉ Vào Tranh Ảnh Trong Sách  
 date: 2024-11-27T23:07:39.698614
 ---
 

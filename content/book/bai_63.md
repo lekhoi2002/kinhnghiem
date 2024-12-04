@@ -1,5 +1,5 @@
 ---
-title: BÀI 63 MIÊU TẢ CÁC ĐẶC TÍNH CỦA ĐỒ VẬT
+title: Bài 63 Miêu Tả Các Đặc Tính Của Đồ Vật
 date: 2024-11-27T23:07:39.698614
 ---
 

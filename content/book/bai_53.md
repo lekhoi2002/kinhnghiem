@@ -1,5 +1,5 @@
 ---
-title: BÀI 53 TRAO ĐỔI THÔNG TIN
+title: Bài 53 Trao Đổi Thông Tin
 date: 2024-11-27T23:07:39.698614
 ---
 

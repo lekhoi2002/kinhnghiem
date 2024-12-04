@@ -1,5 +1,5 @@
 ---
-title: BÀI 62 MIÊU TẢ TRANH BẰNG CÂU ĐẦY ĐỦ
+title: Bài 62 Miêu Tả Tranh Bằng Câu Đầy Đủ 
 date: 2024-11-27T23:07:39.698614
 ---
 

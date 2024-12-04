@@ -1,5 +1,5 @@
 ---
-title: BÀI 82 SỬ DỤNG CÁC ĐẠI TỪ SỞ HỮU (của con/ của mẹ)
+title: Bài 82 Sử Dụng Các Đại Từ Sở Hữu (Của Con/ Của Mẹ)
 date: 2024-11-27T23:07:39.698614
 ---
 

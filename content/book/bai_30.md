@@ -1,5 +1,5 @@
 ---
-title: BÀI 30 BẮT CHƯỚC HOẠT ĐỘNG THEO THỨ TỰ
+title: Bài 30 Bắt Chước Hoạt Động Theo Thứ Tự 
 date: 2024-11-27T23:07:39.698614
 ---
 

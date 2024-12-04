@@ -1,5 +1,5 @@
 ---
-title: BÀI 7 CÁC BỘ PHẬN CỦA CƠ THỂ (dễ nhớ và có ý nghĩa)
+title: Bài 7 Các Bộ Phận Của Cơ Thể (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
 ---
 ## Mục tiêu của bài viết

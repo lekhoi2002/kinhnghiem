@@ -1,5 +1,5 @@
 ---
-title: BÀI 74 DẠY TRẺ THỰC HIỆN CÁC YÊU CẦU THEO CHỈ DẪN
+title: Bài 74 Dạy Trẻ Thực Hiện Các Yêu Cầu Theo Chỉ Dẫn 
 date: 2024-11-27T23:07:39.698614
 ---
 

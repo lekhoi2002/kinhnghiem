@@ -1,5 +1,5 @@
 ---
-title: BÀI 50 NHẬN BIẾT CẢM XÚC
+title: Bài 50 Nhận Biết Cảm Xúc
 date: 2024-11-27T23:07:39.698614
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BÀI 19 CÂU TRẢ LỜI "CÓ/ KHÔNG"
+title: Bài 19 Câu Trả Lời "Có/ Không"  
 date: 2024-11-27T23:07:39.698614
 ---
 

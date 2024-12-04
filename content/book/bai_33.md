@@ -1,5 +1,5 @@
 ---
-title: BÀI 33 BẮT CHƯỚC CÁC HÌNH VẼ ĐƠN GIẢN
+title: Bài 33 Bắt Chước Các Hình Vẽ Đơn Giản 
 date: 2024-11-27T23:07:39.698614
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BÀI 91 TRẢ LỜI CÁC CÂU HỎI VỀ NGUYÊN NHÂN VÀ GIẢ ĐỊNH
+title: Bài 91 Trả Lời Các Câu Hỏi Về Nguyên Nhân Và Giả Định
 date: 2024-11-27T23:07:39.698614
 ---
 

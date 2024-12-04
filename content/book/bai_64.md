@@ -1,5 +1,5 @@
 ---
-title: BÀI 64 KỂ LẠI SỰ VIỆC ĐÃ XẢY RA TRONG QUÁ KHỨ
+title: Bài 64 Kể Lại Sự Việc Đã Xảy Ra Trong Quá Khứ
 date: 2024-11-27T23:07:39.698614
 ---
 

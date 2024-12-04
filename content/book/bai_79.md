@@ -1,5 +1,5 @@
 ---
-title: BÀI 79 DẠY TRẺ KỂ CHUYỆN (CÓ DÙNG CÁC ĐỒ CHƠI HỖ TRỢ)
+title: Bài 79 Dạy Trẻ Kể Chuyện (Có Dùng Các Đồ Chơi Hỗ Trợ)
 date: 2024-11-27T23:07:39.698614
 ---
 

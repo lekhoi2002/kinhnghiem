@@ -1,5 +1,5 @@
 ---
-title: BÀI 25 MÀU SẮC (dễ nhớ và có ý nghĩa)
+title: Bài 25 Màu Sắc (Dễ Nhớ Và Có Ý Nghĩa) 
 date: 2024-11-27T23:07:39.698614
 ---
 

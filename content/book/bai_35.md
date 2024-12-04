@@ -1,5 +1,5 @@
 ---
-title: BÀI 35 CẢM XÚC (dễ nhớ)
+title: Bài 35 Cảm Xúc (Dễ Nhớ)
 date: 2024-11-27T23:07:39.698614
 ---
 

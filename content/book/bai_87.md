@@ -1,5 +1,5 @@
 ---
-title: BÀI 87 DIỄN ĐẠT SỰ GIỐNG VÀ KHÁC NHAU (với đồ vật trẻ nhìn thấy)
+title: Bài 87 Diễn Đạt Sự Giống Và Khác Nhau (Với Đồ Vật Trẻ Nhìn Thấy)
 date: 2024-11-27T23:07:39.698614
 ---
 

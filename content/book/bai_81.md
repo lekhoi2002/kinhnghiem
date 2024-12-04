@@ -1,5 +1,5 @@
 ---
-title: BÀI 81 YÊU CẦU GIẢI THÍCH KHI KHÔNG HIỂU
+title: Bài 81 Yêu Cầu Giải Thích Khi Không Hiểu
 date: 2024-11-27T23:07:39.698614
 ---
 

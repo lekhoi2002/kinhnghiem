@@ -1,5 +1,5 @@
 ---
-title: BÀI 14 CHỨC NĂNG CỦA ĐỒ VẬT
+title: Bài 14 Chức Năng Của Đồ Vật
 date: 2024-11-27T23:07:39.698614
 ---
 

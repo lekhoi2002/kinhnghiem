@@ -1,5 +1,5 @@
 ---
-title: BÀI 97 ĐỊNH NGHĨA VỀ CON NGƯỜI, ĐỊA ĐIỂM VÀ ĐỒ VẬT
+title: Bài 97 Định Nghĩa Về Con Người, Địa Điểm Và Đồ Vật
 date: 2024-11-27T23:07:39.698614
 ---
 

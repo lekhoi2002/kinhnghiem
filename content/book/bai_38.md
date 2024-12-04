@@ -1,5 +1,5 @@
 ---
-title: BÀI 38 TRẺ ĐƯA HAI ĐỒ VẬT (cùng một lúc)
+title: Bài 38 Trẻ Đưa Hai Đồ Vật (Cùng Một Lúc)
 date: 2024-11-27T23:07:39.698614
 ---
 

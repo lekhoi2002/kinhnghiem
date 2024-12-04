@@ -1,5 +1,5 @@
 ---
-title: BÀI 93 MÔ TẢ CÁC ĐẶC ĐIỂM BẤT THƯỜNG TRONG TRANH
+title: Bài 93 Mô Tả Các Đặc Điểm Bất Thường Trong Tranh
 date: 2024-11-27T23:07:39.698614
 ---
 

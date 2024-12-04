@@ -1,5 +1,5 @@
 ---
-title: BÀI 73 TRẢ LỜI CÁC CÂU HỎI VỀ MỘT CHỦ ĐỀ BẤT KỲ
+title: Bài 73 Trả Lời Các Câu Hỏi Về Một Chủ Đề Bất Kỳ
 date: 2024-11-27T23:07:39.698614
 ---
 

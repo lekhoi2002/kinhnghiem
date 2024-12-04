@@ -1,5 +1,5 @@
 ---
-title: BÀI 31 BẮT CHƯỚC HÀNH ĐỘNG ĐI KÈM VỚI ÂM THANH
+title: Bài 31 Bắt Chước Hành Động Đi Kèm Với Âm Thanh 
 date: 2024-11-27T23:07:39.698614
 ---
 

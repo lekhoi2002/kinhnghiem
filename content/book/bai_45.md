@@ -1,5 +1,5 @@
 ---
-title: BÀI 45 CÁC THẺ TRANH (xếp theo đúng thứ tự và mô tả)
+title: Bài 45 Các Thẻ Tranh (Xếp Theo Đúng Thứ Tự Và Mô Tả)
 date: 2024-11-27T23:07:39.698614
 ---
 

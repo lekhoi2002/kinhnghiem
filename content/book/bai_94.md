@@ -1,5 +1,5 @@
 ---
-title: BÀI 94 ĐOÁN TRƯỚC SỰ VIỆC
+title: Bài 94 Đoán Trước Sự Việc
 date: 2024-11-27T23:07:39.698614
 ---
 

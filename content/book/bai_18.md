@@ -1,5 +1,5 @@
 ---
-title: BÀI 18 ĐÒI LẤY MỘT VẬT MÀ TRẺ THÍCH
+title: Bài 18 Đòi Lấy Một Vật Mà Trẻ Thích 
 date: 2024-11-27T23:07:39.698614
 ---
 

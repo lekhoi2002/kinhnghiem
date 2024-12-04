@@ -1,5 +1,5 @@
 ---
-title: BÀI 17 CHỈ VÀO ĐỒ VẬT MÀ TRẺ MUỐN
+title: Bài 17 Chỉ Vào Đồ Vật Mà Trẻ Muốn  
 date: 2024-11-27T23:07:39.698614
 ---
 

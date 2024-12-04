@@ -1,5 +1,5 @@
 ---
-title: BÀI 58 HỎI VỊ TRÍ ĐỒ VẬT
+title: Bài 58 Hỏi Vị Trí Đồ Vật
 date: 2024-11-27T23:07:39.698614
 ---
 

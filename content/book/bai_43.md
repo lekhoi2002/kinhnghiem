@@ -1,5 +1,5 @@
 ---
-title: BÀI 43 ĐẠI TỪ SỞ HỮU
+title: Bài 43 Đại Từ Sở Hữu
 date: 2024-11-27T23:07:39.698614
 ---
 

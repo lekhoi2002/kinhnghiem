@@ -1,5 +1,5 @@
 ---
-title: BÀI 92 HOÀN THÀNH CÂU MỘT CÁCH LÔGÍC
+title: Bài 92 Hoàn Thành Câu Một Cách Lôgíc
 date: 2024-11-27T23:07:39.698614
 ---
 

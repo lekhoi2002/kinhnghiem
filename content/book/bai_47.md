@@ -1,5 +1,5 @@
 ---
-title: BÀI 47 TRẢ LỜI CÁC CÂU HỎI VỀ ĐỒ VẬT VÀ TRANH ẢNH
+title: Bài 47 Trả Lời Các Câu Hỏi Về Đồ Vật Và Tranh Ảnh 
 date: 2024-11-27T23:07:39.698614
 ---
 

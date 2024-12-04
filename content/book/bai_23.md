@@ -1,5 +1,5 @@
 ---
-title: BÀI 23 HÀNH ĐỘNG
+title: Bài 23 Hành Động
 date: 2024-11-27T23:07:39.698614
 ---
 

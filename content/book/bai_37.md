@@ -1,5 +1,5 @@
 ---
-title: BÀI 37 làm theo từng bước một
+title: Bài 37 Làm Theo Từng Bước Một
 date: 2024-11-27T23:07:39.698614
 ---
 

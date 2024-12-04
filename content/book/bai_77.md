@@ -1,5 +1,5 @@
 ---
-title: BÀI 77 DẠY TRẺ KỂ LẠI MỘT CÂU CHUYỆN
+title: Bài 77 Dạy Trẻ Kể Lại Một Câu Chuyện
 date: 2024-11-27T23:07:39.698614
 ---
 

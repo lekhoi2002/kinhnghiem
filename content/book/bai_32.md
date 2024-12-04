@@ -1,5 +1,5 @@
 ---
-title: BÀI 32 BẮT CHƯỚC TẠO CÁC MÔ HÌNH KHỐI
+title: Bài 32 Bắt Chước Tạo Các Mô Hình Khối
 date: 2024-11-27T23:07:39.698614
 ---
 

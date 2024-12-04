@@ -1,5 +1,5 @@
 ---
-title: BÀI 96 NHẬN BIẾT ĐỒ VẬT QUA TÍNH CHẤT VÀ CHỦNG LOẠI
+title: Bài 96 Nhận Biết Đồ Vật Qua Tính Chất Và Chủng Loại
 date: 2024-11-27T23:07:39.698614
 ---
 

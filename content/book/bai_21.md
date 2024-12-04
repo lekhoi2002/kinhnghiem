@@ -1,5 +1,5 @@
 ---
-title: BÀI 21 TRẺ LỰA CHỌN
+title: Bài 21 Trẻ Lựa Chọn  
 date: 2024-11-27T23:07:39.698614
 ---
 

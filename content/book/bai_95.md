@@ -1,5 +1,5 @@
 ---
-title: BÀI 95 GIẢI THÍCH SỰ VIỆC
+title: Bài 95 Giải Thích Sự Việc
 date: 2024-11-27T23:07:39.698614
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BÀI 70 GIỐNG NHAU VÀ KHÁC NHAU (KHẢ NĂNG NHẬN THỨC)
+title: Bài 70 Giống Nhau Và Khác Nhau (Khả Năng Nhận Thức)
 date: 2024-11-27T23:07:39.698614
 ---
 

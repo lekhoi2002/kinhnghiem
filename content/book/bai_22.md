@@ -1,5 +1,5 @@
 ---
-title: BÀI 22 NHỮNG CÂU HỎI XÃ HỘI
+title: Bài 22 Những Câu Hỏi Xã Hội  
 date: 2024-11-27T23:07:39.698614
 ---
 

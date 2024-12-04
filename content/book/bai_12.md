@@ -1,5 +1,5 @@
 ---
-title: BÀI 12 CÁC ĐỒ VẬT Ở MÔI TRƯỜNG XUNG QUANH
+title: Bài 12 Các Đồ Vật Ở Môi Trường Xung Quanh 
 date: 2024-11-27T23:07:39.698614
 ---
 

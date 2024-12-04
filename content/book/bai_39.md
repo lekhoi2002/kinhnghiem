@@ -1,5 +1,5 @@
 ---
-title: BÀI 39 THUỘC TÍNH CỦA ĐỒ VẬT (dễ nhớ và có ý nghĩa)
+title: Bài 39 Thuộc Tính Của Đồ Vật (Dễ Nhớ Và Có Ý Nghĩa)  
 date: 2024-11-27T23:07:39.698614
 ---
 
