@@ -77,7 +77,7 @@ home = ["HTML", "RSS", "REDIR", "netlify", "server"]
   tag = 'tags'
 
 [pagination]
-  pagerSize = 9
+  pagerSize = 18
 
 [privacy]
   [privacy.vimeo]

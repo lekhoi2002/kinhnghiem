@@ -4,7 +4,7 @@
   weight = 10
 
 [[main]]
-  name = "Nuôi dạy Con"
+  name = "Thẻ Thơ"
   pageRef = "/tre-tho/"
   weight = 20
 
@@ -12,6 +12,16 @@
   name = "Kỹ Năng"
   pageRef = "/skills/"
   weight = 30
+
+[[main]]
+  name = "Trẻ Tự Kỷ"
+  pageRef = "/book/"
+  weight = 40
+
+[[main]]
+  name = "marketing"
+  pageRef = "/marketing/"
+  weight = 40
 
 [[main]]
   name = "PC"

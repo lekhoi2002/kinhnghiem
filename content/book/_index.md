@@ -6,7 +6,7 @@ meta:
 date: 2024-12-04T05:15:29.413Z
 ---
 
-# Hướng Dẫn Can Thiệp Hành Vi Cho Trẻ Mắc Tự Kỷ
+## Hướng Dẫn Can Thiệp Hành Vi Cho Trẻ Mắc Tự Kỷ
 
 Phương pháp ABA được xem là một trong những cách tiếp cận hiệu quả nhất trong việc hỗ trợ trẻ mắc tự kỷ phát triển các kỹ năng giao tiếp, xã hội và tự lập. Dưới đây là hướng dẫn chi tiết giúp phụ huynh áp dụng can thiệp hành vi một cách hiệu quả.
 

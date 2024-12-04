@@ -78,7 +78,7 @@
 - id: toggleMainNav
   translation: "Hiện hoặc ẩn menu chính"
 - id: home
-  translation: "Trang chủ"
+  translation: "Home"
 - id: languageSwitcherLabel
   translation: "Ngôn ngữ"
 - id: close

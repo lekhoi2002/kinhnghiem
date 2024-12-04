@@ -49,7 +49,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["tre-tho", "pc", "thien"]
+    sections = ["book", "Thiền"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -167,6 +167,20 @@
         orientation = "stacked"
         homepage = 6
 # toml-docs-end sections
+    [sections.book]
+        title = "Trẻ Tự Kỷ"
+        layout = "card"
+        sort = "weight"
+        reverse = true
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
 
 [favicon]
     logo = "img/favicon.png"
