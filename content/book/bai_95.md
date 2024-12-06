@@ -1,6 +1,7 @@
 ---
 title: Bài 95 Giải Thích Sự Việc
 date: 2024-11-27T23:07:39.698614
+weight: 95
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Kết hợp bài học với hoạt động hàng ngày, ví dụ: "Tại sao con đóng cửa sổ?"
 - Sử dụng câu hỏi mở để khuyến khích trẻ suy nghĩ.
+

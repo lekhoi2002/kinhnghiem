@@ -2,6 +2,7 @@
 title: Bài 1 Giao Tiếp Bằng Mắt Các Bước Dạy Trẻ 
 date: 2024-11-27T23:07:39.698614
 weight: 1
+weight: 1
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -65,6 +66,7 @@ Bài viết này hướng dẫn phụ huynh và giáo viên cách dạy trẻ k�
 - Hãy lặp lại bài tập nhiều lần trong ngày ở các tình huống khác nhau để trẻ dần thành thạo.  
 - Kết hợp giao tiếp bằng mắt trong các hoạt động thường ngày như ăn uống, chơi đùa để tăng cường phản xạ tự nhiên.  
 - Nếu trẻ gặp khó khăn trong thời gian dài, hãy tham khảo ý kiến chuyên gia để được hỗ trợ thêm.  
+
 
 
 

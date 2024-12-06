@@ -1,6 +1,7 @@
 ---
 title: Bài 24 Xếp Vật Này Vào Chỗ Của Vật Kia Giống Với Nó Hoặc Tương Xứng Với Nó  
 date: 2024-11-27T23:07:39.698614
+weight: 24
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -29,3 +30,4 @@ Giảm dần sự hỗ trợ qua các lần dạy.
 ## Gợi Ý Bổ Trợ  
 - Sử dụng ít đồ vật trong các lần đầu để trẻ dễ thực hiện.  
 - Thay đổi vị trí các đồ vật để tăng kỹ năng phân biệt của trẻ.  
+

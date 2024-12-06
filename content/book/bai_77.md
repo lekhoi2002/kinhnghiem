@@ -1,6 +1,7 @@
 ---
 title: Bài 77 Dạy Trẻ Kể Lại Một Câu Chuyện
 date: 2024-11-27T23:07:39.698614
+weight: 77
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -40,3 +41,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Bắt đầu với những câu chuyện đơn giản, quen thuộc với trẻ.
 - Tăng dần độ khó bằng cách đưa thêm các chi tiết mới vào câu chuyện.
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 25 Màu Sắc (Dễ Nhớ Và Có Ý Nghĩa) 
 date: 2024-11-27T23:07:39.698614
+weight: 25
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -30,3 +31,4 @@ Giảm dần sự hỗ trợ qua các lần dạy.
 
 ## Gợi Ý Bổ Trợ  
 - Đặt các đồ vật yêu thích có màu sắc khác nhau trước mặt trẻ. Khi trẻ yêu cầu, hỏi trẻ tên màu trước khi đưa cho trẻ.  
+

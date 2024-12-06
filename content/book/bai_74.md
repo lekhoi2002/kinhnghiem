@@ -1,6 +1,7 @@
 ---
 title: Bài 74 Dạy Trẻ Thực Hiện Các Yêu Cầu Theo Chỉ Dẫn 
 date: 2024-11-27T23:07:39.698614
+weight: 74
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Khuyến khích trẻ thực hành trong nhóm bạn bè hoặc gia đình.
 - Tạo tình huống giả lập để trẻ thực hành tự nhiên hơn.
+

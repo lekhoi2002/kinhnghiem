@@ -1,6 +1,7 @@
 ---
 title: Bài 52 Dạy Trẻ Nói Câu Đơn  
 date: 2024-11-27T23:07:39.698614
+weight: 52
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -41,3 +42,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Kết hợp các câu đơn trong câu chuyện ngắn hoặc bài hát.
 - Yêu cầu trẻ mô tả hai hoặc nhiều đồ vật sau khi quen với câu đơn.
+

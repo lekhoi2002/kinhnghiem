@@ -1,6 +1,7 @@
 ---
 title: Bài 9 Dạy Bằng Tranh Ảnh (Dễ Nhớ Và Ý Nghĩa) 
 date: 2024-11-27T23:07:39.698614
+weight: 9
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -36,3 +37,4 @@ Trong quá trình thực hiện, giảm dần sự trợ giúp để trẻ tự 
 - Bắt đầu với những bức tranh dễ nhận diện, như quả táo hoặc chiếc bàn.  
 - Sử dụng các bức ảnh quen thuộc với trẻ (ví dụ: ảnh chụp đồ chơi của trẻ, đồ vật trong nhà).  
 - Dạy trẻ trong không gian yên tĩnh để trẻ dễ tập trung.  
+

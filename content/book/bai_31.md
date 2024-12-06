@@ -1,6 +1,7 @@
 ---
 title: Bài 31 Bắt Chước Hành Động Đi Kèm Với Âm Thanh 
 date: 2024-11-27T23:07:39.698614
+weight: 31
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Nếu trẻ gặp khó khăn, hãy sử dụng đồ vật quen thuộc và dễ thao tác trước.
 - Kết hợp trò chơi vui nhộn, như làm đoàn tàu "dìn dìn" hoặc vỗ tay theo nhịp "bốp bốp".
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 94 Đoán Trước Sự Việc
 date: 2024-11-27T23:07:39.698614
+weight: 94
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -40,3 +41,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các trò chơi nhập vai để trẻ thực hành dự đoán.
 - Tăng độ khó bằng cách sử dụng các câu chuyện hoặc tranh ảnh phức tạp hơn.
+

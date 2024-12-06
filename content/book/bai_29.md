@@ -1,6 +1,7 @@
 ---
 title: Bài 29 Bắt Chước Các Hoạt Động Thô Khi Đang Đứng 
 date: 2024-11-27T23:07:39.698614
+weight: 29
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -35,3 +36,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Thay đổi các hoạt động để giữ hứng thú cho trẻ.
 - Tạo môi trường vui vẻ và khuyến khích trẻ đóng vai người hướng dẫn để tăng cường sự tham gia.
+

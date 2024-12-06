@@ -1,6 +1,7 @@
 ---
 title: Bài 48 Trả Lời Có/ Không (Với Đồ Vật)
 date: 2024-11-27T23:07:39.698614
+weight: 48
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -42,3 +43,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Áp dụng vào các tình huống hàng ngày, như hỏi trẻ: "Con có muốn uống sữa không?"
 - Tạo trò chơi với các câu hỏi dạng "Có/Không" để luyện tập.
+

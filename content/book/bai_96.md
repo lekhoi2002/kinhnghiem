@@ -1,6 +1,7 @@
 ---
 title: Bài 96 Nhận Biết Đồ Vật Qua Tính Chất Và Chủng Loại
 date: 2024-11-27T23:07:39.698614
+weight: 96
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Bắt đầu với các đồ vật đơn giản, sau đó tăng độ phức tạp.
 - Sử dụng các đồ vật quen thuộc để trẻ dễ liên tưởng.
+

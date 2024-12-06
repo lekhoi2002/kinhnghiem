@@ -1,6 +1,7 @@
 ---
 title: Bài 17 Chỉ Vào Đồ Vật Mà Trẻ Muốn  
 date: 2024-11-27T23:07:39.698614
+weight: 17
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -40,3 +41,4 @@ Giảm dần sự hỗ trợ qua các lần dạy tiếp theo.
 ## Gợi Ý Bổ Trợ  
 - Thay đổi đồ vật thường xuyên để tránh làm trẻ chán.  
 - Dạy trẻ nói tên đồ vật mà trẻ thích khi chỉ vào.  
+

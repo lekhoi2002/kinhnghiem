@@ -1,6 +1,7 @@
 ---
 title: Bài 54 Trao Đổi Thông Tin Xã Hội
 date: 2024-11-27T23:07:39.698614
+weight: 54
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Kết hợp trò chơi đóng vai để trẻ thực hành giới thiệu bản thân với bạn bè.
 - Tăng độ khó bằng cách yêu cầu trẻ nói câu phức, ví dụ: "Khi đi công viên, con thích làm gì?"
+

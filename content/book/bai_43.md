@@ -1,6 +1,7 @@
 ---
 title: Bài 43 Đại Từ Sở Hữu
 date: 2024-11-27T23:07:39.698614
+weight: 43
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -36,3 +37,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Dạy kết hợp trong sinh hoạt hằng ngày, ví dụ: "Đây là giày của con."
 - Sử dụng trò chơi tìm đồ vật thuộc về mỗi người để tạo hứng thú.
+

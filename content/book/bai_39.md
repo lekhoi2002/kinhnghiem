@@ -1,6 +1,7 @@
 ---
 title: Bài 39 Thuộc Tính Của Đồ Vật (Dễ Nhớ Và Có Ý Nghĩa)  
 date: 2024-11-27T23:07:39.698614
+weight: 39
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng trò chơi phân loại dựa trên thuộc tính (to/nhỏ, cao/thấp).
 - Bắt đầu với đồ vật thật, sau đó sử dụng tranh ảnh minh họa.
+

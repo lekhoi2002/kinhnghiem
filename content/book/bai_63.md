@@ -1,6 +1,7 @@
 ---
 title: Bài 63 Miêu Tả Các Đặc Tính Của Đồ Vật
 date: 2024-11-27T23:07:39.698614
+weight: 63
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Luyện tập với các đồ vật quen thuộc trong nhà.
 - Sử dụng trò chơi phân loại đồ vật dựa trên đặc tính để tăng hứng thú.
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 79 Dạy Trẻ Kể Chuyện (Có Dùng Các Đồ Chơi Hỗ Trợ)
 date: 2024-11-27T23:07:39.698614
+weight: 79
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Yêu cầu trẻ kể câu chuyện khác để tránh trùng lặp.
 - Lồng ghép câu chuyện của trẻ vào hoạt động chơi hàng ngày.
+

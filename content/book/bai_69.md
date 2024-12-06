@@ -1,6 +1,7 @@
 ---
 title: Bài 69 Chơi Đóng Vai Với Con Rối 
 date: 2024-11-27T23:07:39.698614
+weight: 69
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Kết hợp với các trò chơi kể chuyện để tăng hứng thú.
 - Thay con rối bằng búp bê hoặc đồ chơi khác để tạo sự mới mẻ.
+

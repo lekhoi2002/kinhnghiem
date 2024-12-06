@@ -1,6 +1,7 @@
 ---
 title: Bài 11 Động Từ Chỉ Hành Động  
 date: 2024-11-27T23:07:39.698614
+weight: 11
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -36,3 +37,4 @@ Giảm dần sự trợ giúp qua các lần dạy tiếp theo.
 ## Gợi Ý Bổ Trợ  
 - Kết hợp với các bài học trước để trẻ dễ liên kết.  
 - Sử dụng các tình huống tự nhiên để dạy, như chơi trò chơi vận động.  
+

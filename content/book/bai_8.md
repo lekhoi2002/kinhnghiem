@@ -1,6 +1,7 @@
 ---
 title: Bài 8 Dạy Bằng Đồ Vật (Dễ Nhớ Và Có Ý Nghĩa)  
 date: 2024-11-27T23:07:39.698614
+weight: 8
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -51,6 +52,7 @@ Hướng dẫn cha mẹ và giáo viên cách dạy trẻ **nhận biết và g�
 - **Kết hợp trò chơi với bài học**: Sử dụng đồ vật trong các hoạt động vui nhộn như tung bóng, ghép hình, hoặc sắp xếp đồ chơi để trẻ vừa học vừa chơi.  
 - **Dạy qua hành động**: Nếu trẻ khó gọi tên đồ vật, hãy thử yêu cầu trẻ thực hiện các hành động liên quan, như **"Lấy tờ giấy ăn"** hoặc **"Tung bóng"**.  
 - **Kiên nhẫn và động viên**: Trẻ có thể cần nhiều thời gian để quen với các bước dạy. Hãy kiên nhẫn và tạo môi trường học tập tích cực để trẻ cảm thấy thoải mái.  
+
 
 
 

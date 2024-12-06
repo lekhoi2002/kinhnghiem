@@ -1,6 +1,7 @@
 ---
 title: Bài 47 Trả Lời Các Câu Hỏi Về Đồ Vật Và Tranh Ảnh 
 date: 2024-11-27T23:07:39.698614
+weight: 47
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các câu hỏi về tranh ảnh gia đình để tăng sự gắn kết.
 - Luyện tập qua các trò chơi hỏi-đáp để trẻ cảm thấy thú vị.
+

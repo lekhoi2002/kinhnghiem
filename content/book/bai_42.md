@@ -1,6 +1,7 @@
 ---
 title: Bài 42 Phân Loại
 date: 2024-11-27T23:07:39.698614
+weight: 42
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -41,3 +42,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Bắt đầu với hai nhóm đơn giản, sau đó tăng số lượng nhóm để nâng cao thử thách.
 - Biến phân loại thành trò chơi "ai xếp nhanh hơn."
+

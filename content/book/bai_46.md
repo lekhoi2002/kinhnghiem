@@ -1,6 +1,7 @@
 ---
 title: Bài 46 Nhận Biết Và Diễn Đạt Về Giới Tính 
 date: 2024-11-27T23:07:39.698614
+weight: 46
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các bức ảnh gia đình để tăng tính liên hệ thực tế.
 - Thực hiện bài học như một trò chơi, ví dụ: "Ai tìm ra cô gái trước sẽ thắng!"
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 6 Làm Theo Chỉ Dẫn Từng Bước Một 
 date: 2024-11-27T23:07:39.698614
+weight: 6
 ---
 ## Mục tiêu của Bài Viết  
 
@@ -47,6 +48,7 @@ Hướng dẫn cha mẹ và giáo viên cách dạy trẻ kỹ năng **làm theo
 - **Lựa chọn chỉ dẫn phù hợp**: Đưa ra các chỉ dẫn phù hợp với thói quen hàng ngày của trẻ, chẳng hạn như **"Đưa cốc nước cho mẹ"** hoặc **"Lấy sách để trên kệ"**.  
 - **Kết nối bài học với thực tế**: Sử dụng các chỉ dẫn tự nhiên trong sinh hoạt hàng ngày để trẻ vừa học vừa ứng dụng ngay lập tức.  
 - **Kiên nhẫn và động viên**: Trẻ có thể mất thời gian để hiểu và làm quen với từng bước. Hãy kiên trì và luôn khích lệ trẻ để tạo động lực học tập.  
+
 
 
 

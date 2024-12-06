@@ -1,6 +1,7 @@
 ---
 title: Bài 88 Cách Diễn Đạt Sự Giống Và Khác Nhau
 date: 2024-11-27T23:07:39.698614
+weight: 88
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Đặt đồ vật ra trước mặt trẻ trong lần học đầu để trẻ dễ liên tưởng.
 - Luyện tập với các nhóm đồ vật đa dạng để trẻ mở rộng khả năng tư duy.
+

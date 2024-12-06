@@ -1,6 +1,7 @@
 ---
 title: Bài 90 Đặt Câu Hỏi Cho Những Thông Tin Không Rõ Ràng
 date: 2024-11-27T23:07:39.698614
+weight: 90
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các câu mơ hồ đơn giản trước, sau đó tăng độ phức tạp.
 - Kết hợp với các trò chơi hỏi đáp để tạo không khí vui vẻ.
+

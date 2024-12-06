@@ -1,6 +1,7 @@
 ---
 title: Bài 15 Vật Sở Hữu (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
+weight: 15
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -33,3 +34,4 @@ Giảm dần sự trợ giúp qua các lần dạy.
 ## Gợi Ý Bổ Trợ  
 - Sử dụng đồ chơi để minh họa (ví dụ: **"Chỉ vào mũi của con búp bê."**).  
 - Tăng dần độ khó với các vật ít quen thuộc hơn.  
+

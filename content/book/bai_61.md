@@ -1,6 +1,7 @@
 ---
 title: Bài 61 Trả Lời Các Câu Hỏi Về Kiến Thức Chung
 date: 2024-11-27T23:07:39.698614
+weight: 61
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng sách hoặc câu chuyện minh họa để trẻ thực hành trả lời.
 - Tăng độ khó bằng cách mở rộng câu hỏi, như "Tại sao chúng ta cần ăn cơm?"
+

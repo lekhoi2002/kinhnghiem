@@ -1,6 +1,7 @@
 ---
 title: Bài 27 Chữ Cái (Dễ Nhớ Và Có Ý Nghĩa)  
 date: 2024-11-27T23:07:39.698614
+weight: 27
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -48,3 +49,4 @@ date: 2024-11-27T23:07:39.698614
 ---
 
 Tôi sẽ tiếp tục với tệp **Bài 28** nếu bạn đồng ý với cách trình bày này! Hãy cho tôi biết nếu bạn muốn thay đổi gì nhé. 😊
+

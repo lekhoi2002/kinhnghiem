@@ -1,6 +1,7 @@
 ---
 title: Bài 78 Mô Tả Theo Chủ Đề
 date: 2024-11-27T23:07:39.698614
+weight: 78
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Hướng dẫn trẻ tập trung vào từng đặc điểm cụ thể trước khi kết hợp tất cả.
 - Dạy bài học này qua các chủ đề thú vị, ví dụ: "Con hãy mô tả chiếc ô tô của mình."
+

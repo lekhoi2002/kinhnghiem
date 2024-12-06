@@ -1,6 +1,7 @@
 ---
 title: Bài 75 Dạy Trẻ Tìm Đồ Vật Khi Được Gợi Ý Về Nơi Giấu 
 date: 2024-11-27T23:07:39.698614
+weight: 75
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng đồ vật quen thuộc để trẻ dễ dàng nhận biết.
 - Tạo trò chơi săn tìm kho báu để tăng sự thú vị và hứng thú.
+

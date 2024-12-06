@@ -1,6 +1,7 @@
 ---
 title: Bài 18 Đòi Lấy Một Vật Mà Trẻ Thích 
 date: 2024-11-27T23:07:39.698614
+weight: 18
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -39,3 +40,4 @@ Giảm dần sự hỗ trợ trong các lần dạy tiếp theo.
 ## Gợi Ý Bổ Trợ  
 - Xếp các đồ vật trẻ thích lên giá hoặc bàn trong tầm mắt nhưng ngoài tầm tay để khuyến khích trẻ yêu cầu.  
 - Tạo sự giao tiếp bằng mắt khi trẻ yêu cầu.  
+

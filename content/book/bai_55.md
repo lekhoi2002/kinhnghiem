@@ -1,6 +1,7 @@
 ---
 title: Bài 55 Dạy Trẻ Nói Không Biết  
 date: 2024-11-27T23:07:39.698614
+weight: 55
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Khuyến khích trẻ học thêm thông tin về đồ vật hoặc câu hỏi sau khi trả lời "Không biết."
 - Tạo trò chơi hỏi-đáp để trẻ thực hành trả lời một cách tự nhiên.
+

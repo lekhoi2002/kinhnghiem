@@ -1,6 +1,7 @@
 ---
 title: Bài 86 Mô Tả Cách Thức Thực Hiện Hành Động 
 date: 2024-11-27T23:07:39.698614
+weight: 86
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các tranh ảnh minh họa để giúp trẻ hiểu rõ hơn.
 - Dạy bài học
+

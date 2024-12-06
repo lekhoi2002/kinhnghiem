@@ -1,6 +1,7 @@
 ---
 title: Bài 34 Căn Phòng (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
+weight: 34
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Biến bài học thành trò chơi "tìm phòng".
 - Khuyến khích trẻ miêu tả các đồ vật trong phòng để tăng vốn từ.
+

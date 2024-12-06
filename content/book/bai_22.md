@@ -1,6 +1,7 @@
 ---
 title: Bài 22 Những Câu Hỏi Xã Hội  
 date: 2024-11-27T23:07:39.698614
+weight: 22
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -29,3 +30,4 @@ Giảm dần sự hỗ trợ trong các lần dạy.
 ## Gợi Ý Bổ Trợ  
 - Luyện tập các câu hỏi xã hội qua các tình huống hàng ngày.  
 - Đảm bảo phát âm rõ ràng để trẻ học theo.  
+

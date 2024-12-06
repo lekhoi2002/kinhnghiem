@@ -1,6 +1,7 @@
 ---
 title: Bài 67 Trả Lời Câu Hỏi Về Thời Gian
 date: 2024-11-27T23:07:39.698614
+weight: 67
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -34,3 +35,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng lịch hoặc đồng hồ để trẻ liên hệ thời gian cụ thể.
 - Thực hành qua trò chơi hỏi đáp về thời gian trong ngày.
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 10 Nhận Biết Người Thân 
 date: 2024-11-27T23:07:39.698614
+weight: 10
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -34,3 +35,4 @@ Trong quá trình thực hành, giảm dần sự hỗ trợ và chỉ khen thư
 ## Gợi Ý Bổ Trợ  
 - Bắt đầu với ảnh của một người thân quen nhất và thêm dần các ảnh khác.  
 - Sử dụng ảnh chụp đồ vật xen kẽ để giúp trẻ tập trung và tránh nhầm lẫn.  
+

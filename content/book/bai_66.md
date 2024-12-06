@@ -1,6 +1,7 @@
 ---
 title: Bài 66 Chức Năng Của Các Phòng 
 date: 2024-11-27T23:07:39.698614
+weight: 66
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -34,3 +35,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng tranh ảnh các phòng để trẻ thực hành nhận biết.
 - Đưa trẻ tham quan nhà và liên hệ với các hoạt động thực tế.
+

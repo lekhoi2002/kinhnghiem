@@ -2,6 +2,7 @@
 title: Bài 2 Bắt Chước Những Hoạt Động Vận Động Thô 
 date: 2024-11-27T23:07:39.69861
 weight: 2
+weight: 2
 ---
 ## Mục tiêu của Bài Viết  
 
@@ -45,6 +46,7 @@ Hướng dẫn cha mẹ và giáo viên cách dạy trẻ kỹ năng **bắt ch�
 - **Học qua đồ vật**: Một số trẻ học tốt hơn khi sử dụng đồ vật, như rung chuông hoặc thả hình khối vào rổ. Hãy kết hợp các hoạt động này để trẻ hứng thú và học nhanh hơn.  
 - **Thăm dò kỹ năng mới**: Sau khi trẻ làm quen với 5 hành động vận động thô cơ bản, hãy khám phá các khả năng bắt chước khác, như bắt chước qua các bài hát hoặc trò chơi vận động.  
 - **Kiên nhẫn và khích lệ**: Mỗi trẻ có tốc độ tiếp thu khác nhau. Hãy tạo môi trường thoải mái, động viên trẻ thường xuyên và kiên trì để đạt kết quả tốt nhất.  
+
 
 
 

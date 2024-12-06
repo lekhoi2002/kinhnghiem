@@ -1,6 +1,7 @@
 ---
 title: Bài 45 Các Thẻ Tranh (Xếp Theo Đúng Thứ Tự Và Mô Tả)
 date: 2024-11-27T23:07:39.698614
+weight: 45
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Chụp ảnh các hoạt động hằng ngày của trẻ để làm thẻ tranh.
 - Biến bài học thành trò chơi "kể chuyện từ thẻ tranh" để tạo hứng thú.
+

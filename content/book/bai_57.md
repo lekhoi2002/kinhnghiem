@@ -1,6 +1,7 @@
 ---
 title: Bài 57 Đây Là Cái Gì
 date: 2024-11-27T23:07:39.698614
+weight: 57
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Áp dụng câu hỏi trong bữa ăn, ví dụ: "Đây là món gì?"
 - Sử dụng sách hoặc tranh ảnh để trẻ thực hành nhận biết.
+

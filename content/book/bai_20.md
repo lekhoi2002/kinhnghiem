@@ -1,6 +1,7 @@
 ---
 title: Bài 20 Nói Tên Người Thân 
 date: 2024-11-27T23:07:39.698614
+weight: 20
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -31,3 +32,4 @@ Giảm dần sự hỗ trợ qua các lần dạy tiếp theo.
 ## Gợi Ý Bổ Trợ  
 - Bắt đầu với các thành viên mà trẻ quen thuộc nhất, ví dụ: bố, mẹ.  
 - Sử dụng giọng nói vui vẻ để khuyến khích trẻ trả lời.  
+

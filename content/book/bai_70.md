@@ -1,6 +1,7 @@
 ---
 title: Bài 70 Giống Nhau Và Khác Nhau (Khả Năng Nhận Thức)
 date: 2024-11-27T23:07:39.698614
+weight: 70
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -41,3 +42,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các đồ vật quen thuộc trong nhà để trẻ dễ liên tưởng.
 - Tạo trò chơi phân loại để tăng hứng thú cho trẻ.
+

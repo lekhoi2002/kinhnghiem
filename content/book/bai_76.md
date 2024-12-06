@@ -1,6 +1,7 @@
 ---
 title: Bài 76 Dạy Trẻ Phân Biệt Khi Nào Nên Hỏi, Khi Nào Nên Nói
 date: 2024-11-27T23:07:39.698614
+weight: 76
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng tình huống thực tế như giờ ăn hoặc chơi để trẻ thực hành.
 - Kết hợp với trò chơi hỏi đáp để tăng sự thú vị.
+

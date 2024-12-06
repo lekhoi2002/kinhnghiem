@@ -1,6 +1,7 @@
 ---
 title: Bài 41 Giả Vờ
 date: 2024-11-27T23:07:39.698614
+weight: 41
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Thực hiện bài học trong không khí vui nhộn, kích thích sự tham gia tự nhiên.
 - Sử dụng câu chuyện để trẻ dễ nhập vai, như "Hôm nay con làm bác sĩ nhé!"
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 65 Trả Lời Các Câu Hỏi Về Nơi Chốn
 date: 2024-11-27T23:07:39.698614
+weight: 65
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -34,3 +35,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng tranh ảnh về nơi chốn để giúp trẻ dễ hình dung.
 - Kết hợp với trò chơi tìm đồ vật để tăng hứng thú học tập.
+

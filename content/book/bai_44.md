@@ -1,6 +1,7 @@
 ---
 title: Bài 44 Giới Từ (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
+weight: 44
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng tranh ảnh minh họa để trẻ dễ hiểu hơn.
 - Dạy trẻ vị trí của chính mình, ví dụ: "Con đang ở dưới bàn."
+

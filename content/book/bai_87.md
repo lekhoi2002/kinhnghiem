@@ -1,6 +1,7 @@
 ---
 title: Bài 87 Diễn Đạt Sự Giống Và Khác Nhau (Với Đồ Vật Trẻ Nhìn Thấy)
 date: 2024-11-27T23:07:39.698614
+weight: 87
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -40,3 +41,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các bức tranh hoặc hình ảnh để trẻ nhận biết thêm.
 - Thực hành trong các hoạt động chơi, như tìm đồ vật giống và khác nhau.
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 92 Hoàn Thành Câu Một Cách Lôgíc
 date: 2024-11-27T23:07:39.698614
+weight: 92
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các ví dụ trong sách hoặc tranh ảnh để tạo thêm tình huống.
 - Thực hành với các câu liên quan đến sở thích và hoạt động hàng ngày của trẻ.
+

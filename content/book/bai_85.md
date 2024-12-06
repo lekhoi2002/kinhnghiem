@@ -1,6 +1,7 @@
 ---
 title: Bài 85 Trả Lời Các Câu Hỏi Về Cuộc Nói Chuyện 
 date: 2024-11-27T23:07:39.698614
+weight: 85
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Ghi hình lại các cuộc nói chuyện để trẻ xem lại và trả lời câu hỏi.
 - Bắt đầu bằng các câu hỏi đơn giản, sau đó tăng dần độ khó để trẻ quen dần.
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 37 Làm Theo Từng Bước Một
 date: 2024-11-27T23:07:39.698614
+weight: 37
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -43,3 +44,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng trò chơi tương tác để tăng hứng thú.
 - Áp dụng các chỉ dẫn vào tình huống thực tế, như "Lấy giày và tất."
+

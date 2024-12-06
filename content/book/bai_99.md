@@ -1,6 +1,7 @@
 ---
 title: Bài 99 Rủ Bạn Cùng Chơi
 date: 2024-11-27T23:07:39.698614
+weight: 99
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Dùng tranh minh họa hoặc hình ảnh trò chơi để trẻ dễ dàng liên tưởng.
 - Dạy trẻ cách phản hồi tích cực khi bạn từ chối, ví dụ: "Không sao, mình chơi trò khác nhé."
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 13 Chỉ Vào Tranh Ảnh Trong Sách  
 date: 2024-11-27T23:07:39.698614
+weight: 13
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -30,3 +31,4 @@ Giảm dần sự trợ giúp để trẻ tự thực hiện.
 ## Gợi Ý Bổ Trợ  
 - Tạo một album ảnh các đồ vật quen thuộc để trẻ chỉ vào khi học.  
 - Hướng dẫn tay trẻ nếu cần thiết để giúp trẻ làm đúng.  
+

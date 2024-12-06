@@ -1,6 +1,7 @@
 ---
 title: Bài 23 Hành Động
 date: 2024-11-27T23:07:39.698614
+weight: 23
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -35,3 +36,4 @@ Hỗ trợ phụ huynh dạy trẻ nhận biết và gọi tên các hành độ
 ## Gợi Ý Bổ Trợ  
 - Sử dụng các hành động quen thuộc với trẻ trong sinh hoạt hàng ngày.  
 - Khuyến khích trẻ nói tên hành động trong các tình huống tự nhiên.  
+

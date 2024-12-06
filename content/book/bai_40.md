@@ -1,6 +1,7 @@
 ---
 title: Bài 40 Nghề Nghiệp
 date: 2024-11-27T23:07:39.698614
+weight: 40
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các câu chuyện về nghề nghiệp để trẻ dễ hiểu và nhớ lâu hơn.
 - Tạo bộ đồ chơi đóng vai như áo bác sĩ, mũ lính cứu hỏa.
+

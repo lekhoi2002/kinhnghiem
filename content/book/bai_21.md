@@ -1,6 +1,7 @@
 ---
 title: Bài 21 Trẻ Lựa Chọn  
 date: 2024-11-27T23:07:39.698614
+weight: 21
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -29,3 +30,4 @@ Giảm dần sự hỗ trợ qua các lần dạy.
 ## Gợi Ý Bổ Trợ  
 - Bắt đầu với một đồ vật mà trẻ thích và một đồ vật mà trẻ không thích.  
 - Đảm bảo thay đổi câu hỏi để tránh trẻ chọn theo thứ tự đồ vật bạn nêu ra.  
+

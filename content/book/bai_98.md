@@ -1,6 +1,7 @@
 ---
 title: Bài 98 Bắt Chước Các Bạn
 date: 2024-11-27T23:07:39.698614
+weight: 98
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng trò chơi như "Làm theo tôi" để trẻ thực hành bắt chước.
 - Kết hợp lời khen và động viên để trẻ tự tin hơn.
+

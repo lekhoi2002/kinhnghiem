@@ -1,6 +1,7 @@
 ---
 title: Bài 5 Bắt Chước Hoạt Động Vận Động Bằng Miệng  
 date: 2024-11-27T23:07:39.698614
+weight: 5
 ---
 ## Mục tiêu của bài viết
 
@@ -61,6 +62,7 @@ Bài viết này cung cấp hướng dẫn chi tiết giúp phụ huynh hoặc g
   - Biến các bài tập thành trò chơi vui nhộn để tạo hứng thú, ví dụ như thi xem ai thổi bong bóng to hơn hoặc ai làm động tác chính xác hơn.
 
 Với các bước trên, việc dạy trẻ bắt chước các hoạt động vận động bằng miệng không chỉ hỗ trợ phát triển kỹ năng giao tiếp mà còn tạo ra những phút giây kết nối đầy ý nghĩa giữa bạn và trẻ.
+
 
 
 

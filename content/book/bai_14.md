@@ -1,6 +1,7 @@
 ---
 title: Bài 14 Chức Năng Của Đồ Vật
 date: 2024-11-27T23:07:39.698614
+weight: 14
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -38,3 +39,4 @@ Giảm dần sự trợ giúp qua các lần dạy.
 ## Gợi Ý Bổ Trợ  
 - Đảm bảo trẻ biết tên đồ vật trước khi học chức năng của chúng.  
 - Tạo các tình huống thực tế để trẻ áp dụng kiến thức.  
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 89 Trả Lời Các Câu Hỏi Lựa Chọn
 date: 2024-11-27T23:07:39.698614
+weight: 89
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các câu hỏi có hình ảnh minh họa để trẻ dễ tưởng tượng.
 - Bắt đầu với câu hỏi đơn giản, sau đó tăng dần độ khó để phù hợp với trẻ.
+

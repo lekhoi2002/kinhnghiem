@@ -1,6 +1,7 @@
 ---
 title: Bài 50 Nhận Biết Cảm Xúc
 date: 2024-11-27T23:07:39.698614
+weight: 50
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Kết hợp các bức tranh và tình huống thực tế để trẻ dễ hình dung.
 - Sử dụng trò chơi "đoán cảm xúc" để tăng hứng thú học tập.
+

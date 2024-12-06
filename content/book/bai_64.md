@@ -1,6 +1,7 @@
 ---
 title: Bài 64 Kể Lại Sự Việc Đã Xảy Ra Trong Quá Khứ
 date: 2024-11-27T23:07:39.698614
+weight: 64
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -36,3 +37,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Thực hành qua các trò chơi và hoạt động thường ngày.
 - Tạo tình huống thú vị như đi chơi công viên để trẻ dễ nhớ và kể lại.
+

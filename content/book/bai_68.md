@@ -1,6 +1,7 @@
 ---
 title: Bài 68 Chuyển Tin Nhắn 
 date: 2024-11-27T23:07:39.698614
+weight: 68
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -34,3 +35,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Bắt đầu với tin nhắn ngắn và đơn giản, sau đó tăng dần độ dài và phức tạp.
 - Sử dụng ngữ cảnh hàng ngày để trẻ thực hành một cách tự nhiên.
+

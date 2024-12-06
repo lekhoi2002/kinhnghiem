@@ -1,6 +1,7 @@
 ---
 title: Bài 30 Bắt Chước Hoạt Động Theo Thứ Tự 
 date: 2024-11-27T23:07:39.698614
+weight: 30
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Nếu trẻ gặp khó khăn, kết hợp một hành động vận động với một hành động sử dụng đồ vật để tăng khả năng nhận diện.
 - Tạo sự thú vị bằng cách biến bài tập thành trò chơi "làm đúng thứ tự" để khuyến khích trẻ tham gia.
+

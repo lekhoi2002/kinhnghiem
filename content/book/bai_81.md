@@ -1,6 +1,7 @@
 ---
 title: Bài 81 Yêu Cầu Giải Thích Khi Không Hiểu
 date: 2024-11-27T23:07:39.698614
+weight: 81
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Dạy bài này trong tình huống thực tế, như lúc chơi hoặc làm bài tập.
 - Hướng dẫn trẻ cách diễn đạt ngắn gọn, dễ hiểu.
+

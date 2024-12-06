@@ -1,6 +1,7 @@
 ---
 title: Bài 97 Định Nghĩa Về Con Người, Địa Điểm Và Đồ Vật
 date: 2024-11-27T23:07:39.698614
+weight: 97
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -42,3 +43,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng bức tranh minh họa các khái niệm để trẻ dễ hình dung.
 - Thực hành trong cuộc sống hàng ngày, ví dụ: "Người bán hàng làm gì?"
+

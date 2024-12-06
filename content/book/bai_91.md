@@ -1,6 +1,7 @@
 ---
 title: Bài 91 Trả Lời Các Câu Hỏi Về Nguyên Nhân Và Giả Định
 date: 2024-11-27T23:07:39.698614
+weight: 91
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Áp dụng bài học vào các tình huống hàng ngày để tăng tính thực tế.
 - Tạo trò chơi với câu hỏi nguyên nhân và giả định để tăng hứng thú cho trẻ.
+

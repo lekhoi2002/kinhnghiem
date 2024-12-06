@@ -1,6 +1,7 @@
 ---
 title: Bài 73 Trả Lời Các Câu Hỏi Về Một Chủ Đề Bất Kỳ
 date: 2024-11-27T23:07:39.698614
+weight: 73
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Áp dụng câu hỏi vào các tình huống thực tế.
 - Sử dụng hình ảnh minh họa hoặc đồ vật để trẻ dễ hình dung.
+

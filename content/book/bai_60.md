@@ -1,6 +1,7 @@
 ---
 title: Bài 60 Sử Dụng Các Đại Từ Nhân Xưng (Ngôi Thứ Ba Số Ít)
 date: 2024-11-27T23:07:39.698614
+weight: 60
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Thực hành trong tình huống thực tế khi gặp gỡ người thân hoặc bạn bè.
 - Sử dụng trò chơi đoán người, ví dụ: "Ai đang vỗ tay?"
+

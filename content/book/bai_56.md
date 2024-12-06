@@ -1,6 +1,7 @@
 ---
 title: Bài 56 Dạy Trẻ Nói "Kia Là Cái Gì?" 
 date: 2024-11-27T23:07:39.698614
+weight: 56
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -36,3 +37,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng đồ vật hấp dẫn như đồ chơi màu sắc để thu hút trẻ.
 - Tạo cơ hội tự nhiên cho trẻ hỏi, ví dụ: khi trẻ phát hiện món đồ mới.
+

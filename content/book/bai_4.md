@@ -2,6 +2,7 @@
 title: Bài 4 Bắt Chước Những Hoạt Động Vận Động Tinh 
 date: 2024-11-27T23:07:39.698614
 weight: 4
+weight: 4
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -48,6 +49,7 @@ Hướng dẫn cha mẹ và giáo viên cách dạy trẻ kỹ năng **bắt ch�
 - **Phát triển từ các hoạt động tiêu biểu**: Bắt đầu với những hành động đơn giản như bấm nút, lật trang sách, hoặc nhặt các vật nhỏ.  
 - **Hiểu khả năng của trẻ**: Trẻ dưới 3 tuổi có thể gặp khó khăn với các vận động tinh. Hãy kiên nhẫn và chọn bài tập phù hợp với lứa tuổi và khả năng của trẻ.  
 - **Tăng cường qua trò chơi**: Kết hợp các hoạt động vận động tinh vào trò chơi, như xếp hình, xâu chuỗi, hoặc vẽ tranh, để trẻ hứng thú hơn khi học.  
+
 
 
 

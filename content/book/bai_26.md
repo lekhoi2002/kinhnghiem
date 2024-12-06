@@ -1,6 +1,7 @@
 ---
 title: Bài 26 Hình Dạng (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
+weight: 26
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -30,3 +31,4 @@ Giảm dần sự hỗ trợ qua các lần dạy.
 
 ## Gợi Ý Bổ Trợ  
 - Kết hợp dạy hình dạng qua các đồ vật thực tế, ví dụ: **"Chiếc đĩa này hình gì?"**  
+

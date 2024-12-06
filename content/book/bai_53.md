@@ -1,6 +1,7 @@
 ---
 title: Bài 53 Trao Đổi Thông Tin
 date: 2024-11-27T23:07:39.698614
+weight: 53
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Luyện tập qua các tình huống tự nhiên như trong lúc chơi hoặc ăn uống.
 - Kết hợp câu hỏi và phần thưởng để duy trì hứng thú học tập.
+

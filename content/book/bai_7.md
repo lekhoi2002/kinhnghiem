@@ -1,6 +1,7 @@
 ---
 title: Bài 7 Các Bộ Phận Của Cơ Thể (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
+weight: 7
 ---
 ## Mục tiêu của bài viết
 
@@ -76,6 +77,7 @@ Bài viết hướng dẫn các bậc phụ huynh hoặc giáo viên giúp trẻ
   - Ôn lại bài trong các hoạt động hàng ngày, như khi thay quần áo, tắm, hoặc chơi.
 
 Bằng cách thực hiện các bước trên, bạn sẽ giúp trẻ không chỉ nhận biết các bộ phận cơ thể mà còn tự tin hơn trong giao tiếp và học hỏi.
+
 
 
 

@@ -1,6 +1,7 @@
 ---
 title: Bài 71 Chỉ Ra Những Đồ Vật Không Cùng Tính Chất Và Chủng Loại 
 date: 2024-11-27T23:07:39.698614
+weight: 71
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -40,3 +41,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng đồ vật quen thuộc để trẻ dễ hiểu và hứng thú.
 - Thực hiện trò chơi phân loại với bạn bè để tạo môi trường học tập vui vẻ.
+

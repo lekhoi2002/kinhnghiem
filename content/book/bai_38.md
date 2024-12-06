@@ -1,6 +1,7 @@
 ---
 title: Bài 38 Trẻ Đưa Hai Đồ Vật (Cùng Một Lúc)
 date: 2024-11-27T23:07:39.698614
+weight: 38
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Tạo trò chơi như "đưa đồ vật yêu thích" để tăng hứng thú.
 - Kết hợp lời khen và phần thưởng để trẻ tự tin hơn.
+

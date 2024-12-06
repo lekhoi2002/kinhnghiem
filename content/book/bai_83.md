@@ -1,6 +1,7 @@
 ---
 title: Bài 83 Sử Dụng Các Đại Từ Sở Hữu (Của Bạn Ấy)
 date: 2024-11-27T23:07:39.698614
+weight: 83
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các đồ vật yêu thích của trẻ để tăng sự tập trung.
 - Tạo các trò chơi hỏi-đáp để tăng hứng thú học tập.
+

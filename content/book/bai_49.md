@@ -1,6 +1,7 @@
 ---
 title: Bài 49 Chức Năng Của Các Bộ Phận Cơ Thể
 date: 2024-11-27T23:07:39.698614
+weight: 49
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -36,3 +37,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Kết hợp với bài hát hoặc trò chơi liên quan đến bộ phận cơ thể.
 - Khen thưởng trẻ khi trẻ trả lời đúng để tạo động lực.
+

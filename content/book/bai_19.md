@@ -1,6 +1,7 @@
 ---
 title: Bài 19 Câu Trả Lời "Có/ Không"  
 date: 2024-11-27T23:07:39.698614
+weight: 19
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -37,3 +38,4 @@ Giảm dần sự hỗ trợ qua các lần dạy tiếp theo.
 ## Gợi Ý Bổ Trợ  
 - Dùng đồ ăn hoặc vật trẻ thực sự thích và không thích để tạo hứng thú.  
 - Thay đổi cách hỏi để kiểm tra sự hiểu biết của trẻ.  
+

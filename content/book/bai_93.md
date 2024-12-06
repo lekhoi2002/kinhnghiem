@@ -1,6 +1,7 @@
 ---
 title: Bài 93 Mô Tả Các Đặc Điểm Bất Thường Trong Tranh
 date: 2024-11-27T23:07:39.698614
+weight: 93
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Đặt trẻ vào tình huống thực tế để trẻ dễ liên hệ, như nhìn thấy sách bị lật ngược.
 - Khuyến khích trẻ giải thích tại sao điều đó không bình thường.
+

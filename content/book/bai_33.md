@@ -1,6 +1,7 @@
 ---
 title: Bài 33 Bắt Chước Các Hình Vẽ Đơn Giản 
 date: 2024-11-27T23:07:39.698614
+weight: 33
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -37,3 +38,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các dụng cụ vẽ nhiều màu sắc để thu hút trẻ.
 - Kết hợp việc vẽ với kể chuyện để trẻ thấy thú vị hơn.
+

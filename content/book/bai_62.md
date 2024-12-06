@@ -1,6 +1,7 @@
 ---
 title: Bài 62 Miêu Tả Tranh Bằng Câu Đầy Đủ 
 date: 2024-11-27T23:07:39.698614
+weight: 62
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng tranh ảnh gia đình để tăng sự gần gũi và hứng thú.
 - Kết hợp bài học với kể chuyện ngắn để trẻ ghi nhớ tốt hơn.
+

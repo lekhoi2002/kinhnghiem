@@ -2,6 +2,7 @@
 title: Bài 3 Bắt Chước Những Hành Động Với Đồ Vật  
 date: 2024-11-27T23:07:39.698614
 weight: 3
+weight: 3
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -49,6 +50,7 @@ Hướng dẫn phụ huynh và giáo viên cách dạy trẻ kỹ năng **bắt 
 - **Liên kết với trò chơi**: Kết hợp việc bắt chước với các trò chơi vui nhộn, như xếp khối, lắc chuông theo nhịp, hoặc lăn bóng qua lại.  
 - **Thường xuyên đổi mới bài tập**: Dạy các hành động bắt chước liên quan đến chơi mà trẻ thích, ví dụ như gõ trống hoặc vỗ tay với đồ chơi.  
 - **Khuyến khích sự sáng tạo**: Khi trẻ đã thành thạo, cho trẻ cơ hội tự nghĩ ra hành động mới với đồ vật và mời bạn bắt chước theo trẻ. Điều này giúp trẻ cảm thấy tự tin và hứng thú hơn.  
+
 
 
 

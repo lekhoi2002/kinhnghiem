@@ -1,6 +1,7 @@
 ---
 title: Bài 72 Trả Lời Các Câu Hỏi Về Một Câu Chuyện
 date: 2024-11-27T23:07:39.698614
+weight: 72
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Sử dụng các câu chuyện quen thuộc với trẻ để tăng khả năng tương tác.
 - Tạo trò chơi hỏi đáp dựa trên nội dung câu chuyện.
+

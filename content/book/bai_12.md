@@ -1,6 +1,7 @@
 ---
 title: Bài 12 Các Đồ Vật Ở Môi Trường Xung Quanh 
 date: 2024-11-27T23:07:39.698614
+weight: 12
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -32,3 +33,4 @@ Giảm dần sự trợ giúp qua các lần dạy.
 
 ## Gợi Ý Bổ Trợ  
 - Bắt đầu dạy gần đồ vật, sau đó dần đứng xa hơn để tăng khả năng quan sát.  
+

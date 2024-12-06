@@ -1,6 +1,7 @@
 ---
 title: Bài 80 Dạy Trẻ Kể Chuyện (Không Dùng Đồ Chơi Hỗ Trợ)
 date: 2024-11-27T23:07:39.698614
+weight: 80
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -36,3 +37,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Dạy trẻ kể chuyện theo từng phần, từ một câu, hai câu, đến cả đoạn dài.
 - Luyện tập kể chuyện nhóm với anh chị em hoặc bạn bè.
+

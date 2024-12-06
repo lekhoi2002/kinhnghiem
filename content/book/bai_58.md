@@ -1,6 +1,7 @@
 ---
 title: Bài 58 Hỏi Vị Trí Đồ Vật
 date: 2024-11-27T23:07:39.698614
+weight: 58
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -35,3 +36,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Luyện tập qua trò chơi "Tìm kho báu."
 - Áp dụng khi trẻ chuẩn bị đi học hoặc đi chơi bằng cách giấu đồ dùng cá nhân.
+

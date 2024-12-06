@@ -1,6 +1,7 @@
 ---
 title: Bài 51 Tập Hợp Và Gọi Tên Đồ Vật Theo Từng Loại
 date: 2024-11-27T23:07:39.698614
+weight: 51
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -34,3 +35,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Tăng độ khó bằng cách thêm nhiều nhóm phân loại.
 - Dùng đồ vật thật để trẻ dễ hình dung và ghi nhớ.
+

@@ -1,6 +1,7 @@
 ---
 title: Bài 16 Nhận Biết Âm Thanh Của Môi Trường Xung Quanh  
 date: 2024-11-27T23:07:39.698614
+weight: 16
 ---
 
 ## Mục tiêu của Bài Viết  
@@ -32,3 +33,4 @@ Hỗ trợ phụ huynh dạy trẻ nhận biết và phân biệt các âm thanh
 ## Gợi Ý Bổ Trợ  
 - Sử dụng các âm thanh quen thuộc với trẻ, ví dụ: tiếng chim hót, tiếng còi xe.  
 - Dạy trẻ trong môi trường yên tĩnh để trẻ dễ tập trung.  
+

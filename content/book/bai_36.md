@@ -1,6 +1,7 @@
 ---
 title: Bài 36 Nhận Biết Địa Điểm (Dễ Nhớ Và Có Ý Nghĩa)
 date: 2024-11-27T23:07:39.698614
+weight: 36
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -38,3 +39,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Dẫn trẻ tham quan thực tế các địa điểm trong hình ảnh.
 - Kể chuyện ngắn về mỗi địa điểm để trẻ dễ nhớ và hiểu chức năng.
+

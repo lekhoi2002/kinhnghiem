@@ -1,6 +1,7 @@
 ---
 title: Bài 84 Sử Dụng Đúng Thì Của Động Từ
 date: 2024-11-27T23:07:39.698614
+weight: 84
 ---
 
 ## Mục Tiêu Của Bài Viết
@@ -39,3 +40,4 @@ date: 2024-11-27T23:07:39.698614
 ## Gợi Ý Bổ Trợ
 - Tăng độ khó bằng cách dạy trẻ dùng các câu phức tạp hơn, ví dụ: "Con sẽ vào bếp và lấy cái cốc."
 - Sử dụng thẻ hình minh họa để trẻ nhận biết các thì động từ.
+
