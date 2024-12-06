@@ -49,7 +49,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["book", "Thiền"]
+    sections = ["book", "thien", "pc"]
     fullCover = false
     centerHeadline = false
     style = ""
