@@ -169,7 +169,7 @@
 # toml-docs-end sections
     [sections.book]
         title = "Trẻ Tự Kỷ"
-        layout = "card"
+        layout = "list"
         sort = "weight"
         reverse = true
         background = ""
