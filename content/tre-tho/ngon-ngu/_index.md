@@ -1,5 +1,5 @@
 ---
-title: "Tổng quan về Phát triển ngôn ngữ: Giao tiếp, Đọc - Viết, Nghe - Nói"
+title: "Phát triển ngôn ngữ"
 meta:
   title: "Tổng quan về Phát triển ngôn ngữ: Giao tiếp, Đọc - Viết, Nghe - Nói"
   description: "Khám phá tổng quan về phát triển ngôn ngữ, bao gồm các kỹ năng quan trọng như giao tiếp, đọc - viết, nghe - nói và cách thúc đẩy sự phát triển ngôn ngữ toàn diện."

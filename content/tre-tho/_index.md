@@ -1,5 +1,5 @@
 ---
-title: "Tổng quan giáo dục toàn diện: Khái niệm, lợi ích và ứng dụng thực tiễn"
+title: "giáo dục toàn diện"
 meta:
   title: "Tổng quan giáo dục toàn diện: Khái niệm, lợi ích và ứng dụng thực tiễn"
   description: "Tìm hiểu khái niệm giáo dục toàn diện, lợi ích và ứng dụng thực tiễn. Phương pháp giáo dục giúp trẻ phát triển toàn diện về trí tuệ, cảm xúc, thể chất và kỹ năng xã hội."

@@ -1,5 +1,5 @@
 ---
-title: "Tổng quan về Phát triển thể chất: Dinh dưỡng, vận động và sức khỏe"
+title: "TPhát triển thể chất"
 meta:
   title: "Tổng quan về Phát triển thể chất: Tầm quan trọng, dinh dưỡng, vận động và sức khỏe"
   description: "Khám phá tổng quan về phát triển thể chất, bao gồm tầm quan trọng, vai trò của dinh dưỡng, vận động và sức khỏe trong quá trình phát triển của trẻ em và người trưởng thành."

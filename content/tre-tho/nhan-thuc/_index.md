@@ -1,5 +1,5 @@
 ---
-title: "Tổng quan về Phát triển nhận thức: Tư duy, Sáng tạo, Học tập và Giải quyết vấn đề"
+title: "Phát triển nhận thức"
 meta:
   title: "Tổng quan về Phát triển nhận thức: Tư duy, Sáng tạo, Học tập và Giải quyết vấn đề"
   description: "Khám phá tổng quan về phát triển nhận thức, bao gồm các khía cạnh quan trọng như tư duy, sáng tạo, học tập và giải quyết vấn đề cho trẻ và người trưởng thành."
