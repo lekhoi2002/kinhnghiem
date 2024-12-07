@@ -4,6 +4,7 @@ meta:
   title: "Phương pháp giáo dục toàn diện: Montessori, Reggio Emilia, STEM, Học qua chơi, Học qua dự án"
   description: "Tóm tắt ngắn gọn các phương pháp giáo dục toàn diện nổi bật như Montessori, Reggio Emilia, STEM, Học qua chơi và Học qua dự án, giúp trẻ phát triển toàn diện về trí tuệ, kỹ năng và cảm xúc."
 date: 2024-10-03T15:28:09+07:00
+nested: true
 ---
 
 # **Tóm tắt các Phương pháp giáo dục toàn diện: Montessori, Reggio Emilia, STEM, Học qua chơi, Học qua dự án**
