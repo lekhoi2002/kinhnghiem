@@ -1,10 +1,11 @@
 ---
-title: "Phát triển thẩm mỹ"
+title: Phát triển thẩm mỹ
 meta:
   title: "Phát triển thẩm mỹ: Âm nhạc, Hội họa, Nghệ thuật và Thủ công, Cảm thụ cái đẹp"
-  description: "Khám phá tổng quan về phát triển thẩm mỹ, bao gồm âm nhạc, hội họa, nghệ thuật và thủ công, cùng khả năng cảm thụ cái đẹp cho trẻ em và người trưởng thành."
+  description: Khám phá tổng quan về phát triển thẩm mỹ, bao gồm âm nhạc, hội họa, nghệ thuật và thủ công, cùng khả năng cảm thụ cái đẹp cho trẻ em và người trưởng thành.
 date: 2024-10-03T15:28:09+07:00
 nested: true
+thumbnail: /img/thumb/child/phat-trien-tham-my.webp
 ---
 
 # **Tổng quan về Phát triển thẩm mỹ: Âm nhạc, Hội họa, Nghệ thuật và Thủ công, Cảm thụ cái đẹp**

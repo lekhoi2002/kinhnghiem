@@ -1,10 +1,11 @@
 ---
-title: "Phát triển Cảm Xúc"
+title: Phát triển Cảm Xúc
 meta:
   title: "Phát triển tình cảm - xã hội: Kỹ năng xã hội, Quản lý cảm xúc, Sự tự tin và Giáo dục đạo đức"
-  description: "Khám phá tổng quan về phát triển tình cảm - xã hội, bao gồm kỹ năng xã hội, quản lý cảm xúc, xây dựng sự tự tin và giáo dục đạo đức cho trẻ em và người trưởng thành."
+  description: Khám phá tổng quan về phát triển tình cảm - xã hội, bao gồm kỹ năng xã hội, quản lý cảm xúc, xây dựng sự tự tin và giáo dục đạo đức cho trẻ em và người trưởng thành.
 date: 2024-10-03T15:28:09+07:00
 nested: true
+thumbnail: /img/thumb/child/cam-xuc.webp
 ---
 
 # **Tổng quan về Phát triển tình cảm - xã hội: Kỹ năng xã hội, Quản lý cảm xúc, Sự tự tin và Giáo dục đạo đức**

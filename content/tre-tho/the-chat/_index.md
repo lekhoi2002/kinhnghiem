@@ -1,10 +1,11 @@
 ---
-title: "TPhát triển thể chất"
+title: TPhát triển thể chất
 meta:
   title: "Tổng quan về Phát triển thể chất: Tầm quan trọng, dinh dưỡng, vận động và sức khỏe"
-  description: "Khám phá tổng quan về phát triển thể chất, bao gồm tầm quan trọng, vai trò của dinh dưỡng, vận động và sức khỏe trong quá trình phát triển của trẻ em và người trưởng thành."
+  description: Khám phá tổng quan về phát triển thể chất, bao gồm tầm quan trọng, vai trò của dinh dưỡng, vận động và sức khỏe trong quá trình phát triển của trẻ em và người trưởng thành.
 date: 2024-10-03T15:28:09+07:00
 nested: true
+thumbnail: /img/thumb/child/phat-trien-the-chat.webp
 ---
 
 # Tổng quan về Phát triển thể chất: Dinh dưỡng, vận động và sức khỏe

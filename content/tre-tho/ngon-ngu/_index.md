@@ -1,10 +1,11 @@
 ---
-title: "Phát triển ngôn ngữ"
+title: Phát triển ngôn ngữ
 meta:
   title: "Tổng quan về Phát triển ngôn ngữ: Giao tiếp, Đọc - Viết, Nghe - Nói"
-  description: "Khám phá tổng quan về phát triển ngôn ngữ, bao gồm các kỹ năng quan trọng như giao tiếp, đọc - viết, nghe - nói và cách thúc đẩy sự phát triển ngôn ngữ toàn diện."
+  description: Khám phá tổng quan về phát triển ngôn ngữ, bao gồm các kỹ năng quan trọng như giao tiếp, đọc - viết, nghe - nói và cách thúc đẩy sự phát triển ngôn ngữ toàn diện.
 date: 2024-10-03T15:28:09+07:00
 nested: true
+thumbnail: /img/thumb/child/ngon-ngu.webp
 ---
 
 # **Tổng quan về Phát triển ngôn ngữ: Giao tiếp, Đọc - Viết, Nghe - Nói**
