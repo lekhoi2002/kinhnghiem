@@ -30,3 +30,8 @@
 .category-description.expanded + .text-center .btn {
     margin-top: 20px;
 }
+
+// css nội dung danh mục con
+.sub-categories {
+    transition: margin-top 0.5s ease;
+}
