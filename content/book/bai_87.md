@@ -1,7 +1,8 @@
 ---
 title: Bài 87 Diễn Đạt Sự Giống Và Khác Nhau (Với Đồ Vật Trẻ Nhìn Thấy)
 date: 2024-11-27T23:07:39.698614
-weight: 87
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 87
 ---
 
 ## Mục Tiêu Của Bài Viết

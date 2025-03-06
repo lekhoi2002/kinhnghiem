@@ -1,7 +1,8 @@
 ---
 title: Bài 29 Bắt Chước Các Hoạt Động Thô Khi Đang Đứng 
 date: 2024-11-27T23:07:39.698614
-weight: 29
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 29
 ---
 
 ## Mục Tiêu Của Bài Viết

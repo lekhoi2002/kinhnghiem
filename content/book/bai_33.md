@@ -1,7 +1,8 @@
 ---
 title: Bài 33 Bắt Chước Các Hình Vẽ Đơn Giản 
 date: 2024-11-27T23:07:39.698614
-weight: 33
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 33
 ---
 
 ## Mục Tiêu Của Bài Viết

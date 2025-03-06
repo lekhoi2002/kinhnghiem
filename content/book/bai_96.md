@@ -1,7 +1,8 @@
 ---
 title: Bài 96 Nhận Biết Đồ Vật Qua Tính Chất Và Chủng Loại
 date: 2024-11-27T23:07:39.698614
-weight: 96
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 96
 ---
 
 ## Mục Tiêu Của Bài Viết

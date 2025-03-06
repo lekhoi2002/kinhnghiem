@@ -1,7 +1,8 @@
 ---
 title: Bài 71 Chỉ Ra Những Đồ Vật Không Cùng Tính Chất Và Chủng Loại 
 date: 2024-11-27T23:07:39.698614
-weight: 71
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 71
 ---
 
 ## Mục Tiêu Của Bài Viết

@@ -1,7 +1,8 @@
 ---
 title: Bài 64 Kể Lại Sự Việc Đã Xảy Ra Trong Quá Khứ
 date: 2024-11-27T23:07:39.698614
-weight: 64
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 64
 ---
 
 ## Mục Tiêu Của Bài Viết

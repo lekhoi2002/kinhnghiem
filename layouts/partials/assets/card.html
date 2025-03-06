@@ -1,5 +1,5 @@
 <!-- 
-    Copyright © 2024 The Hinode Team / Mark Dumay. All rights reserved.
+    Copyright © 2022 - 2025 The Hinode Team / Mark Dumay. All rights reserved.
     Use of this source code is governed by The MIT License (MIT) that can be found in the LICENSE file.
     Visit gethinode.com/license for more details.
 -->
@@ -86,6 +86,8 @@
 {{- if eq $body "title" }}{{ $description = "" }}{{ end -}}
 {{- if eq $body "none" }}{{ $title = "" }}{{ $description = "" }}{{ end -}}
 
+{{ if site.Params.main.titleCase }}{{ $title = title $title }}{{ end }}
+
 <!-- Inline partial to render the card's body -->
 {{- define "partials/card-body.html" -}}
     {{- $title := .title -}}
@@ -96,7 +98,7 @@
     
     {{- if $href -}}
         <a href="{{ $href }}" class="{{ if $color }}link-bg-{{ $color }}{{ else }}card-body-link{{ end }} stretched-link">
-                <p class="card-title fs-lg-5 fs-6 title-custom">{{ $title }}</p>
+                <p class="card-title fs-lg-5 fs-6">{{ $title }}</p>
             {{ with $description }}
                 <div class="card-text {{ if $color }}link-bg-{{ $color }}{{ else }}card-body-link{{ end }}">
                 {{ . | safeHTML }}
@@ -177,7 +179,20 @@
         <div class="row g-0 row-cols-2 h-100{{ if $button }} pb-5{{ end }}">
             {{- if $thumbnail -}}
                 <div class="{{ $col1 }}">
-                    {{- partial $hook (dict "url" $thumbnail "ratio" (or $ratio "1x1") "portrait" $portrait "sizes" $sizes "anchor" $anchor "wrapper" "h-100 card-img-wrap" "class" "rounded-start card-img-h100 card-img-bg" "title" $title "loading" $loading) -}}
+                    {{ $fullHeight := "card-img-h100" }}
+                    {{ $rounding := "rounded-start" }}
+                    {{ if eq (lower (path.Ext $thumbnail)) ".svg" }}{{ $fullHeight = "" }}{{ $rounding = "" }}{{ end }}
+                    {{- partial $hook (dict 
+                        "url" $thumbnail
+                        "ratio" (or $ratio "1x1")
+                        "portrait" $portrait
+                        "sizes" $sizes
+                        "anchor" $anchor
+                        "wrapper" "h-100 card-img-wrap d-flex align-items-center"
+                        "class" (printf "card-img-bg %s %s" $rounding $fullHeight)
+                        "title" $title
+                        "loading" $loading
+                    ) -}}
                 </div>
             {{- else if $icon -}}
                 <div class="{{ $col1 }} p-{{ $padding }}">

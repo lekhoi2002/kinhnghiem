@@ -1,7 +1,8 @@
 ---
 title: Bài 51 Tập Hợp Và Gọi Tên Đồ Vật Theo Từng Loại
 date: 2024-11-27T23:07:39.698614
-weight: 51
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 51
 ---
 
 ## Mục Tiêu Của Bài Viết

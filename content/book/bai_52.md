@@ -1,7 +1,8 @@
 ---
 title: Bài 52 Dạy Trẻ Nói Câu Đơn  
 date: 2024-11-27T23:07:39.698614
-weight: 52
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 52
 ---
 
 ## Mục Tiêu Của Bài Viết

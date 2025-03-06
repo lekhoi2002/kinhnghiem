@@ -1,7 +1,8 @@
 ---
 title: Bài 47 Trả Lời Các Câu Hỏi Về Đồ Vật Và Tranh Ảnh 
 date: 2024-11-27T23:07:39.698614
-weight: 47
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 47
 ---
 
 ## Mục Tiêu Của Bài Viết

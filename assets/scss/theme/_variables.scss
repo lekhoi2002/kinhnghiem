@@ -1,15 +1,16 @@
+// Placeholder to quickly add your own theme variable overrides
 // thu gon noi dung
 .category-description-container {
     position: relative;
-}
-
-.category-description {
+  }
+  
+  .category-description {
     max-height: 300px;
     overflow: hidden;
     transition: max-height 0.5s ease;
-}
-
-.read-more-overlay {
+  }
+  
+  .read-more-overlay {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -21,17 +22,46 @@
         rgb(255, 255, 255) 100%
     );
     pointer-events: none;
-}
-
-.category-description.expanded {
+  }
+  
+  .category-description.expanded {
     max-height: none;
-}
-
-.category-description.expanded + .text-center .btn {
+  }
+  
+  .category-description.expanded + .text-center .btn {
     margin-top: 20px;
+  }
+  
+  /* Chỉ thay đổi nền của nội dung bài viết */
+  /* Series Navigation Styles */
+details.series-container {
+  border: 1px solid #e9ecef;
+  border-radius: 0.375rem;
+  
+  summary {
+      cursor: pointer;
+      user-select: none;
+      transition: background-color 0.3s ease;
+      
+      &:hover {
+          background-color: rgba(0,0,0,0.05);
+      }
+      
+      i {
+          transition: transform 0.3s ease;
+      }
+  }
+  
+  &[open] summary i {
+      transform: rotate(180deg);
+  }
 }
 
-// css nội dung danh mục con
-.sub-categories {
-    transition: margin-top 0.5s ease;
+.series-list {
+  .list-group-item {
+      &.active {
+          background-color: #e9ecef;
+          color: #212529;
+      }
+  }
 }

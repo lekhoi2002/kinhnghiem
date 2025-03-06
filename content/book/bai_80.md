@@ -1,7 +1,8 @@
 ---
 title: Bài 80 Dạy Trẻ Kể Chuyện (Không Dùng Đồ Chơi Hỗ Trợ)
 date: 2024-11-27T23:07:39.698614
-weight: 80
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 80
 ---
 
 ## Mục Tiêu Của Bài Viết

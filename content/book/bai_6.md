@@ -1,7 +1,8 @@
 ---
 title: Bài 6 Làm Theo Chỉ Dẫn Từng Bước Một 
 date: 2024-11-27T23:07:39.698614
-weight: 6
+series: ["Can Thiệp Hành Vi Cho Trẻ"] 
+series_order: 6
 ---
 ## Mục tiêu của Bài Viết  
 

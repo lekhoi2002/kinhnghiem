@@ -1,5 +1,5 @@
 <!-- 
-    Copyright © 2024 The Hinode Team / Mark Dumay. All rights reserved.
+    Copyright © 2022 - 2025 The Hinode Team / Mark Dumay. All rights reserved.
     Use of this source code is governed by The MIT License (MIT) that can be found in the LICENSE file.
     Visit gethinode.com/license for more details.
 -->
@@ -16,8 +16,9 @@
 {{- $title := .title -}}
 {{- $description := .description -}}
 {{- $content := .content -}}
+{{ if site.Params.main.titleCase }}{{ $title = title $title }}{{ end }}
 
 <!-- Main code -->
-{{ with $title }}<p id="{{ anchorize . }}" class="display-4 py-2{{ if and page.IsHome site.Params.home.centerHeadline }} text-center{{ end }}">{{ . }}</p>{{ end }}
+{{ with $title }}<p id="{{ anchorize . }}" class="display-4 py-3{{ if and page.IsHome site.Params.home.centerHeadline }} text-center{{ end }}">{{ . }}</p>{{ end }}
 {{ with $description }} <p class="lead mb-5">{{ . }}</p>{{ end }}
 {{ $content }}

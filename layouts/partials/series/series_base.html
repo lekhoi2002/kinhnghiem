@@ -1,0 +1,49 @@
+{{ if .Params.series }}
+    {{ $seriesName := strings.ToLower (index .Params.series 0) }}
+    
+    {{ $seriesPosts := slice }}
+    {{ range $key, $value := .Site.Taxonomies.series }}
+        {{ if eq (strings.ToLower $key) $seriesName }}
+            {{ $seriesPosts = $value }}
+        {{ end }}
+    {{ end }}
+
+    {{ $sortedSeriesPosts := sort $seriesPosts "Params.series_order" }}
+    
+    {{ $currentPageIndex := -1 }}
+    {{ range $index, $post := $sortedSeriesPosts }}
+        {{ if eq $post.Permalink $.Page.Permalink }}
+            {{ $currentPageIndex = $index }}
+        {{ end }}
+    {{ end }}
+
+    <div class="series-list list-group list-group-flush">
+        <div class="list-group-item bg-primary-100 text-dark py-2 px-3 fw-semibold">
+            Series - {{ index .Params.series 0 }}
+        </div>
+
+        {{ $start := sub $currentPageIndex 1 }}
+        {{ $end := add $currentPageIndex 3 }}
+        
+        {{ if lt $start 0 }}
+            {{ $start = 0 }}
+        {{ end }}
+        
+        {{ if ge $end (len $sortedSeriesPosts) }}
+            {{ $end = sub (len $sortedSeriesPosts) 1 }}
+        {{ end }}
+
+        {{ range $index := seq $start $end }}
+            {{ $post := index $sortedSeriesPosts $index }}
+            <a href="{{ $post.Permalink }}" class="list-group-item list-group-item-action 
+                {{ if eq $post.Permalink $.Page.Permalink }}active{{ end }}">
+                <div class="d-flex w-100 justify-content-between">
+                    <h6 class="mb-1">Phần {{ $post.Params.series_order }}: {{ $post.Params.title }}</h6>
+                    {{ if eq $post.Permalink $.Page.Permalink }}
+                        <small class="text-muted">(Bài viết hiện tại)</small>
+                    {{ end }}
+                </div>
+            </a>
+        {{ end }}
+    </div>
+{{ end }}

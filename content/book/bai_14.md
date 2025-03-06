@@ -1,7 +1,8 @@
 ---
 title: Bài 14 Chức Năng Của Đồ Vật
 date: 2024-11-27T23:07:39.698614
-weight: 14
+series: ["Can Thiệp Hành Vi Cho Trẻ"] 
+series_order: 14
 ---
 
 ## Mục tiêu của Bài Viết  

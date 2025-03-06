@@ -1,5 +1,5 @@
 <!-- 
-    Copyright © 2024 The Hinode Team / Mark Dumay. All rights reserved.
+    Copyright © 2022 - 2025 The Hinode Team / Mark Dumay. All rights reserved.
     Use of this source code is governed by The MIT License (MIT) that can be found in the LICENSE file.
     Visit gethinode.com/license for more details.
 -->
@@ -24,6 +24,9 @@
         "file" page.File
     )}}
 {{ end }}
+
+<!-- Initialize global variables -->
+{{- $pretty := site.Params.main.internalLinks.pretty | default false }}
 
 <!-- Initialize local variables -->
 {{ $list := $args.list }}
@@ -64,6 +67,8 @@
         {{ $paginator = $args.page.Paginate $list }}
     {{ end }}
     {{ $list = first $paginator.PagerSize (after (mul (sub $paginator.PageNumber 1) $paginator.PagerSize) $list) }}
+
+    {{ page.Store.Set "paginator" $paginator }}
 {{ end }}
 
 <!-- Initialize list elements -->
@@ -177,7 +182,11 @@
         {{- end -}} 
     {{ else }}
         {{ if and (gt $count $max) $args.hrefTitle }}
-            <a class="btn btn-outline-primary mt-4" href="{{ $args.href| safeURL }}" role="button">{{ $args.hrefTitle }}</a>
+            {{ $href := $args.href }}
+            {{ if and $pretty (not (hasSuffix $href "/" )) (not (strings.Contains $href "#")) }}
+                {{ $href = printf "%s/" $href }}
+            {{ end }}
+            <a class="btn btn-outline-primary mt-4" href="{{ $href | safeURL }}" role="button">{{ $args.hrefTitle }}</a>
         {{ end }}
     {{ end }}
 </div>

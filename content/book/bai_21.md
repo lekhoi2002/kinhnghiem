@@ -1,7 +1,8 @@
 ---
 title: Bài 21 Trẻ Lựa Chọn  
 date: 2024-11-27T23:07:39.698614
-weight: 21
+series: ["Can Thiệp Hành Vi Cho Trẻ"] 
+series_order: 21
 ---
 
 ## Mục tiêu của Bài Viết  

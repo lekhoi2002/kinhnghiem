@@ -1,10 +1,10 @@
 # Single pages
 - id: postedOnDate
-  translation: "Đăng ngày {{ . }}"
+  translation: "Đăng {{ . }}"
 - id: lastModified
-  translation: "Cập nhật lần cuối {{ . }}"
+  translation: "Cập nhật {{ . }}"
 - id: read
-  translation: "Thời gian đọc"
+  translation: "Đọc"
 - id: minutesShort
   translation: "phút"
 - id: words
@@ -86,7 +86,7 @@
 
 # Table of contents
 - id: toc
-  translation: "Trong trang này"
+  translation: "Mục Lục"
 - id: seeAlso
   translation: "Xem thêm"
 
@@ -161,6 +161,6 @@
   translation: "Hình ảnh"
 # search
 - id: ui_search
-  translation: "Tìm kiếm trong trang này"
+  translation: "Gõ từ khoá để tìm kiếm"
 - id: ui_no_results
   translation: "Không tìm thấy kết quả cho"

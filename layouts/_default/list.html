@@ -12,42 +12,20 @@
         {{- if ne $layout "featured" -}}
             {{ if and (not $page.IsHome) site.Params.navigation.breadcrumb }}
                 <div>{{ partial "assets/breadcrumb.html" (dict "page" $page) }}</div>
-            {{ end }}
-        {{- end }}
+            {{ end -}}
+        {{- end -}}
         {{- if .IsSection }}
         <div class="category-description-container">
             <div class="category-description" id="categoryDescription">
-                {{/* Render chỉ phần mô tả mà không render danh mục con */}}
-                {{ .Content }}
+                {{ .Render "list/body" }}
             </div>
-            {{ if gt (len .Content) 500 }} <!-- Kiểm tra độ dài mô tả -->
-                <div class="read-more-overlay"></div>
-                <div class="text-center mt-2">
-                    <button class="btn btn-primary" id="toggleDescriptionBtn">
-                        <span class="btn-text">Xem Chi Tiết</span>
-                    </button>
-                </div>
-            {{ end }}
-        </div>
-        <!-- Hiển thị danh mục con chỉ khi có -->
-        {{ if gt (len .Sections) 0 }}
-        <div class="sub-categories mt-4">
-            <h3>Loạt Bài </h3>
-            <div class="card-group-container">
-                {{ partial "assets/card-group.html" (dict
-                    "list" .Sections
-                    "cols" "3"
-                    "class" "sub-category-card"
-                    "gutter" "3"
-                    "hook" "assets/card.html"
-                    "orientation" "stacked"
-                    "header" "none"
-                    "footer" "none"
-                    "loading" "lazy"
-                ) }}
+            <div class="read-more-overlay"></div>
+            <div class="text-center mt-2">
+                <button class="btn btn-primary" id="toggleDescriptionBtn">
+                    <span class="btn-text">Xem Chi Tiết</span>
+                </button>
             </div>
         </div>
-        {{ end }}
         {{- end }}
         {{ .Render "list/footer" }}
     </div>
@@ -61,5 +39,5 @@
     <div class="container-fluid flex-fill"></div>
     {{ if .IsSection }}
     <script src="{{ "js/description.js" | relURL }}"></script>
-    {{ end }}
+{{ end }}
 {{- end -}}

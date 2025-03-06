@@ -1,7 +1,8 @@
 ---
 title: Bài 63 Miêu Tả Các Đặc Tính Của Đồ Vật
 date: 2024-11-27T23:07:39.698614
-weight: 63
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 63
 ---
 
 ## Mục Tiêu Của Bài Viết

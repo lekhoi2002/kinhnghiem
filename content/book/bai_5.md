@@ -1,7 +1,8 @@
 ---
 title: Bài 5 Bắt Chước Hoạt Động Vận Động Bằng Miệng  
 date: 2024-11-27T23:07:39.698614
-weight: 5
+series: ["Can Thiệp Hành Vi Cho Trẻ"] 
+series_order: 5
 ---
 ## Mục tiêu của bài viết
 

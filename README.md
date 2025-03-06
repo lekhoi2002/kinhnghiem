@@ -1,1 +1,1 @@
-# Hugo Theme 
+# Theme 

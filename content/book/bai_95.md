@@ -1,7 +1,8 @@
 ---
 title: Bài 95 Giải Thích Sự Việc
 date: 2024-11-27T23:07:39.698614
-weight: 95
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 95
 ---
 
 ## Mục Tiêu Của Bài Viết

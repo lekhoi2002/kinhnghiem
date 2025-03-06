@@ -1,7 +1,8 @@
 ---
 title: Bài 45 Các Thẻ Tranh (Xếp Theo Đúng Thứ Tự Và Mô Tả)
 date: 2024-11-27T23:07:39.698614
-weight: 45
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 45
 ---
 
 ## Mục Tiêu Của Bài Viết

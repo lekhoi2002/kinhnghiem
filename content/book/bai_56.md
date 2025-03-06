@@ -1,7 +1,8 @@
 ---
 title: Bài 56 Dạy Trẻ Nói "Kia Là Cái Gì?" 
 date: 2024-11-27T23:07:39.698614
-weight: 56
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 56
 ---
 
 ## Mục Tiêu Của Bài Viết

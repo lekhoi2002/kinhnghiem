@@ -1,7 +1,8 @@
 ---
 title: Bài 70 Giống Nhau Và Khác Nhau (Khả Năng Nhận Thức)
 date: 2024-11-27T23:07:39.698614
-weight: 70
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 70
 ---
 
 ## Mục Tiêu Của Bài Viết

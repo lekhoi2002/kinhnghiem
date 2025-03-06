@@ -1,23 +1,21 @@
-<!-- Cập nhật tệp seo.html để đặt tiêu đề bài viết trước tên trang web trong thẻ title -->
-
 <!-- TODO: replace scratch with dict -->
 
 <!-- Adapted from doks -->
 {{ with .Params.meta.title }}
-    {{ $.Scratch.Set "title" . -}}
+    {{ $title := . }}
+    {{ if site.Params.main.titleCase }}{{ $title = title $title }}{{ end }}
+    {{ $.Scratch.Set "title" $title -}}
 {{ else }}
-    {{ with .Title -}}
-        {{ $.Scratch.Set "title" . -}}
-    {{ else -}}
-        {{ $.Scratch.Set "title" .Site.Title -}}
-    {{ end -}}
+    {{ $title := .Title | default .Site.Title }}
+    {{ if site.Params.main.titleCase }}{{ $title = title $title }}{{ end }}
+    {{ $.Scratch.Set "title" $title -}}
 {{ end }}
 
 {{ $description := or (partial "utilities/GetDescription.html" (dict "page" . "meta" true)) .Site.Params.main.description }}
 {{ if gt (strings.RuneCount $description) 150 }}
     {{ $description = print (substr $description 0 150) "..." }}
 {{ end }}
-{{ $.Scratch.Set "description" $description }}
+{{ $.Scratch.Set "description" $description -}}
 
 {{- $thumbnail := "" -}}
 {{ if reflect.IsMap .Params.Thumbnail }}{{ $thumbnail = .Params.Thumbnail.url }}{{ else }}{{ $thumbnail = .Params.Thumbnail }}{{ end }}
@@ -37,12 +35,13 @@
         {{ with $featured -}}
             {{ $.Scratch.Set "thumbnail" $featured.Permalink -}}
         {{ else -}}
-            {{ with .Site.Params.opengraph.images -}}
+            {{ with $.Site.Params.opengraph.images -}}
                 {{ $.Scratch.Set "thumbnail" (index . 0 | absURL) -}}
             {{ end -}}
         {{ end -}}
     {{ end -}}
-{{ end }}
+{{ end -}}
+
 
 {{ if eq .Kind "404" -}}
     <meta name="robots" content="noindex, follow">
@@ -54,27 +53,27 @@
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   {{ end -}}
-{{ end }}
+{{ end -}}
 
-{{ if .IsHome -}}
-    <title>{{ .Site.Title }}{{ if .Site.Params.head.tagline }} {{ .Site.Params.main.separator }} {{ .Site.Params.head.tagline }}{{ end }}</title>
-{{ else -}}
-    <title>{{ .Title }} {{ .Site.Params.main.separator }} {{ .Site.Title }}</title>
-{{ end }}
-
-<meta name="description" content="{{ $.Scratch.Get "description" }}">
-
-{{ if $.Scratch.Get "paginator" }}
-    <link rel="canonical" href="{{ .Paginator.URL | absURL }}">
-    {{ if .Paginator.HasPrev -}}
-        <link rel="prev" href="{{ .Paginator.Prev.URL | absURL }}">
+    {{ if .IsHome -}}
+        <title>{{ .Site.Title }} {{ if .Site.Params.head.tagline }} {{ .Site.Params.main.separator }} {{ .Site.Params.head.tagline }}{{ end }}</title>
+    {{ else -}}
+        <title>{{ .Site.Title }} {{ .Site.Params.main.separator }} {{ .Title }}</title>
     {{ end -}}
-    {{ if .Paginator.HasNext -}}
-        <link rel="next" href="{{ .Paginator.Next.URL | absURL }}">
+
+    <meta name="description" content="{{ $.Scratch.Get "description" }}">
+
+
+{{ $paginator := $.Store.Get "paginator" }}
+{{ if $paginator }}
+    <link rel="canonical" href="{{ $paginator.URL | absURL }}">
+    {{ if $paginator.HasPrev -}}
+        <link rel="prev" href="{{ $paginator.Prev.URL | absURL }}">
     {{ end -}}
-{{ else -}}
-    <link rel="canonical" href="{{ .Permalink }}">
-{{ end }}
+    {{ if $paginator.HasNext -}}
+        <link rel="next" href="{{ $paginator.Next.URL | absURL }}">
+    {{ end -}}
+{{ end -}}
 
 {{ partial "head/opengraph.html" . }}
 {{ partial "head/twitter_cards.html" . }}

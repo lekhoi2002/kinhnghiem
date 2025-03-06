@@ -20,12 +20,12 @@
     <div class="container-xxl flex-fill p-2 px-xxl-0">
         <div class="row">
             <!-- Cột 1: Nội dung chính -->
-            <div class="col-12 col-{{ $breakpoint.current }}-8 mb-4 p-3">
+            <div class="col-12 col-{{ $breakpoint.current }}-9 mb-4 p-3">
                 {{ .Render "single/main" }}
             </div>
 
             <!-- Cột 2: TOC và Sidebar -->
-            <div class="col-12 col-{{ $breakpoint.current }}-4">
+            <div class="col-12 col-{{ $breakpoint.current }}-3">
                 <!-- TOC: Ẩn trên thiết bị di động -->
                 <div class="d-none d-{{ $breakpoint.current }}-block mb-4">
                     {{ $toc | safeHTML }}

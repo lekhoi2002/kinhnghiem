@@ -1,7 +1,8 @@
 ---
 title: Bài 38 Trẻ Đưa Hai Đồ Vật (Cùng Một Lúc)
 date: 2024-11-27T23:07:39.698614
-weight: 38
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 38
 ---
 
 ## Mục Tiêu Của Bài Viết

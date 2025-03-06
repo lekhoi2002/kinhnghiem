@@ -1,7 +1,8 @@
 ---
 title: Bài 93 Mô Tả Các Đặc Điểm Bất Thường Trong Tranh
 date: 2024-11-27T23:07:39.698614
-weight: 93
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 93
 ---
 
 ## Mục Tiêu Của Bài Viết

@@ -1,7 +1,8 @@
 ---
 title: Bài 79 Dạy Trẻ Kể Chuyện (Có Dùng Các Đồ Chơi Hỗ Trợ)
 date: 2024-11-27T23:07:39.698614
-weight: 79
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 79
 ---
 
 ## Mục Tiêu Của Bài Viết

@@ -9,15 +9,15 @@ $base-url:                      h.$base-url;
 
 $font-family-sans-serif:        h.$theme-font, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 $font-size-base:                h.$font-size-base !default;
-$headings-font-weight:          600 !default;
+$headings-font-weight:          500 !default;
 $font-weight-lighter:           lighter !default;
 $font-weight-light:             200 !default;
 $font-weight-normal:            300 !default;
-$font-weight-bold:              600 !default;
+$font-weight-bold:              500 !default;
 $font-weight-bolder:            bolder !default;
 
 strong {
-    font-weight:                600 if($enable-important-utilities, !important, null);
+    font-weight:                500 if($enable-important-utilities, !important, null);
 }
 
 $navbar-height:                 h.$navbar-height;

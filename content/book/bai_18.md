@@ -1,7 +1,8 @@
 ---
 title: Bài 18 Đòi Lấy Một Vật Mà Trẻ Thích 
 date: 2024-11-27T23:07:39.698614
-weight: 18
+series: ["Can Thiệp Hành Vi Cho Trẻ"] 
+series_order: 18
 ---
 
 ## Mục tiêu của Bài Viết  

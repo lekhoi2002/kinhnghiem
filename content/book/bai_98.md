@@ -1,7 +1,8 @@
 ---
 title: Bài 98 Bắt Chước Các Bạn
 date: 2024-11-27T23:07:39.698614
-weight: 98
+series: ["Can Thiệp Hành Vi Cho Trẻ"]
+series_order: 98
 ---
 
 ## Mục Tiêu Của Bài Viết

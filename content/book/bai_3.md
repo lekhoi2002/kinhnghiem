@@ -1,7 +1,8 @@
 ---
 title: Bài 3 Bắt Chước Những Hành Động Với Đồ Vật  
 date: 2024-11-27T23:07:39.698614
-weight: 3
+series: ["Can Thiệp Hành Vi Cho Trẻ"] 
+series_order: 3
 ---
 
 ## Mục tiêu của Bài Viết  
