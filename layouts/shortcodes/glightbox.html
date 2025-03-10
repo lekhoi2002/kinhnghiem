@@ -1,0 +1,89 @@
+{{/* 
+  Enhanced Image Gallery shortcode using GLightbox for Hinode (Hugo + Bootstrap 5).
+*/}}
+
+{{ .Page.Scratch.Set "glightbox" true }}
+
+{{ $folder := .Get 0 }}
+{{ $columns := 2 }}
+{{ if .Get 1 }}{{ $columns = .Get 1 }}{{ end }}
+{{ $colWidth := div 12 $columns }}
+{{ $colClass := printf "col-12 col-md-%d mb-2" $colWidth }}
+
+{{ if not $folder }}
+  <p>Error: Please provide a folder name. Example: glightbox "san-go"</p>
+{{ else }}
+  {{ $files := resources.Match (printf "img/%s/*" $folder) }}
+  {{ if $files }}
+    {{/* Filter only image files */}}
+    {{ $images := slice }}
+    {{ range $file := $files }}
+      {{ $ext := path.Ext $file.Name | lower }}
+      {{ if or (eq $ext ".jpg") (eq $ext ".jpeg") (eq $ext ".png") (eq $ext ".webp") (eq $ext ".gif") }}
+        {{ $images = $images | append $file }}
+      {{ end }}
+    {{ end }}
+
+    {{ if $images }}
+      {{/* Try to read album.txt if it exists */}}
+      {{ $albumFile := resources.Get (printf "img/%s/album.txt" $folder) }}
+      {{ $albumData := dict }}
+      {{ if $albumFile }}
+        {{ range $line := split $albumFile.Content "\n" }}
+          {{ $parts := split $line "|" }}
+          {{ if ge (len $parts) 2 }}
+            {{ $filename := trim (index $parts 0) " " }}
+            {{ $caption := trim (index $parts 1) " " }}
+            {{ $albumData = merge $albumData (dict $filename $caption) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      <div class="row g-3 glightbox-gallery" data-gallery-id="{{ $folder }}">
+        {{ range $img := $images }}
+          {{ $imgName := path.Base $img.Name }}
+          {{ $nameNoExt := replace $imgName (path.Ext $imgName) "" }}
+          
+          {{/* Determine alt and caption based on priority */}}
+          {{ $altText := $nameNoExt }}
+          {{ $caption := $nameNoExt }}
+          
+          {{/* Check album.txt data */}}
+          {{ with index $albumData $nameNoExt }}
+            {{ $altText = . }}
+            {{ $caption = . }}
+          {{ else }}
+            {{/* Check if it's an image and has EXIF data */}}
+            {{ if $img.MediaType.MainType | eq "image" }}
+              {{ with $img.Exif }}
+                {{ with .Tags.ImageDescription }}
+                  {{ $altText = . }}
+                  {{ $caption = . }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          <div class="{{ $colClass }}">
+            <a href="{{ $img.RelPermalink }}" 
+               class="glightbox d-block position-relative"
+               data-gallery="{{ $folder }}"
+               data-description="{{ $caption }}"
+               data-type="image">
+              <div class="ratio ratio-4x3">
+                <img src="{{ $img.RelPermalink }}" 
+                     alt="{{ $altText }}" 
+                     class="img-fluid object-fit-cover w-100 h-100"
+                     loading="lazy">
+              </div>
+            </a>
+          </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      <p>No images found in folder "{{ $folder }}".</p>
+    {{ end }}
+  {{ else }}
+    <p>No files found in folder "{{ $folder }}".</p>
+  {{ end }}
+{{ end }}

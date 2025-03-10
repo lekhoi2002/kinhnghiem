@@ -142,17 +142,18 @@ home = ["HTML", "RSS", "REDIR", "server"]
     target = "static"
 # toml-docs-start modules
   [[module.imports]]
-    path = "modules/mod-bootstrap"
-  [[module.imports]]
-    path = "modules/mod-fontawesome"
+    path = "github.com/gethinode/mod-bootstrap"
+    version = "v1.3.2"
   [[module.imports]]
     path = "github.com/gethinode/mod-flexsearch/v2"
     version = "v2.1.0"
   [[module.imports]]
+    path = "github.com/gethinode/mod-fontawesome"
+    version = "v1.10.1"
+  [[module.imports]]
     path = "github.com/gethinode/mod-utils/v2"
     version = "v2.10.0"
 # toml-docs-end modules
-
 # toml-docs-start segments
 [segments]
   [segments.headers]
