@@ -1,49 +1,155 @@
+{{/* layouts/partials/series/series_base.html - HIỂN THỊ TỐI ĐA 10 BÀI, KHÔNG SCROLL */}}
 {{ if .Params.series }}
-    {{ $seriesName := strings.ToLower (index .Params.series 0) }}
+    {{ $seriesName := index .Params.series 0 }}
+    {{ $seriesSlug := $seriesName | urlize }}
     
-    {{ $seriesPosts := slice }}
-    {{ range $key, $value := .Site.Taxonomies.series }}
-        {{ if eq (strings.ToLower $key) $seriesName }}
-            {{ $seriesPosts = $value }}
+    {{/* Find all pages in the series across the entire site */}}
+    {{ $seriesPosts := where .Site.RegularPages "Params.series" "intersect" (slice $seriesName) }}
+    
+    {{ $sortedSeriesPosts := $seriesPosts }}
+    {{ if $seriesPosts }}
+        {{ if isset (index $seriesPosts 0).Params "series_order" }}
+            {{ $sortedSeriesPosts = sort $seriesPosts "Params.series_order" "asc" }}
+        {{ else if isset (index $seriesPosts 0).Params "weight" }}
+            {{ $sortedSeriesPosts = sort $seriesPosts "Weight" "asc" }}
+        {{ else }}
+            {{ $sortedSeriesPosts = sort $seriesPosts "Date" "asc" }}
         {{ end }}
     {{ end }}
-
-    {{ $sortedSeriesPosts := sort $seriesPosts "Params.series_order" }}
     
+    {{ $totalPosts := len $sortedSeriesPosts }}
+    {{ $displayLimit := 10 }} {{/* Giới hạn số bài hiển thị */}}
+    {{ $postsToDisplay := $sortedSeriesPosts }} {{/* Mặc định hiển thị tất cả */}}
     {{ $currentPageIndex := -1 }}
-    {{ range $index, $post := $sortedSeriesPosts }}
-        {{ if eq $post.Permalink $.Page.Permalink }}
-            {{ $currentPageIndex = $index }}
-        {{ end }}
-    {{ end }}
 
-    <div class="series-list list-group list-group-flush">
-        <div class="list-group-item bg-primary-100 text-dark py-2 px-3 fw-semibold">
-            Series - {{ index .Params.series 0 }}
-        </div>
-
-        {{ $start := sub $currentPageIndex 1 }}
-        {{ $end := add $currentPageIndex 3 }}
-        
-        {{ if lt $start 0 }}
-            {{ $start = 0 }}
-        {{ end }}
-        
-        {{ if ge $end (len $sortedSeriesPosts) }}
-            {{ $end = sub (len $sortedSeriesPosts) 1 }}
+    {{ if gt $totalPosts 0 }}
+        {{/* Tìm vị trí của bài viết hiện tại */}}
+        {{ range $index, $post := $sortedSeriesPosts }}
+            {{ if eq $post.Permalink $.Page.Permalink }}
+                {{ $currentPageIndex = $index }}
+                {{ break }}
+            {{ end }}
         {{ end }}
 
-        {{ range $index := seq $start $end }}
-            {{ $post := index $sortedSeriesPosts $index }}
-            <a href="{{ $post.Permalink }}" class="list-group-item list-group-item-action 
-                {{ if eq $post.Permalink $.Page.Permalink }}active{{ end }}">
-                <div class="d-flex w-100 justify-content-between">
-                    <h6 class="mb-1">Phần {{ $post.Params.series_order }}: {{ $post.Params.title }}</h6>
-                    {{ if eq $post.Permalink $.Page.Permalink }}
-                        <small class="text-muted">(Bài viết hiện tại)</small>
-                    {{ end }}
+        {{/* Logic để chọn 10 bài xung quanh bài hiện tại nếu tổng số bài > 10 */}}
+        {{ if gt $totalPosts $displayLimit }}
+            {{ $halfWindow := 4 }} {{/* Số bài hiển thị trước/sau bài hiện tại (tổng là 2*$halfWindow + 1) = 9. Bài thứ 10 sẽ được thêm vào 1 phía. */}}
+                                    {{/* Hoặc bạn có thể tính toán $start và $end phức tạp hơn để đảm bảo bài hiện tại luôn ở giữa nếu có thể */}}
+            
+            {{ $startIdx := 0 }}
+            {{ $endIdx := sub $totalPosts 1 }}
+
+            {{ if eq $currentPageIndex -1 }} {{/* Nếu không phải là trang trong series, hiển thị 10 bài đầu */}}
+                $postsToDisplay = first $displayLimit $sortedSeriesPosts
+            {{ else }}
+                {{ $startIdx = sub $currentPageIndex $halfWindow }}
+                {{ $endIdx = add $currentPageIndex (sub $displayLimit (add $halfWindow 1) ) }}
+
+                {{/* Điều chỉnh nếu cửa sổ đi quá giới hạn đầu */}}
+                {{ if lt $startIdx 0 }}
+                    {{ $endIdx = add $endIdx (mul $startIdx -1) }}
+                    {{ $startIdx = 0 }}
+                {{ end }}
+
+                {{/* Điều chỉnh nếu cửa sổ đi quá giới hạn cuối */}}
+                {{ if gt $endIdx (sub $totalPosts 1) }}
+                    {{ $startIdx = sub $startIdx (sub $endIdx (sub $totalPosts 1)) }}
+                    {{ $endIdx = sub $totalPosts 1 }}
+                {{ end }}
+
+                {{/* Đảm bảo startIdx không âm sau khi điều chỉnh endIdx */}}
+                {{ if lt $startIdx 0 }}{{ $startIdx = 0 }}{{ end }}
+                
+                {{ $postsToDisplay = after $startIdx $sortedSeriesPosts | first (sub (add $endIdx 1) $startIdx) }}
+                {{/* Nếu logic trên phức tạp, có thể đơn giản hóa: */}}
+                {{/* $startSimple := 0
+                if gt $currentPageIndex 4 {{ $startSimple = sub $currentPageIndex 4 }} end
+                if gt (add $startSimple $displayLimit) $totalPosts {{ $startSimple = sub $totalPosts $displayLimit }} end
+                if lt $startSimple 0 {{ $startSimple = 0 }} end
+                $postsToDisplay = after $startSimple $sortedSeriesPosts | first $displayLimit */}}
+            {{ end }}
+        {{ end }}
+
+
+    <div class="series-component my-6 md:my-8 rounded-xl border border-gray-200 dark:border-warmgray-700 bg-white dark:bg-warmgray-800 shadow-lg overflow-hidden">
+        <details class="group" {{ if or (gt $totalPosts 3) (eq $.Page.Params.series_open true) }}open{{ end }}> {{/* Mở mặc định nếu > 3 bài, hoặc có front matter */}}
+            <summary class="flex items-center justify-between px-3 sm:px-4 py-3 cursor-pointer
+                            list-none
+                            bg-gradient-to-b from-gray-50 to-gray-100 dark:from-warmgray-800 dark:to-warmgray-900
+                            border-b border-gray-200 dark:border-warmgray-700
+                            hover:bg-gray-200/50 dark:hover:bg-warmgray-700/50 transition-colors">
+                <div class="flex items-center flex-grow min-w-0">
+                    <svg class="h-4 w-4 sm:h-5 sm:w-5 mr-2 text-primary-600 dark:text-primary-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14"></path>
+                    </svg>
+                    <span class="font-semibold text-sm sm:text-base text-gray-800 dark:text-gray-100 truncate">
+                        Series: <span class="text-primary-600 dark:text-primary-400">{{ $seriesName }}</span>
+                        <span class="text-gray-500 dark:text-gray-400">({{ $totalPosts }} {{ if gt $totalPosts 1 }}phần{{ else }}phần{{ end }})</span>
+                    </span>
                 </div>
-            </a>
-        {{ end }}
+                <div class="transform transition-transform duration-200 group-open:rotate-180 text-gray-500 dark:text-gray-400 ml-2 flex-shrink-0">
+                    <svg class="h-4 w-4 sm:h-5 sm:w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </div>
+            </summary>
+
+            <div class="series-posts-list"> {{/* Bỏ max-h và overflow-y-auto */}}
+                {{ range $postOriginalIndex, $post := $postsToDisplay }}
+                    {{ $isCurrentPage := eq $post.Permalink $.Page.Permalink }}
+                    {{/* Tìm index gốc của post này trong $sortedSeriesPosts để hiển thị số thứ tự đúng */}}
+                    {{ $actualOrder := 0 }}
+                    {{ range $origIdx, $origPost := $sortedSeriesPosts }}
+                        {{ if eq $post.Permalink $origPost.Permalink }}
+                            {{ $actualOrder = add $origIdx 1 }}
+                            {{ break }}
+                        {{ end }}
+                    {{ end }}
+
+                    <a href="{{ $post.RelPermalink }}"
+                       class="block px-3 sm:px-4 py-4 transition-colors duration-200 ease-in-out border-b border-gray-100 dark:border-warmgray-700/50 last:border-b-0
+                              {{ if $isCurrentPage }}
+                                bg-primary-50 dark:bg-primary-900/20
+                                text-primary-900 dark:text-primary-100
+                                border-l-4 border-primary-600 dark:border-primary-400
+                                font-semibold
+                              {{ else }}
+                                text-gray-600 dark:text-gray-300
+                                hover:bg-gray-100 dark:hover:bg-warmgray-700/50
+                                hover:text-gray-900 dark:hover:text-gray-100
+                              {{ end }}">
+                        <div class="flex justify-between items-center text-sm">
+                            <div class="flex items-center flex-grow min-w-0">
+                                <span class="inline-flex items-center justify-center w-6 h-6 rounded-full
+                                             {{ if $isCurrentPage }}
+                                                bg-primary-600 text-white dark:bg-primary-400 dark:text-gray-900 shadow
+                                             {{ else }}
+                                                border border-gray-300 dark:border-warmgray-600
+                                                text-gray-500 dark:text-gray-400
+                                             {{ end }}
+                                             text-xs font-mono mr-3 flex-shrink-0">
+                                    {{ $actualOrder }}
+                                </span>
+                                <span class="truncate">
+                                    {{ $post.Title }}
+                                </span>
+                            </div>
+                            {{ if $isCurrentPage }}
+                                <span class="text-xs ml-2 flex-shrink-0 opacity-90 hidden sm:inline">(Hiện tại)</span>
+                            {{ end }}
+                        </div>
+                    </a>
+                {{ end }}
+                 {{ if gt $totalPosts $displayLimit }}
+                    <div class="px-3 sm:px-4 py-3 text-center text-xs text-gray-500 dark:text-gray-400 bg-gray-50 dark:bg-warmgray-800/30">
+                        <a href="{{ with .Site.GetPage (printf "series/%s" $seriesSlug) }}{{ .RelPermalink }}{{ else }}#{{ end }}"
+                           class="hover:text-primary-600 dark:hover:text-primary-400 underline">
+                            Xem tất cả {{ $totalPosts }} phần của series này...
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+        </details>
     </div>
+    {{ end }}
 {{ end }}

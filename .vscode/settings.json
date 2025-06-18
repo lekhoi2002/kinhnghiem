@@ -1,0 +1,41 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": "explicit"
+  },
+  "files.associations": {
+    "*.html": "html",
+    "*.md": "markdown"
+  },
+  "emmet.includeLanguages": {
+    "html": "html"
+  },
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    ["class:\\s*?[\"'`]([^\"'`]*).*?[\"'`]", "[\"'`]([^\"'`]*)[\"'`]"]
+  ],
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "stylelint.validate": ["css", "scss", "postcss"],
+  "hugo.server.renderToDisk": false,
+  "hugo.server.buildDrafts": true,
+  "hugo.server.buildExpired": true,
+  "hugo.server.buildFuture": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/public": true,
+    "**/resources": true,
+    "**/.hugo_build.lock": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/public/**": true,
+    "**/resources/**": true
+  }
+}

@@ -1,12 +1,5 @@
-name = "Hinode"
+name = "BlogTheme"
 license = "MIT"
-licenselink = "https://github.com/gethinode/hinode/blob/main/LICENSE"
-description = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
-homepage = "https://kinhnghiemso.vn"
-tags = ["blog", "documentation", "minimal", "modern"]
-features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready"]
-min_version = "0.134.0"
-
 [author]
-  name = "khoi le"
-  homepage = "https://github.com/"
+  name = "Lê Văn C"
+  homepage = ""

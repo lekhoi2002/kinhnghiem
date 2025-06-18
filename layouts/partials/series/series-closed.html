@@ -1,5 +1,7 @@
+{{/* layouts/partials/series/series-closed.html */}}
+{{/* Nếu bạn không còn dùng logic "closed" riêng biệt nữa, file này có thể giống hệt series.html hoặc bị loại bỏ */}}
 {{ if .Params.series }}
-<details class="mt-2 mb-5 rounded-2">
+<div class="mt-4 mb-6">
     {{ partial "series/series_base.html" . }}
-</details>
-{{end}}
+</div>
+{{ end }}

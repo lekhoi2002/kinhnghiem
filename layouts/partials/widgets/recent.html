@@ -1,0 +1,40 @@
+{{ $recent := where .Site.RegularPages "Type" "in" site.Params.mainSections }} {{ $recent_num := (5 | default 10) }} {{-
+if $recent }}
+<div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900 shadow-md rounded-lg">
+  <p class="text-xl text-center text-gray-700 py-5 dark:text-gray-300 font-bold">
+    {{ i18n "widgets.recent_posts_title" }}
+  </p>
+  <div class="mx-6">
+    {{- range first $recent_num $recent }}
+    <a href="{{ .RelPermalink }}" class="">
+      <div
+        class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800"
+      >
+        <div class="px-2">
+          <div class="text-gray-900 font-bold text-xl dark:text-white">{{.Title}}</div>
+          <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
+            <time class="flex items-center">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-4 h-4 mr-1"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
+                />
+              </svg>
+              {{.Date.Format "2006/01/02"}}
+            </time>
+          </p>
+        </div>
+      </div>
+    </a>
+    {{- end }}
+  </div>
+</div>
+{{- end }}

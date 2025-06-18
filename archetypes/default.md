@@ -1,16 +1,9 @@
 ---
-# author: 
-title: {{ replace .Name "-" " " | title }}
-date: {{ .Date }}
+author: ""
+title: ""
 draft: true
-# layout: 
-# description: 
-# tags: 
-# icon: 
-# thumbnail: 
-    # url: 
-    # author: 
-    # authorURL: 
-    # origin: 
-    # originURL: 
+date: {{ dateFormat "2006-01-02" .Date }}
+description: ""
+tags: ["", ""]
+archives: ["{{ dateFormat "2006/01" .Date }}"]
 ---

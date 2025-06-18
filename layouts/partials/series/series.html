@@ -1,5 +1,6 @@
+{{/* layouts/partials/series/series.html */}}
 {{ if .Params.series }}
-<div class="mt-2 mb-5 series-container">
+<div class="mt-4 mb-6 series-container"> {{/* class series-container nếu bạn muốn style riêng cho wrapper này */}}
     {{ partial "series/series_base.html" . }}
 </div>
-{{end}}
+{{ end }}

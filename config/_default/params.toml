@@ -1,270 +1,61 @@
-# toml-docs-start main
-[main]
-    separator = "-"
-    description = "Tổng hợp những kinh nghiệm , mẹo vặt hay..."
-    enableDarkMode = false
-    enableLanguageSelectionStorage = false
-    modes = ["light"]
-    canonifyAssetsURLs = false
-    endorse = true
-    footerBelowFold = false
-    loading = "lazy"
-    breakpoint = "md"
-    [main.internalLinks]
-        validate = true
-    [main.externalLinks]
-        cue = true
-        tab = true
-    [main.build]
-        transpiler = "libsass"
+# Base color of the website.
+base_color = "bg-gray-800"
 
-# toml-docs-end images
+# Logo Configuration
+logo = "/favicon/logo.svg"
+logo_alt = "Kinh Nghiệm Hay"
+logo_width = "auto"
+logo_height = "30px"
 
-# toml-docs-start videos
-[videos]
-    [videos.cloudinary]
-        host = "cloudinary"
-        account = "demo"
-    [videos.vimeo]
-        host = "vimeo"
-    [videos.youtube]
-        host = "youtube"
-# toml-docs-end videos
+#Site description
+description = "Kinh Nghiệm Số"
 
+# The number of articles to be displayed on a single page.
+paginator_pages = "12"
 
-# toml-docs-start debugging
-[debugging]
-    showJS = false
-    showSCSS = false
-    purgeHTMLComments = false
-    includeSVGOrigin = true
-# toml-docs-end debugging
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
 
-# toml-docs-start docs
-[docs]
-    github = "https://github.com/gethinode/hinode"
-    release = "https://github.com/gethinode/hinode/releases/tag/"
-    checkVersion = false
-# toml-docs-end docs
+# Number of tags to be displayed.
+tagsLimit = 20
 
-# toml-docs-start home
-[home]
-    sections = ["book", "thien", "pc"]
-    fullCover = false
-    centerHeadline = false
-    style = ""
-    [home.feature]
-        orientation = "horizontal"
-        color = "primary"
-        width = 4
-        align = "start"
-# toml-docs-end home
+# Dark mode by default : dark
+# Light mode by default : light
+darkmode = "light"
 
-# toml-docs-start navigation
-[navigation]
-    anchor = true
-    logo = "/img/logo_icon.svg"
-    color = "primary"
-    fixed = true
-    overlay = false
-    overlayMode = "dark"
-    horizontal = false
-    offset = "5.5rem"
-    search = true
-    searchModal = false
-    breadcrumb = true
-    toc = true
-    sidebar = true
-    size = "md"
-# toml-docs-end navigation
+  [ad]
+    # Google AdSense
+    # ex. ca-pub-0000000000000000
+    googleAdSense = ""
 
-# toml-docs-start messages
-[messages]
-    placement = "bottom-right"
-# toml-docs-end messages
+    # ex. 000000000
+    adslot = ""
 
-# toml-docs-start sharing
-[sharing]
-    enabled = false
-    sort = "weight"
-    reverse = false
-    webshare = true
+    # Placement of ads
+    postTop = false
+    postBottom = false
 
-[[sharing.providers]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
-    icon = "fab linkedin"
-    weight = 10
+  [post]
+    # Show thumbnails
+    thumbnail = true
 
-[[sharing.providers]]
-    name = "Twitter"
-    url = "https://twitter.com/home?status={url}"
-    icon = "fab x-twitter"
-    weight = 20
+    # Disable the "NO IMAGE" image.
+    noimage = true
 
-[[sharing.providers]]
-    name = "Facebook"
-    url = "https://www.facebook.com/sharer.php?u={url}"
-    icon = "fab facebook"
-    weight = 30
+    # See the Tailwind CSS documentation to set it up.
+    # Recommended settings are h-32 to h-48.
+    # https://tailwindcss.com/docs/height
+    thumbnail_height = "lg:h-44"
 
-[[sharing.providers]]
-    name = "WhatsApp"
-    url = "whatsapp://send?text={title}%20{url}"
-    icon = "fab whatsapp"
-    weight = 40
+    # https://tailwindcss.com/docs/width
+    thumbnail_width = "lg:w-auto"
 
-[[sharing.providers]]
-    name = "email"
-    url = "{url}"
-    icon = "fas link"
-    weight = 50
-    clipboard = true
-# toml-docs-end sharing
+    # Number of characters in description
+    description = "130"
 
-# toml-docs-start sections
-   [sections]
-    [sections.tre-tho]
-        title = "Trẻ Thơ"
-        layout = "card"
-        sort = "weight"
-        reverse = true
-        background = ""
-        color = "body"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
-    [sections.pc]
-        title = "Thủ Thuật Máy Tính"
-        layout = "card"
-        sort = "weight"
-        reverse = true
-        background = ""
-        color = "body"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
-    [sections.thien]
-        title = "Thiền"
-        layout = "card"
-        sort = "weight"
-        reverse = true
-        background = ""
-        color = "body"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
-# toml-docs-end sections
-    [sections.book]
-        title = "Trẻ Tự Kỷ"
-        layout = "card"
-        sort = "weight"
-        background = ""
-        color = "body"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
+  [widgets]
+    # Display widgets
+    display = true
 
-[favicon]
-    logo = "img/favicon.png"
-    sizes = [16, 32, 48]
-
-# toml-docs-start theme-colors
-[style]
-    primary = "#04370e"
-    secondary = "#6c757d"
-    success = "#198754"
-    info = "#0dcaf0"
-    warning = "#ffc107"
-    danger = "#dc3545"
-    light = "#f8f9fa"
-    dark = "#212529"
-# toml-docs-end theme-colors
-    themeOpacity = "10"
-    darkModeShade = "20%"
-    darkModeTint = "40%"
-# toml-docs-start font
-    themeFont = "Forma DJR Micro"
-    themeFontPath = "/fonts" # local path
-    themeFontPreload = "/fonts/FormaDJRMicro-Regular.woff"
-    fontSizeBase = "1.1rem" 
-# toml-docs-end font
-# toml-docs-start build
-    purge = false
-# toml-docs-end build
-
-[schema]
-    type = "Organization"
-    name = "Kinh Nghiệm Mẹo vặt"
-    locale = "vn-VN"
-    # twitter = "https://twitter.com/"
-    # linkedIn = ""
-    github = "https://github.com/"
-    section = "blog"
-    [schema.author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/"
-        linkedin = "https://www.linkedin.com/in/"
-        github = "https://github.com/"
-    [schema.logo]
-        url = "img/logo512x512.png"
-        width = 512
-        height = 512
-    [schema.image]
-        url = "img/logo1280x640.png"
-        width = 1280
-        height = 640
-
-[opengraph]
-    images = ["logo.png"]
-    locale = "vn_VN"
-
-# toml-docs-start headers
-[headers]
-  [headers.netlify]
-    source = "netlify.toml"
-# toml-docs-end headers
-
-# toml-docs-start csp
-[modules.hinode.csp]
-    style-src = ["www.youtube.com"]
-    font-src = ["fonts.gstatic.com"]
-    frame-src = [
-        "player.cloudinary.com",
-        "www.youtube-nocookie.com",
-        "www.youtube.com"
-    ]
-    img-src = [
-        "data:",
-        "*.imgix.net",
-        "*.imagekit.io",
-        "*.cloudinary.com",
-        "i.ytimg.com"
-    ]
-# toml-docs-end csp
-
-[modules.vimeo]
-    local = true
-    integration = "optional"
-    state = "async"
-    url = "https://player.vimeo.com/api/player.js"
-[modules.vimeo.csp]
-    frame-src = ["player.vimeo.com"]
-    img-src = ["i.vimeocdn.com"]
-    script-src = ["player.vimeo.com"]
+    # Order of widgets to display
+    widgets = ["search", "category", "tags", "recent"]

@@ -1,0 +1,16 @@
+# English translations
+
+[home]
+title = "Home"
+
+[post]
+title = "Posts"
+
+[contact]
+title = "Contact"
+
+[widgets]
+search_placeholder = "Search..."
+categories_title = "Categories"
+tags_title = "Tags"
+recent_posts_title = "Recent Posts"

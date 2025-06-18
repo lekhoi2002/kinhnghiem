@@ -1,0 +1,4 @@
+{{/* TOC JavaScript - Load TOC functionality */}} {{ if .TableOfContents }} {{ $tocJS := resources.Get "js/toc.js" }} {{
+if $tocJS }}
+<script src="{{ $tocJS.RelPermalink }}" defer></script>
+{{ end }} {{ end }}

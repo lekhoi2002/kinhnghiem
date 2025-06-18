@@ -1,0 +1,147 @@
+<head>
+    {{- partial "analytics" . -}}
+    
+    <!-- Essential Meta Tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no">
+    
+    <!-- Title and Description -->
+    <title>{{site.Title}}{{if not .IsHome}} | {{.Title}}{{end}}</title>
+    {{- if .Description }}
+    <meta name="description" content="{{ .Description }}">
+    {{- else if .Summary }}
+    <meta name="description" content="{{ .Summary | truncate 160 }}">
+    {{- else if site.Params.description }}
+    <meta name="description" content="{{ site.Params.description }}">
+    {{- end }}
+    
+    <!-- Preconnect to external domains for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    
+    <!-- Favicon and App Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href='{{ "favicon/apple-touch-icon.png" | relURL }}'>
+    <link rel="icon" type="image/png" sizes="32x32" href='{{ "favicon/favicon-32x32.png" | relURL }}'>
+    <link rel="icon" type="image/png" sizes="16x16" href='{{ "favicon/favicon-16x16.png" | relURL }}'>
+    <link rel="manifest" href='{{ "favicon/site.webmanifest" | relURL }}' crossorigin="use-credentials">
+    <link rel="mask-icon" href='{{ "favicon/safari-pinned-tab.svg" | relURL }}' color="#3b82f6">
+    <link rel="shortcut icon" href='{{ "favicon/favicon.ico" | relURL }}'>
+    
+    <!-- Theme Color with Dark Mode Support -->
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#181a1b" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    
+    <!-- Critical CSS with Performance Optimization -->
+    {{- $css := resources.Get "css/style.css" }}
+    {{- if hugo.IsProduction }}
+        {{- $css = $css | minify | fingerprint }}
+        <link rel="preload" href="{{ $css.RelPermalink }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="{{ $css.RelPermalink }}"></noscript>
+    {{- else }}
+        <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{- end }}
+    
+    <!-- Prevent Flash of Unstyled Content (FOUC) -->
+    <script>
+        // Apply theme immediately to prevent flash
+        (function() {
+            const theme = localStorage.getItem('color-theme');
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            if (theme === 'dark' || (!theme && prefersDark)) {
+                document.documentElement.classList.add('dark');
+            }
+        })();
+    </script>
+    
+    <!-- SEO and Social Media -->
+    {{ partial "seo/print.html" . }}
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{site.Title}}{{if not .IsHome}} | {{.Title}}{{end}}">
+    <meta property="og:type" content="{{if .IsHome}}website{{else}}article{{end}}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    {{- if .Description }}
+    <meta property="og:description" content="{{ .Description }}">
+    {{- else if .Summary }}
+    <meta property="og:description" content="{{ .Summary | truncate 160 }}">
+    {{- else if site.Params.description }}
+    <meta property="og:description" content="{{ site.Params.description }}">
+    {{- end }}
+    {{- if .Params.image }}
+    <meta property="og:image" content="{{ .Params.image | absURL }}">
+    {{- else }}
+    <meta property="og:image" content="{{ "img/default.webp" | absURL }}">
+    {{- end }}
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{site.Title}}{{if not .IsHome}} | {{.Title}}{{end}}">
+    {{- if .Description }}
+    <meta name="twitter:description" content="{{ .Description }}">
+    {{- else if .Summary }}
+    <meta name="twitter:description" content="{{ .Summary | truncate 160 }}">
+    {{- else if site.Params.description }}
+    <meta name="twitter:description" content="{{ site.Params.description }}">
+    {{- end }}
+    {{- if .Params.image }}
+    <meta name="twitter:image" content="{{ .Params.image | absURL }}">
+    {{- else }}
+    <meta name="twitter:image" content="{{ "img/default.webp" | absURL }}">
+    {{- end }}
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ .Permalink }}">
+    
+    <!-- RSS Feed -->
+    {{- with site.LanguageCode }}
+    <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "/index.xml" | relURL }}">
+    {{- end }}
+    
+    <!-- Performance Hints -->
+    {{- if hugo.IsProduction }}
+    <link rel="preload" href="{{ "js/main.js" | relURL }}" as="script">
+    {{- end }}
+    
+    <!-- Custom CSS Block -->
+    {{ block "header_css" . }}{{ end }}
+    
+    <!-- Structured Data for SEO -->
+    {{- if .IsHome }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "{{ site.Title }}",
+        "url": "{{ site.BaseURL }}",
+        "description": "{{ site.Params.description }}",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{{ site.BaseURL }}/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    {{- else if eq .Type "post" }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ .Title }}",
+        "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 160 }}{{ end }}",
+        "author": {
+            "@type": "Person",
+            "name": "{{ site.Author.name | default site.Title }}"
+        },
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+        "url": "{{ .Permalink }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}"
+        }
+    }
+    </script>
+    {{- end }}
+</head>

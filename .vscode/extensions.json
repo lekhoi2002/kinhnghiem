@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    // --- Hỗ trợ cốt lõi cho Hugo & Content ---
+    "budparr.language-hugo-vscode", // Hỗ trợ cú pháp và snippets cho Hugo
+    "yzhang.markdown-all-in-one",   // Công cụ toàn diện cho Markdown
+    "eliostruyf.vscode-front-matter", // Giao diện trực quan để quản lý Front Matter
+    "redhat.vscode-yaml",             // Hỗ trợ cho file YAML (cấu hình Hugo, front matter)
+
+    // --- Hỗ trợ cốt lõi cho Tailwind CSS & CSS ---
+    "bradlc.vscode-tailwindcss",  // IntelliSense chính thức từ Tailwind Labs (bắt buộc)
+    "stivo.tailwind-fold",        // Thu gọn các danh sách class dài của Tailwind
+    "csstools.postcss",           // Hỗ trợ cú pháp cho file PostCSS
+
+    // --- Định dạng Code & Kiểm tra lỗi ---
+    "esbenp.prettier-vscode",     // Tự động định dạng code (cần plugin Tailwind)
+    "dbaeumer.vscode-eslint",     // Kiểm tra lỗi cho JavaScript
+
+    // --- Tăng năng suất chung ---
+    "formulahendry.auto-rename-tag", // Tự động đổi tên thẻ HTML đóng/mở
+  ]
+}

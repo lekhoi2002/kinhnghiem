@@ -1,0 +1,20 @@
+{{ define "header_css" }}{{ end }} {{ define "main" }}
+<div class="grid grid-cols-3 gap-4">
+  {{ if .Site.Params.widgets.display }}
+  <div class="bg-white col-span-3 lg:col-span-2 p-5 dark:bg-warmgray-900 dark:text-white shadow-md rounded-lg">
+    {{ else }}
+    <div class="bg-white col-span-3 p-5 dark:bg-warmgray-900 dark:text-white shadow-md rounded-lg">
+      {{ end }}
+      <h1 class="title text-4xl font-bold mb-2">{{.Title}}</h1>
+
+      {{/* Mobile TOC - initially hidden, will be moved by JavaScript */}} {{ partial "toc-mobile.html" . }}
+
+      <div class="content prose md:prose-lg lg:prose-xl max-w-none dark:prose-invert py-1">{{.Content}}</div>
+
+      {{/* Series component */}} {{ partial "series/series.html" . }}
+    </div>
+    {{ if .Site.Params.widgets.display }} {{ partial "widgets.html" . }} {{ end }}
+  </div>
+
+  {{/* TOC Injector Script */}} {{ partial "toc-injector.html" . }} {{ end }}
+</div>

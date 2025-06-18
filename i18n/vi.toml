@@ -1,0 +1,16 @@
+# Vietnamese translations
+
+[home]
+title = "Home"
+
+[post]
+title = "Bài viết"
+
+[contact]
+title = "Liên hệ"
+
+[widgets]
+search_placeholder = "Tìm kiếm..."
+categories_title = "Danh mục"
+tags_title = "Thẻ"
+recent_posts_title = "Bài viết gần đây"

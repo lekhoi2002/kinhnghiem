@@ -1,0 +1,53 @@
+/* Custom theme configuration for Tailwind CSS v4.1 */
+@theme {
+  /* Warmgray color palette */
+  --color-warmgray-500: #6b7280;
+  --color-warmgray-600: #4b5563;
+  --color-warmgray-700: #2f3335;
+  --color-warmgray-800: #1e2022;
+  --color-warmgray-900: #181a1b;
+  
+  /* Complete Primary color palette */
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #3b82f6;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8;
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
+  
+  /* Custom spacing */
+  --spacing-18: 4.5rem;
+  --spacing-72: 18rem;
+  --spacing-84: 21rem;
+  --spacing-96: 24rem;
+  
+  /* Custom font sizes */
+  --font-size-2xs: 0.625rem;
+  --font-size-2xs--line-height: 0.75rem;
+  
+  /* Custom border radius */
+  --radius-4xl: 2rem;
+  
+  /* Custom shadows */
+  --shadow-glow: 0 0 20px rgb(59 130 246 / 0.5);
+  --shadow-glow-lg: 0 0 40px rgb(59 130 246 / 0.6);
+  
+  /* Animation durations */
+  --animate-duration-2000: 2000ms;
+  --animate-duration-3000: 3000ms;
+}
+
+/* Dark mode specific theme variables */
+@media (prefers-color-scheme: dark) {
+  @theme {
+    --color-primary-50: #1e293b;
+    --color-primary-100: #334155;
+    --color-primary-200: #475569;
+    --color-primary-300: #64748b;
+    --color-primary-400: #94a3b8;
+  }
+}

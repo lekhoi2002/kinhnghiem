@@ -1,0 +1,71 @@
+/* Table of Contents Styles - Mobile Only */
+
+/* Mobile TOC Styles */
+.toc-mobile .toc-nav-mobile ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.toc-mobile .toc-nav-mobile ul ul {
+  padding-left: 1rem;
+  margin-top: 0.25rem;
+}
+
+.toc-mobile .toc-nav-mobile li {
+  margin-bottom: 0.5rem;
+}
+
+.toc-mobile .toc-nav-mobile a {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  color: #4b5563;
+  text-decoration: none;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  transition: all 0.2s ease-in-out;
+  border-left: 3px solid transparent;
+}
+
+.dark .toc-mobile .toc-nav-mobile a {
+  color: #9ca3af;
+}
+
+.toc-mobile .toc-nav-mobile a:hover {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  border-left-color: #3b82f6;
+}
+
+.dark .toc-mobile .toc-nav-mobile a:hover {
+  background-color: #4b5563;
+  color: #f9fafb;
+  border-left-color: #60a5fa;
+}
+
+.toc-mobile .toc-nav-mobile a.active {
+  background-color: #dbeafe;
+  color: #1e40af;
+  border-left-color: #3b82f6;
+  font-weight: 500;
+}
+
+.dark .toc-mobile .toc-nav-mobile a.active {
+  background-color: #1e3a8a;
+  color: #bfdbfe;
+  border-left-color: #60a5fa;
+}
+
+/* Hide H4, H5, H6 from mobile TOC */
+.toc-mobile .toc-nav-mobile ul ul ul {
+  display: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .toc-mobile .toc-nav-mobile a {
+    padding: 0.375rem 0.5rem;
+    font-size: 0.8125rem;
+  }
+}

@@ -1,0 +1,91 @@
+<div class="{{ .Site.Params.base_color }}">
+  <div class="container max-w-screen-xl mr-auto ml-auto">
+    <nav class="flex items-center justify-between flex-wrap {{ .Site.Params.base_color }} p-6">
+      <div class="flex items-center flex-no-shrink {{ .Site.Params.base_color }} text-white mr-6">
+        <a href="{{ .Site.BaseURL }}" class="flex items-center">
+          {{ if .Site.Params.logo }} <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Params.logo_alt | default
+          .Site.Title }}" style="width: {{ .Site.Params.logo_width | default "auto" }}; height: {{
+          .Site.Params.logo_height | default "auto" }};" /> {{ else }}
+          <span class="font-semibold text-2xl tracking-tight">{{ .Site.Title }}</span>
+          {{ end }}
+        </a>
+      </div>
+      <div class="flex md:hidden">
+        <div class="py-2">
+          <button class="dark-mode-toggler focus:outline-none mr-1" aria-label="Darkmode Toggle Button">
+            <svg
+              id="icon"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="w-6 h-6 text-white"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z"
+              />
+            </svg>
+          </button>
+          <span class="text-white">|</span>
+        </div>
+        <button
+          id="hamburgerbtn"
+          class="flex items-center px-3 py-1 text-white hover:opacity-50"
+          aria-label="Hamburger Button"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+          </svg>
+        </button>
+      </div>
+      <div class="hidden w-full md:flex md:flex-row sm:items-center md:w-auto" id="mobileMenu">
+        <div class="text-sm lg:flex-grow"></div>
+        <div class="navmenu">
+          {{ range .Site.Menus.main }}
+          <a
+            href="{{ .URL }}"
+            class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4"
+          >
+            {{ .Name }}
+          </a>
+          {{ end }}
+        </div>
+        <div class="text-white invisible md:visible flex items-center">
+          {{ if .IsTranslated }} {{ range .AllTranslations }} {{ if ne .Language.Lang $.Site.Language.Lang }}
+          <a href="{{ .Permalink }}" class="no-underline duration-200 sm:inline-block text-white hover:opacity-50 mr-4"
+            >{{ .Language.LanguageName }}</a
+          >
+          {{ end }} {{ end }} {{ end }}
+          <span class="mx-2">|</span>
+          <button class="dark-mode-toggler focus-visible:outline-none" aria-label="Darkmode Toggle Button">
+            <svg
+              id="icon2"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="w-6 h-6 hover:opacity-50 duration-200"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>

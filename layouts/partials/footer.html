@@ -1,0 +1,87 @@
+<footer class="{{ .Site.Params.base_color }} text-white p-6">
+  {{ if .Site.Menus.foot }}
+  <div class="flex justify-center w-full md:flex md:flex-row sm:items-center sm:w-auto mb-4">
+    <div>
+      {{ range .Site.Menus.foot }}
+      <a href="{{ .URL }}" class="no-underline block sm:inline-block duration-200 text-white hover:opacity-50">
+        {{ .Name }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+  <div class="container max-w-screen-xl mr-auto ml-auto">
+    <p>
+      &copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}" class="duration-200 hover:opacity-50">{{ .Site.Title }}</a>
+    </p>
+  </div>
+  {{ if .Site.Params.ad.googleAdSense }}
+  <script>
+    (function (window, document) {
+      function main() {
+        var ad = document.createElement('script');
+        ad.async = true;
+        ad.src =
+          'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.ad.googleAdSense }}';
+        ad.crossOrigin = 'anonymous';
+        var sc = document.getElementsByTagName('script')[0];
+        sc.parentNode.insertBefore(ad, sc);
+      }
+
+      var lazyLoad = false;
+      function onLazyLoad() {
+        if (lazyLoad === false) {
+          lazyLoad = true;
+          window.removeEventListener('scroll', onLazyLoad);
+          window.removeEventListener('mousemove', onLazyLoad);
+          window.removeEventListener('mousedown', onLazyLoad);
+          window.removeEventListener('touchstart', onLazyLoad);
+          window.removeEventListener('keydown', onLazyLoad);
+          main();
+        }
+      }
+      window.addEventListener('scroll', onLazyLoad);
+      window.addEventListener('mousemove', onLazyLoad);
+      window.addEventListener('mousedown', onLazyLoad);
+      window.addEventListener('touchstart', onLazyLoad);
+      window.addEventListener('keydown', onLazyLoad);
+      window.addEventListener('load', function () {
+        if (window.pageYOffset) {
+          onLazyLoad();
+          window.setTimeout(onLazyLoad, 3000);
+        }
+      });
+    })(window, document);
+  </script>
+  {{ end }}
+  <script>
+    const icon = document.getElementById('icon');
+    const icon2 = document.getElementById('icon2');
+    const sunPath = `<path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-4.773-4.227-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Z" />`;
+    const moonPath = `<path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" />`;
+
+    function setDarkMode(isDark) {
+      if (isDark) {
+        document.documentElement.classList.add('dark');
+        icon.innerHTML = sunPath;
+        icon2.innerHTML = sunPath;
+        localStorage.theme = 'dark';
+      } else {
+        document.documentElement.classList.remove('dark');
+        icon.innerHTML = moonPath;
+        icon2.innerHTML = moonPath;
+        localStorage.theme = 'light';
+      }
+    }
+
+    // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+    const prefersDark =
+      localStorage.theme === 'dark' ||
+      (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    setDarkMode(prefersDark);
+
+    function toggleDarkMode() {
+      setDarkMode(!document.documentElement.classList.contains('dark'));
+    }
+  </script>
+</footer>
