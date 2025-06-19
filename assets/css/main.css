@@ -18,12 +18,7 @@
   }
 
   html {
-    font-family:
-      system-ui,
-      -apple-system,
-      "Segoe UI",
-      Roboto,
-      sans-serif;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
     line-height: 1.6;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
@@ -36,16 +31,14 @@
     padding: 0;
     min-height: 100vh;
     font-size: 1.1rem;
-    background-color: theme("colors.gray.50");
-    color: theme("colors.gray.900");
-    transition:
-      background-color 0.2s ease-in-out,
-      color 0.2s ease-in-out;
+    background-color: theme("colors.neutral.50");
+    color: theme("colors.neutral.900");
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   }
 
   .dark body {
-    background-color: theme("colors.warmgray.900");
-    color: theme("colors.gray.100");
+    background-color: theme("colors.neutral.900");
+    color: theme("colors.neutral.100");
   }
 
   /* Enhanced typography */
@@ -80,27 +73,27 @@
   }
 
   a {
-    color: theme("colors.primary.600");
+    color: theme("colors.amber.500");
     text-decoration: none;
     transition: color 0.2s ease-in-out;
   }
 
   a:hover {
-    color: theme("colors.primary.700");
+    color: theme("colors.amber.600");
     text-decoration: underline;
   }
 
   .dark a {
-    color: theme("colors.primary.400");
+    color: theme("colors.amber.400");
   }
 
   .dark a:hover {
-    color: theme("colors.primary.300");
+    color: theme("colors.amber.500");
   }
 
   /* Enhanced focus styles */
   :focus-visible {
-    outline: 2px solid theme("colors.primary.500");
+    outline: 2px solid theme("colors.amber.500");
     outline-offset: 2px;
     border-radius: 0.25rem;
   }
@@ -114,24 +107,23 @@
 
   /* Code blocks */
   code {
-    background-color: theme("colors.gray.100");
-    color: theme("colors.gray.800");
+    background-color: theme("colors.neutral.200");
+    color: theme("colors.neutral.800");
     padding: 0.125rem 0.25rem;
     border-radius: 0.25rem;
     font-size: 0.875em;
-    font-family:
-      "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas,
+    font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas,
       "Courier New", monospace;
   }
 
   .dark code {
-    background-color: theme("colors.warmgray.800");
-    color: theme("colors.gray.200");
+    background-color: theme("colors.neutral.800");
+    color: theme("colors.neutral.200");
   }
 
   pre {
-    background-color: theme("colors.gray.900");
-    color: theme("colors.gray.100");
+    background-color: theme("colors.neutral.800");
+    color: theme("colors.neutral.100");
     padding: 1rem;
     border-radius: 0.5rem;
     overflow-x: auto;
@@ -146,13 +138,13 @@
 
   /* Selection styles */
   ::selection {
-    background-color: theme("colors.primary.200");
-    color: theme("colors.primary.900");
+    background-color: theme("colors.amber.200");
+    color: theme("colors.amber.900");
   }
 
   .dark ::selection {
-    background-color: theme("colors.primary.800");
-    color: theme("colors.primary.100");
+    background-color: theme("colors.amber.800");
+    color: theme("colors.amber.100");
   }
 
   /* Scrollbar styling */
@@ -162,28 +154,28 @@
   }
 
   ::-webkit-scrollbar-track {
-    background: theme("colors.gray.100");
+    background: theme("colors.neutral.100");
   }
 
   ::-webkit-scrollbar-thumb {
-    background: theme("colors.gray.400");
+    background: theme("colors.neutral.400");
     border-radius: 4px;
   }
 
   ::-webkit-scrollbar-thumb:hover {
-    background: theme("colors.gray.500");
+    background: theme("colors.neutral.500");
   }
 
   .dark ::-webkit-scrollbar-track {
-    background: theme("colors.warmgray.800");
+    background: theme("colors.neutral.800");
   }
 
   .dark ::-webkit-scrollbar-thumb {
-    background: theme("colors.warmgray.600");
+    background: theme("colors.neutral.600");
   }
 
   .dark ::-webkit-scrollbar-thumb:hover {
-    background: theme("colors.warmgray.500");
+    background: theme("colors.neutral.500");
   }
 }
 
